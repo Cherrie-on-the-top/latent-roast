@@ -9,7 +9,7 @@ window.LR_DATA = {
   "meta": {
     "title": "Latent Roast",
     "subtitle": "豪力的咖啡数据实验室",
-    "updated": "2026-10-31",
+    "updated": "2026-11-01",
     "location": "纽约 · 海拔 0 ft"
   },
   "curriculum": {
@@ -2087,6 +2087,80 @@ window.LR_DATA = {
       "try_big": "看粉",
       "image": "images/2026-10-31.png",
       "tag": ""
+    },
+    {
+      "date": "2026-11-01",
+      "code": "IN1",
+      "branch": "行业与文化",
+      "level": "入门",
+      "lesson_no": 28,
+      "title": "纽约咖啡地图",
+      "summary": "纽约的咖啡地图不是按区画的，是按“谁烘、怎么烘”一层层长出来的：熟食店的商品豆，2003 年起的先锋咖啡馆，外地名牌烘焙商进城，再到 2010 年代布鲁克林的本地烘焙潮。找一杯合你口味的咖啡，先看烘焙风格，再看地址。",
+      "body": "**第一层：熟食店的蓝杯子。** Village Voice 2017 年的长文写得很直：不久前，纽约咖啡几乎都是熟食店和小餐馆卖的商品豆，喝它是为了提神，不是为了享受；那只希腊风的 Anthora 蓝白纸杯就是标志。Liz Clayton 的看法是，纽约守着老喝法比别的城市都久，所以精品咖啡来得晚，一来就很猛。\n\n**第二层：先锋咖啡馆（2003 年起）。** 2003 年 Ithaca 的 Gimme! Coffee 在 Williamsburg 开店；2005 年 Café Grumpy 开在 Greenpoint，之后进了曼哈顿，和 Ninth Street Espresso、Joe 一起，把“按单冲煮、自己选豆子”带给纽约人。早期这些店多半不自己烘，用的是 Counter Culture、Intelligentsia、Stumptown 这些外地烘焙商的豆子。\n\n**第三层：外地名牌进城，然后被资本收购。** Stumptown 2009 年进驻 Ace Hotel，后来在 Red Hook 开烘焙厂；La Colombe、Intelligentsia、Blue Bottle 也来了。到 2015 年，Intelligentsia 和 Stumptown 被 JAB 旗下的 Peet's 收购，Blue Bottle 融了约 7,500 万美元。Intelligentsia 的 Doug Zell 说：纽约开店和生活都贵，房租是门槛。\n\n**第四层：本地烘焙潮。** Eater NY 2017 年报道：Variety 的 Erika Vonie 认为，大品牌被收购后，市场给小烘焙商留出了空位；自己烘还能控制更多供应链。真正的门槛是装烘焙机和排烟要几十万美元，所以 Red Hook 的 Pulley Collective 按半天出租烘焙机，Joe 和 Ninth Street 都在那里学着自己烘。Blue Bottle 2017 年 1 月在 Bushwick 开了烘焙厂。Fresh Cup 2016 年的文章补上了另一半地图：Bronx 的 Uptown Roasters（2014 年起）、Queens 的 For Five（约 1,100 家批发客户）、Washington Heights 的 Taszo 用 Devoción 的哥伦比亚豆。\n\n**这张地图对你有什么用。** 同一座城里，风格差很远：Eater 写 Sey 主打“北欧式浅烘、明亮”，这类杯子酸质突出；你喜欢低酸、丝滑饱满、柔和，更该找写着拼配、巧克力、醇厚度的豆子。Devoción 今天的菜单就是现成的例子：手冲吧台是 La Riviera Culturing NIU，官方写“鲜明的百香果酸质”，用了 144 小时以上的发酵；Special Drip 是秋季拼配 Dorado Blend，写的是牛奶巧克力、橙、像枫糖浆一样的醇厚度。你 9/25 在那里喝的冰拿铁觉得没味道，冰和奶都会把味道冲淡；要评价一家店，先点一杯热的黑咖啡。",
+      "takeaways": [
+        "纽约精品咖啡大致四层：熟食店商品豆 → 2003 年起的先锋咖啡馆 → 外地名牌进城与 2015 年前后的资本收购 → 2010 年代布鲁克林本地烘焙潮。",
+        "本地烘焙潮的底层原因：大品牌被收购留出空位，自己烘能控制供应链；烘焙机和排烟很贵，所以出现了 Pulley Collective 这种按半天出租的共享烘焙厂。",
+        "找合口味的店，先看烘焙风格和菜单用词，再看地址：北欧式浅烘、发酵处理偏酸亮；拼配、巧克力、醇厚度更接近你的低酸丝滑。"
+      ],
+      "try_today": "1. 早上冲，下午不喝咖啡。\n2. 配方不变：S3 刻度 6.6 / 粉重 30 g / 水量 350 g / 93 °C，目标总时间 **3:00–3:15**。还没有第 3 杯的数据，所以今天不改变量。\n3. 冲前校零点：锁紧旋钮顺时针拧到最紧，外圈顺时针转到底对准 0，再逆时针转到 6.6。\n4. 先按秤上的 Timer 键，看到读数在走再注水。下面每段写的是计时器读数（开始时刻，从按下 Timer 累计）：每段一开始就注水，注到目标克数后就等，其余时间是滴滤。\n   - 0:00–0:40 闷蒸：开头约 10 秒绕圈注到 60 g，然后等。\n   - 0:40–1:10 第 2 段：注到 150 g，然后等。\n   - 1:10–1:40 第 3 段：注到 250 g，然后等。\n   - 1:40 起第 4 段：注到 350 g，然后等滴滤结束，记下总时间。\n5. 今天是周日，想出门的话，上午去一家 Devoción（曼哈顿有 NoMad 1134 Broadway、Flatiron 25 E 20th St，周末 7:30 开门），点一杯热的 Special Drip「Dorado Blend」，不加冰、不加奶。它和 Giant Steps 都是巧克力系拼配，正好对照：比一比醇厚度和酸。\n6. 练读菜单：看到“北欧式浅烘”“vibrant acidity”“发酵 / Culturing”，多半偏酸亮；看到“拼配”“巧克力”“body / 醇厚度”，更接近你的口味。\n7. 把总时间和三个词的口感发给我（语音也行），我记进 Coffee Log。",
+      "sources": [
+        {
+          "label": "Village Voice · Stay Woke: Inside the Third-Wave Coffee Revolution（Liz Clayton，2017）",
+          "url": "https://www.villagevoice.com/stay-woke/",
+          "reliability": "中高 · 资深咖啡记者的长文，有多位店主和 CEO 的直接引语；2017 年的文章，之后的变化没写进去"
+        },
+        {
+          "label": "Fresh Cup · New York's Own Coffee（Rachel Northrop，2016）",
+          "url": "https://freshcup.com/new-yorks-own-coffee/",
+          "reliability": "中高 · 咖啡行业杂志：列出纽约本地烘焙商谱系，写了 Bronx、Harlem、Queens 的店；2016 年的数据"
+        },
+        {
+          "label": "Eater NY · Coffee Roasters Are Opening in New York Faster Than Ever（Melissa McCart，2017）",
+          "url": "https://ny.eater.com/2017/8/25/16202348/coffee-roasters-new-york-brooklyn",
+          "reliability": "中 · 餐饮媒体新闻：本地烘焙潮的原因、Pulley Collective、Blue Bottle Bushwick 烘焙厂；篇幅短"
+        },
+        {
+          "label": "Devoción 官网 · Visit our cafés",
+          "url": "https://www.devocion.com/pages/cafes",
+          "reliability": "中高 · 店家官方：门店地址、营业时间、当季菜单和风味描述；风味描述属于宣传"
+        }
+      ],
+      "illustration_prompt": "Hand-drawn sketchbook comic, black ink with soft sage-green and cream watercolor on cream paper #F4EEE1, 16:9. A loose watercolor map of New York City: Manhattan skyline, East River, a small bridge. Cute characters with faces: a paper deli coffee cup and a ceramic pour-over dripper in Manhattan, a sage-green hand grinder with round glasses holding a map in the middle, a small roaster machine puffing steam and a rooftop water tower in Brooklyn. Large empty upper-left and top-center for speech bubbles. No text.",
+      "image_alt": "手绘水彩：一张纽约地图，左边是曼哈顿的高楼，旁边一只微笑的熟食店纸杯和一个皱眉的手冲滤杯；中间一座小桥跨过河，一个戴圆眼镜的绿色手摇磨豆机拿着地图；右边布鲁克林有一台冒着热气、带笑脸的烘焙机和一座水塔。左上和中上留白给气泡。",
+      "bubbles": [
+        {
+          "text": "纽约这么多店，\n从哪喝起？",
+          "x": 4,
+          "y": 5,
+          "tail": "left"
+        },
+        {
+          "text": "先看**烘焙风格**，\n再看地图",
+          "x": 34,
+          "y": 5,
+          "tail": "left"
+        }
+      ],
+      "gradient": {
+        "label": "从熟食店到本地烘焙（大致）",
+        "steps": [
+          {
+            "label": "熟食店 · 商品豆",
+            "color": "#5B4636"
+          },
+          {
+            "label": "先锋咖啡馆 · 2003 起",
+            "color": "#9CAF94"
+          },
+          {
+            "label": "本地烘焙潮 · 2010s",
+            "color": "#D9BE55"
+          }
+        ]
+      },
+      "try_big": "先看风格",
+      "image": "images/2026-11-01.png",
+      "tag": ""
     }
   ],
   "beans": [
@@ -2108,7 +2182,7 @@ window.LR_DATA = {
     "grind": "6.6",
     "grindPrev": "6.6",
     "target": "3:00–3:15",
-    "why": "<b>第 2 杯结果</b>（2026-10-03，养豆第 17 天）：S3 6.6 / 93 °C / 30 g : 350 g。总时间约 3:45。这是估计值，因为没有按 Timer。总时间偏长，原因是注水操作，不是研磨。豪力的评分是 5.5–6 / 10。<br><br><b>热的时候</b>：酸感仍明显，但入口顺了很多。咽下后不回酸。尾韵偏醇厚。这杯不明亮，也不算美味。<br><br><b>放凉后</b>（放到午饭后）：入口很浓。酸感仍在。苦味浮出来了，热的时候尝不出。原因有三个。第一，咖啡变凉后，甜感变弱，压不住苦味。第二，绿原酸内酯会慢慢分解成奎宁酸。奎宁酸又酸又涩。第三，变凉会暴露萃取不均或萃取过度。深烘豆变凉后更容易发苦。请趁热喝。<br><br><b>香气</b>：整豆、研磨后和杯里的香气都弱，像普通热美式，比新鲜挂耳还弱。原因有两个。第一，深烘拼配的香气本来就内敛。第二，到养豆第 17 天，挥发性香气已经随 CO₂ 散失，并且氧化了。挂耳每包都充氮密封，所以香气留在包里，打开时一次释放。<br><br><b>品鉴技巧</b>：用舌尖小口喝，然后直接咽下。这样尝到的酸感少很多。<br><br><b>下次改</b>：这一杯不改研磨，只把计时做准。S3 保持 6.6。先按 Timer，再严格按下面注水表的开始时刻注水。测出真实总时间。目标是 3:00–3:15。<br><br><br><br><b>今日课 GR4</b>：磨豆机磨出的是一个分布，不是一个尺寸。刻度 6.6 只决定主峰在哪；细粉带来苦涩、拖慢滴滤，大颗粒带来酸和单薄。配方仍不改，只加一步“看粉”：取约 1 g 粉撒在白纸上拍照。明天 IN1 讲纽约咖啡地图。",
+    "why": "<b>第 2 杯结果</b>（2026-10-03，养豆第 17 天）：S3 6.6 / 93 °C / 30 g : 350 g。总时间约 3:45。这是估计值，因为没有按 Timer。总时间偏长，原因是注水操作，不是研磨。豪力的评分是 5.5–6 / 10。<br><br><b>热的时候</b>：酸感仍明显，但入口顺了很多。咽下后不回酸。尾韵偏醇厚。这杯不明亮，也不算美味。<br><br><b>放凉后</b>（放到午饭后）：入口很浓。酸感仍在。苦味浮出来了，热的时候尝不出。原因有三个。第一，咖啡变凉后，甜感变弱，压不住苦味。第二，绿原酸内酯会慢慢分解成奎宁酸。奎宁酸又酸又涩。第三，变凉会暴露萃取不均或萃取过度。深烘豆变凉后更容易发苦。请趁热喝。<br><br><b>香气</b>：整豆、研磨后和杯里的香气都弱，像普通热美式，比新鲜挂耳还弱。原因有两个。第一，深烘拼配的香气本来就内敛。第二，到养豆第 17 天，挥发性香气已经随 CO₂ 散失，并且氧化了。挂耳每包都充氮密封，所以香气留在包里，打开时一次释放。<br><br><b>品鉴技巧</b>：用舌尖小口喝，然后直接咽下。这样尝到的酸感少很多。<br><br><b>下次改</b>：这一杯不改研磨，只把计时做准。S3 保持 6.6。先按 Timer，再严格按下面注水表的开始时刻注水。测出真实总时间。目标是 3:00–3:15。<br><br><br><br><b>今日课 IN1</b>：纽约咖啡地图是按“谁烘、怎么烘”一层层长出来的：熟食店商品豆、先锋咖啡馆、外地名牌进城、布鲁克林本地烘焙潮。配方不改；想出门就上午去 Devoción 点一杯热的 Dorado Blend，和 Giant Steps 对照。明天 TA3 讲杯测入门。",
     "prep": [
       "S3 归零：把外圈顺时针转到底，让“0”对准红标。",
       "把外圈<b>逆时针转到 6.6</b>。（不归零也可以：从 7.0 顺时针调细 4 格。）",
@@ -2496,6 +2570,15 @@ window.LR_DATA = {
     ]
   },
   "changelog": [
+    {
+      "date": "2026-11-01",
+      "items": [
+        "推送 Morning Gradient 第 28 课 IN1「纽约咖啡地图」（来源：Village Voice 2017；Fresh Cup 2016；Eater NY 2017；Devoción 官网门店与菜单页）。",
+        "配图：方向 A 手绘水彩，images/2026-11-01.png。",
+        "今日冲煮计划仍是第 3 杯：S3 6.6 / 93 °C / 30:350 / 目标总时间 3:00–3:15；新增可选的门店对照：上午去 Devoción 点热的 Dorado Blend。",
+        "Giant Steps 养豆第 46 天，约 280 g。新闻：Blue Bottle 美国门店默认奶改回牛奶；哥本哈根大学研究称影响咖啡味道的是碱度而不是硬度；旧金山 Outset Coffee 因房东纠纷关掉两家店。"
+      ]
+    },
     {
       "date": "2026-10-31",
       "items": [

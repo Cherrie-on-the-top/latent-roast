@@ -9,7 +9,7 @@ window.LR_DATA = {
   "meta": {
     "title": "Latent Roast",
     "subtitle": "豪力的咖啡数据实验室",
-    "updated": "2026-11-02",
+    "updated": "2026-11-03",
     "location": "纽约 · 海拔 0 ft"
   },
   "curriculum": {
@@ -2230,6 +2230,65 @@ window.LR_DATA = {
       "try_big": "1:18",
       "image": "images/2026-11-02.png",
       "tag": ""
+    },
+    {
+      "date": "2026-11-03",
+      "code": "复习",
+      "branch": "复盘",
+      "level": "入门",
+      "lesson_no": 30,
+      "title": "第一个月复盘 · 一张图收住 29 课",
+      "summary": "29 课讲下来，可以收成一句话：杯子的味道主要由两个数决定，浓度（TDS）和萃取率（EY）；研磨、水温、总时间、注水，都只是把这两个数推到某个位置的手段。你要的低酸、丝滑饱满，方向是“萃取率往上推一点，浓度不必更高”。而这个月真正缺的不是知识，是第 3 杯的数据。",
+      "body": "**一个月学了什么。** 10/3 从 EX1「偏酸 = 萃取不足？」开始，一路讲了萃取原理、研磨、水温、粉水比、水、注水、滤杯、产区、处理法、豆种、品鉴、存豆、清洁、刻度地图、杯测，共 29 课。拆开看很多，合起来其实是一张图：横轴萃取率，纵轴浓度。\n\n**今天再用一篇论文把它钉牢。** UC Davis 的 Batali 等人（2020）用同一支豆、同一台滴滤机，把浓度和萃取率各做到 9 个目标点，再分别用 87 / 90 / 93 °C 冲，训练过的品鉴小组盲测 31 个风味。结论有三条：① 浓度和萃取率固定时，水温几乎尝不出差别（31 个属性里只有“坚果”有很小的差异）。② “酸”是变化最大的属性：浓度高、萃取率低时最酸，萃取率升高后明显下降；作者推测是有机酸溶得快，后面慢慢萃出的苦味和烘焙味把它“盖住”。③ 苦、涩、醇厚（Viscous）主要跟着浓度走，和萃取率关系不显著。\n\n**对你这袋 Giant Steps 的意思。** 第 1 杯 S3 刻度 7.0、总时间 2:30，偏酸、醇厚度不足：萃取率偏低。第 2 杯调细到 6.6，入口顺了、咽下不回酸，但总时间约 3:45 是估计值（误按了秤的另一个键），放凉后发苦。按这篇论文的图：酸减少，说明萃取率往上走了；凉了发苦，更可能是浓度偏高或萃取不均，而不是水温问题。所以水温 93 °C 继续不动，下一步唯一要做的，是把总时间测准，看 6.6 到底落在图上的哪里。\n\n**诚实的一句。** 从 10/3 到今天，第 3 杯一直没冲。课程再多，没有新数据，配方就只能停在原地。豆子养豆第 48 天，深烘拼配的香气在走下坡；趁还剩约 280 g，冲一杯把总时间记下来，比再读十课更有用。",
+      "takeaways": [
+        "整个月的地图：味道主要由浓度（TDS）和萃取率（EY）决定。研磨、水温、总时间、注水都是推动这两个数的手段，一次只动一个变量。",
+        "UC Davis 盲测：浓度和萃取率固定时，87–93 °C 几乎尝不出差别；酸随萃取率升高而下降，苦和醇厚主要跟着浓度走。",
+        "你的下一步不是新知识，而是第 3 杯：S3 刻度 6.6、按下 Timer、测准总时间。有了这个数，才知道往哪边调。"
+      ],
+      "try_today": "1. 早上冲，下午不喝。配方不变：S3 刻度 6.6 / 粉重 30 g / 水量 350 g / 93 °C，目标总时间 **3:00–3:15**。\n2. 先按秤上的 Timer 键，看到读数在走再注水。下面的时间都是计时器读数（开始时刻），从按下 Timer 开始累计：\n   - 0:00 开始闷蒸，注到 60 g，然后等。\n   - 0:40 开始第 2 段，注到 150 g，然后等。\n   - 1:10 开始第 3 段，注到 250 g，然后等。\n   - 1:40 开始第 4 段，注到 350 g，然后等滴滤结束。\n3. 滴滤结束时看计时器读数，这就是总时间。\n4. 热的时候喝一口、放凉再喝一口，各说一句：酸不酸、苦不苦、醇厚度够不够，再给一个评分 1–5。\n5. 语音发给我就行，我记进 Coffee Log，明天按这个数给第 4 杯的调整。",
+      "sources": [
+        {
+          "label": "Batali, Ristenpart, Guinard · Brew temperature, at fixed brew strength and extraction, has little impact on the sensory profile of drip brew coffee（Scientific Reports，2020-10-05）",
+          "url": "https://www.nature.com/articles/s41598-020-73341-4",
+          "reliability": "高 · UC Davis 同行评审、训练品鉴小组盲测；但用的是商用平底滴滤机和一支中烘水洗豆，不是 Blue Bottle 滤杯和深烘拼配"
+        }
+      ],
+      "illustration_prompt": "Hand-drawn sketchbook comic, black ink with soft sage-green and cream watercolor on cream paper #F4EEE1, 16:9. A white ceramic cone dripper character at a wooden desk looks back over a month calendar sketchbook, hand on chin; a sage-green hand grinder with round glasses, a gooseneck kettle, a kitchen scale with dials, a small hourglass and a half-empty bean sack with spilled beans. Large empty upper-left area for speech bubbles. No text.",
+      "image_alt": "手绘水彩：一只白色滤杯托着下巴，坐在木桌前翻看一整个月的日历本；旁边是戴圆眼镜的绿色手摇磨豆机、手冲壶、带表盘的秤、一个小沙漏，还有一只半空的豆袋，洒出几颗豆子。左上留白给气泡。",
+      "bubbles": [
+        {
+          "text": "学了 29 课……\n到底记住什么？",
+          "x": 4,
+          "y": 5,
+          "tail": "left"
+        },
+        {
+          "text": "两个数：**浓度、萃取率**\n下一步：测准第 3 杯",
+          "x": 4,
+          "y": 30,
+          "tail": "left"
+        }
+      ],
+      "gradient": {
+        "label": "酸随萃取率升高而下降（UC Davis 滴滤盲测，示意）",
+        "steps": [
+          {
+            "label": "萃取率低 · 最酸",
+            "color": "#D9BE55"
+          },
+          {
+            "label": "萃取率中 · 酸减弱",
+            "color": "#9CAF94"
+          },
+          {
+            "label": "萃取率高 · 烘焙味盖住酸",
+            "color": "#5B4636"
+          }
+        ]
+      },
+      "try_big": "3:00–3:15",
+      "image": "images/2026-11-03.png",
+      "tag": ""
     }
   ],
   "beans": [
@@ -2639,6 +2698,15 @@ window.LR_DATA = {
     ]
   },
   "changelog": [
+    {
+      "date": "2026-11-03",
+      "items": [
+        "推送 Morning Gradient 第 30 课「第一个月复盘」（来源：Batali, Ristenpart, Guinard 2020，Scientific Reports）。这是课程总表里最后一节已排的课。",
+        "配图：方向 A 手绘水彩，images/2026-11-03.png。",
+        "今日冲煮计划仍是第 3 杯：S3 6.6 / 93 °C / 30:350 / 目标总时间 3:00–3:15，重点是按下 Timer、测准总时间。",
+        "Giant Steps 养豆第 48 天，约 280 g。新闻：Wilfa 在美国成立分公司并推出新滴滤机和 Uniform EVO 磨豆机（Daily Coffee News，11/2）。"
+      ]
+    },
     {
       "date": "2026-11-02",
       "items": [

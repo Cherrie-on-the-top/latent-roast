@@ -9,7 +9,7 @@ window.LR_DATA = {
   "meta": {
     "title": "Latent Roast",
     "subtitle": "豪力的咖啡数据实验室",
-    "updated": "2026-11-03",
+    "updated": "2026-11-04",
     "location": "纽约 · 海拔 0 ft"
   },
   "curriculum": {
@@ -2289,6 +2289,65 @@ window.LR_DATA = {
       "try_big": "3:00–3:15",
       "image": "images/2026-11-03.png",
       "tag": ""
+    },
+    {
+      "date": "2026-11-04",
+      "code": "TA4",
+      "branch": "品鉴与风味",
+      "level": "入门",
+      "lesson_no": 31,
+      "title": "嗅觉入门 · 鼻前嗅与鼻后嗅",
+      "summary": "咖啡的“味道”大半其实是气味。同一批香气分子走两条路到鼻子顶端：凑近杯口吸进去，是鼻前嗅；喝进嘴里、呼气时从喉咙后面上去，是鼻后嗅。第二阶段从这里开始：先学会分开用这两条路，再谈香气分子和豆子。",
+      "body": "**两条路，一个终点。** 闻香和尝味靠的是不同的器官：舌头只分辨酸、甜、苦、咸、鲜，巧克力、坚果、焦糖这些描述全部来自鼻腔顶部的嗅觉区。香气分子到那里有两条路：一条从鼻孔进（鼻前嗅，喝之前闻杯子），一条从口腔后方经过软腭上去（鼻后嗅，含着咖啡或咽下后呼气）。我们常说的“尝到巧克力味”，其实是鼻后嗅，只是大脑把它算到了嘴里。\n\n**为什么两条路闻到的不一样。** 嘴里的咖啡被体温加热、被舌头搅动，又混着味觉信号一起进大脑。俄亥俄州立大学 Paravisini 等人（2019）做过一个干净的实验：把同一份咖啡香气提取物分别加进 7 种苦味物质，鼻前嗅（直接闻）小组分不出区别，仪器测到的挥发出来的香气也几乎不变；但含在嘴里用鼻后嗅评，焦糊、焦糖这些香气的强度差了最多 4 分（10 分制）。结论是：苦味不改变飘出来的分子，改变的是大脑怎么“读”这些分子。\n\n**对你这袋 Giant Steps 的意思。** 第 1 杯你写过“香气和入口的酸感反差大”，第 2 杯写“香气弱，像普通热美式”。这两句都是鼻前嗅的记录。今天加一件事：喝的时候刻意做一次鼻后嗅，看巧克力、烘焙味是不是在嘴里才出来。深烘拼配杯口香气内敛，在嘴里反而更完整，这是很常见的情况。另外 Paravisini 的结果也提醒一点：苦味会改变你在嘴里闻到的东西，所以萃取得更均匀、苦少一点，鼻后嗅到的香气也会跟着变。",
+      "takeaways": [
+        "舌头只管酸、甜、苦、咸、鲜；巧克力、坚果、焦糖这些描述都来自嗅觉。",
+        "鼻前嗅＝凑近杯口吸气；鼻后嗅＝含着或咽下后从鼻子呼气。同一批分子，两条路，感受不同。",
+        "嘴里的苦味会改变鼻后嗅读到的香气（Paravisini 2019），所以冲煮均匀也会影响你“闻”到的东西。"
+      ],
+      "try_today": "1. 早上冲，下午不喝。配方不变：S3 刻度 6.6 / 粉重 30 g / 水量 350 g / 93 °C，目标总时间 **3:00–3:15**。\n2. 先按秤上的 Timer 键再注水。下面的时间都是计时器读数（开始时刻），从按下 Timer 开始累计：\n   - 0:00–0:40 闷蒸：开头约 10 秒注到 60 g，然后等。\n   - 0:40–1:10 第 2 段：注到 150 g，然后等。\n   - 1:10–1:40 第 3 段：注到 250 g，然后等。\n   - 1:40 起第 4 段：注到 350 g，然后等滴滤结束，记下总时间。\n3. **鼻前嗅**：杯子稍凉 1–2 分钟后，凑近杯口短吸 2–3 下，说一个词。\n4. **捏鼻子试验**：捏住鼻子喝一小口，只剩酸甜苦；含着别咽，松开鼻子、用鼻子慢慢呼气，这一下冒出来的就是鼻后嗅。再说一个词。\n5. 两个词不一样很正常。语音发给我，连同总时间和评分 1–5，我记进 Coffee Log。",
+      "sources": [
+        {
+          "label": "Paravisini, Soldavini, Peterson, Simons, Peterson · Impact of bitter tastant sub-qualities on retronasal coffee aroma perception（PLOS ONE，2019-10-03）",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223280",
+          "reliability": "高 · 同行评审，训练品鉴小组 + GC/MS；但用的是咖啡香气提取物加苦味物质，不是整杯手冲"
+        }
+      ],
+      "illustration_prompt": "Hand-drawn sketchbook comic, black ink with soft sage-green and cream watercolor on cream paper #F4EEE1, 16:9. A smiling white coffee cup with a green steam character sniffing above it (orthonasal), an amber aroma ribbon rising from an open mouth up into a nose (retronasal), a sage-green hand grinder with round glasses holding a magnifying glass. Empty upper-left for speech bubbles. No text.",
+      "image_alt": "手绘水彩：一只微笑的白色咖啡杯，杯口升起一缕带鼻子的绿色蒸汽在闻香；右边一条琥珀色香气从张开的嘴里绕上鼻子；戴圆眼镜的绿色手摇磨豆机举着放大镜在看。左上留白给气泡。",
+      "bubbles": [
+        {
+          "text": "闻着淡淡的……\n香气去哪了？",
+          "x": 4,
+          "y": 5,
+          "tail": "left"
+        },
+        {
+          "text": "含一口，**从鼻子呼气**\n鼻后嗅才是主场",
+          "x": 4,
+          "y": 30,
+          "tail": "left"
+        }
+      ],
+      "gradient": {
+        "label": "香气的两条路",
+        "steps": [
+          {
+            "label": "鼻前嗅 · 杯口吸气",
+            "color": "#9CAF94"
+          },
+          {
+            "label": "口中加热 + 味觉混入",
+            "color": "#D9BE55"
+          },
+          {
+            "label": "鼻后嗅 · 呼气时的“味道”",
+            "color": "#5B4636"
+          }
+        ]
+      },
+      "try_big": "2 条路",
+      "image": "images/2026-11-04.png",
+      "tag": ""
     }
   ],
   "beans": [
@@ -2698,6 +2757,15 @@ window.LR_DATA = {
     ]
   },
   "changelog": [
+    {
+      "date": "2026-11-04",
+      "items": [
+        "推送 Morning Gradient 第 31 课 TA4「嗅觉入门 · 鼻前嗅与鼻后嗅」，第二阶段（气味与豆子）开始（来源：Paravisini 等 2019，PLOS ONE）。",
+        "配图：方向 A 手绘水彩，images/2026-11-04.png。",
+        "今日冲煮计划仍是第 3 杯：S3 6.6 / 93 °C / 30:350 / 目标总时间 3:00–3:15；新增鼻前嗅 + 捏鼻子试验。",
+        "Giant Steps 养豆第 49 天，约 280 g。新闻：Keurig Dr Pepper 与 Luckin 公布季度财报（Daily Coffee News，11/3）。"
+      ]
+    },
     {
       "date": "2026-11-03",
       "items": [

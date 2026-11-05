@@ -9,7 +9,7 @@ window.LR_DATA = {
   "meta": {
     "title": "Latent Roast",
     "subtitle": "豪力的咖啡数据实验室",
-    "updated": "2026-11-04",
+    "updated": "2026-11-05",
     "location": "纽约 · 海拔 0 ft"
   },
   "curriculum": {
@@ -2348,6 +2348,65 @@ window.LR_DATA = {
       "try_big": "2 条路",
       "image": "images/2026-11-04.png",
       "tag": ""
+    },
+    {
+      "date": "2026-11-05",
+      "code": "TA5",
+      "branch": "品鉴与风味",
+      "level": "进阶",
+      "lesson_no": 32,
+      "title": "关键香气分子 · 咖啡香从哪来",
+      "summary": "咖啡里有上千种挥发物，但撑起香气的只是几十种“关键分子”。一种分子香不香，不看多少，看浓度超过闻觉阈值多少倍（OAV）。它们几乎都是烘焙时生出来的：美拉德反应和焦糖化给坚果、焦糖、面包香，绿原酸分解给烟熏、木质香。",
+      "body": "**多不等于香。** 2025 年北京工商大学 Chen 等人用 GC-O（仪器分离 + 人鼻子逐个闻）分析四款中烘阿拉比卡，共闻出 85 种有气味的物质。判断谁重要有两把尺：一是稀释多少倍还闻得到（FD 值），二是浓度除以闻觉阈值（OAV）。糠醇含量最高，但阈值也高，OAV 只有 17–31；4-乙烯基愈创木酚含量很低，阈值却只有 0.003 mg/kg，OAV 高达 340–761，是四款咖啡里影响最大的一个。\n\n**几个要记住的名字。** 吡嗪类（如 2,3,5-三甲基吡嗪）给坚果、可可香，拿掉它，Colombia 样品的巧克力坚果感明显下降；呋喃酮（furaneol）给焦糖、棉花糖香；愈创木酚和 4-乙烯基愈创木酚给木质、烟熏香；糠醛给杏仁、烤面包。前两类主要来自美拉德反应和糖的热分解，酚类来自绿原酸在烘焙中分解。\n\n**对你这袋 Giant Steps 的意思。** 它是深烘拼配，焦糖、可可、烟熏这几类分子本来就多，所以杯口香气“内敛”不是没有，是挥发性最强的那部分在养豆 50 天里散掉了，剩下的多是沸点高、要靠热和嘴里加温才出来的分子。所以今天不改配方，只改“闻”的方法：分三个时刻闻，给每次找一个大类。",
+      "takeaways": [
+        "香不香看 OAV（浓度 ÷ 阈值），不看含量：含量最高的糠醇贡献不如微量的 4-乙烯基愈创木酚。",
+        "吡嗪＝坚果可可，呋喃酮＝焦糖，愈创木酚类＝烟熏木质，糠醛＝杏仁烤面包。",
+        "这些分子几乎都在烘焙里生成：美拉德反应、焦糖化、绿原酸分解。深烘豆偏焦糖、可可、烟熏，就是这么来的。"
+      ],
+      "try_today": "1. 早上冲，下午不喝。配方不变：S3 刻度 6.6 / 粉重 30 g / 水量 350 g / 93 °C，目标总时间 **3:00–3:15**。\n2. 先按秤上的 Timer 键再注水。下面的时间都是计时器读数（开始时刻），从按下 Timer 开始累计：\n   - 0:00–0:40 闷蒸：开头约 10 秒注到 60 g，然后等。\n   - 0:40–1:10 第 2 段：注到 150 g，然后等。\n   - 1:10–1:40 第 3 段：注到 250 g，然后等。\n   - 1:40 起第 4 段：注到 350 g，然后等滴滤结束，记下总时间。\n3. **三次闻香**：① 磨完的干粉；② 闷蒸时的湿粉；③ 杯子稍凉后。每次只在“坚果 / 焦糖 / 烟熏”里挑一个最明显的。\n4. 把三个词连同总时间、评分 1–5 语音发我，我记进 Coffee Log。",
+      "sources": [
+        {
+          "label": "Chen, Wu, Wang, Sun, Chen · Identification of Key Aroma-Active Compounds in Commercial Coffee Using GC-O/AEDA and OAV Analysis（Foods，2025-09-13）",
+          "url": "https://www.mdpi.com/2304-8158/14/18/3192",
+          "reliability": "中高 · 同行评审，GC-O + 定量 + 重组/缺失实验；但只测了四款中烘水洗阿拉比卡粉，不是深烘拼配、也不是冲好的杯"
+        }
+      ],
+      "illustration_prompt": "Hand-drawn sketchbook comic, black ink with soft sage-green and cream watercolor on cream paper #F4EEE1, 16:9. A smiling white coffee cup whose steam turns into cute aroma characters: a hazelnut, a caramel drop, a smoke wisp, a piece of toast. A sage-green hand grinder with round glasses inspects them through a magnifying glass. Empty upper-left for speech bubbles. No text.",
+      "image_alt": "手绘水彩：微笑的白色咖啡杯冒出热气，热气变成榛子、焦糖滴、烟雾和吐司几个小角色；戴圆眼镜的绿色磨豆机举着放大镜在看。左上留白给气泡。",
+      "bubbles": [
+        {
+          "text": "上千种分子……\n谁才是主角？",
+          "x": 4,
+          "y": 5,
+          "tail": "left"
+        },
+        {
+          "text": "看 **OAV**：\n浓度 ÷ 阈值",
+          "x": 4,
+          "y": 30,
+          "tail": "left"
+        }
+      ],
+      "gradient": {
+        "label": "香气从哪来",
+        "steps": [
+          {
+            "label": "美拉德 · 坚果可可（吡嗪）",
+            "color": "#9CAF94"
+          },
+          {
+            "label": "焦糖化 · 焦糖（呋喃酮）",
+            "color": "#D9BE55"
+          },
+          {
+            "label": "绿原酸分解 · 烟熏（愈创木酚）",
+            "color": "#5B4636"
+          }
+        ]
+      },
+      "try_big": "3 次闻",
+      "image": "images/2026-11-05.png",
+      "tag": ""
     }
   ],
   "beans": [
@@ -2757,6 +2816,15 @@ window.LR_DATA = {
     ]
   },
   "changelog": [
+    {
+      "date": "2026-11-05",
+      "items": [
+        "推送 Morning Gradient 第 32 课 TA5「关键香气分子 · 咖啡香从哪来」（来源：Chen 等 2025，Foods）。",
+        "配图：方向 A 手绘水彩，images/2026-11-05.png。",
+        "今日冲煮计划仍是第 3 杯：S3 6.6 / 93 °C / 30:350 / 目标总时间 3:00–3:15；新增干粉、湿粉、杯中三次闻香。",
+        "Giant Steps 养豆第 50 天，约 280 g。新闻：肯尼亚启动咖啡风味图谱；Kraft Heinz 以 6.5 亿美元出售北美咖啡业务（Daily Coffee News，11/4）。"
+      ]
+    },
     {
       "date": "2026-11-04",
       "items": [

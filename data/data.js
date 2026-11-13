@@ -9,7 +9,7 @@ window.LR_DATA = {
   "meta": {
     "title": "Latent Roast",
     "subtitle": "豪力的咖啡数据实验室",
-    "updated": "2026-11-10",
+    "updated": "2026-11-13",
     "location": "纽约 · 海拔 0 ft"
   },
   "curriculum": {
@@ -2542,226 +2542,438 @@ window.LR_DATA = {
       }
     },
     {
-        "date": "2026-11-08",
-        "code": "RO1",
-        "branch": "烘焙与养豆",
-        "level": "入门",
-        "lesson_no": 35,
-        "title": "烘焙度如何改变香气",
-        "summary": "浅烘更容易留下花、果、酸这类产地香；中烘靠美拉德反应和焦糖化，把糖和氨基酸变成坚果、焦糖、可可；再往深烘，愈创木酚一类的烟熏酚味上来，酸降低，一部分果甜香还会退场。Giant Steps 被标成深烘，官方风味是可可、烤棉花糖、全麦饼干——几乎都是烘焙香。这正对上你要的低酸、丝滑饱满。",
-        "body": "**你闻到的「咖啡香」，大部分是烘焙烤出来的。** 生豆里主要是前体：糖、氨基酸、绿原酸。Barista Hustle 的说明：大约 140 °C 起，还原糖和氨基酸开始显著发生美拉德反应；超过 170 °C，焦糖化会消耗剩下的糖。终点产物之一是类黑精——它们让豆子变成棕色，带来烘焙、麦芽、面包、苦和焦的味道，也给杯子增加醇厚度。\n\n**浅、中、深，杯里换的是主角。** Laukaleja 与 Kruma 2019 年的综述汇总了多篇研究：浅烘或浅中烘更突出果香、酸和柑橘调；到了深烘，愉快的产地型香气减少，杯里转向咖啡本味、烘焙和焦香。综述的化合物表里，带花果香的苯乙醛、带煮苹果香的 (E)-β-突厥酮，都是浅烘浓度最高；中烘时丁二酮一类的黄油味会上来。\n\n**深烘不只是颜色更深。** Mayer、Czerny 与 Grosch 1999 年用稳定同位素稀释法测定了 28 种关键气味物。摘要写：从中烘加到深烘时，愈创木酚、4-乙基愈创木酚和 3-甲基-2-丁烯-1-硫醇明显增加（哥伦比亚、肯尼亚拼配和哥伦比亚 Tipica 都见到）；在 Tipica 上，羰基化合物、焦糖香的呋喃酮、甲硫基丙醛和 (E)-β-突厥酮反而下降。烟熏酚味加强，一部分果甜香退场。综述还提到：绿原酸随烘焙分解，酸感下降；烘得过深会生成苯基茚满，苦得更冲。\n\n**对你这袋 Giant Steps。** Blue Bottle 官方写它是深烘，为了带出厚重的巧克力感，风味是可可、烤棉花糖、全麦饼干——几乎全是烘焙香，不是花果产地香。养豆已经第 53 天，挥发性香气本来就弱。今天不改配方，只问一句：你闻到的更像烘焙给的，还是产地给的？",
-        "takeaways": [
-            "香气主要在烘焙中生成：约 140 °C 起美拉德反应，约 170 °C 起焦糖化；类黑精带来烘焙味，也增加醇厚度（Barista Hustle）。",
-            "浅烘偏花果酸，深烘偏烘焙、可可、烟熏；从中烘到深烘，愈创木酚类增加，部分果甜香下降（Laukaleja 综述；Mayer 等 1999 摘要）。",
-            "Giant Steps 的官方描述几乎全是烘焙香；今天用「产地 vs 烘焙」给它定性，比硬找花果更诚实。"
-        ],
-        "try_today": "1. 早上冲，下午不喝。配方不变：S3 刻度 6.6 / 粉重 30 g / 水量 350 g / 93 °C，目标总时间 **3:00–3:15**。\n2. **产地香还是烘焙香**（干粉 / 湿粉 / 入口各判一次）：更像「烘焙来的」（可可、烤棉花糖、焦糖、烟熏）还是「产地来的」（花、果、明亮酸）？可以再补一个具体词（接昨天的风味轮：大类→外圈）。说不准就写「说不准」。\n3. 先按秤上的 Timer 键再注水。下面的时间都是计时器读数（开始时刻），从按下 Timer 开始累计：\n   - 0:00–0:40 闷蒸：开头约 10 秒注到 60 g，然后等。\n   - 0:40–1:10 第 2 段：注到 150 g，然后等。\n   - 1:10–1:40 第 3 段：注到 250 g，然后等。\n   - 1:40 起第 4 段：注到 350 g，然后等滴滤结束，记下总时间。\n4. 把三次「产地 / 烘焙」判断连同总时间、评分 1–5 语音发我，我记进 Coffee Log。",
-        "sources": [
-            {
-                "label": "Laukaleja & Kruma (2019) · Influence of the roasting process on bioactive compounds and aroma profile in specialty coffee（FoodBalt）",
-                "url": "https://llufb.llu.lv/conference/foodbalt/2019/Laukaleja_Kruma_N080_FoodBalt2019.pdf",
-                "reliability": "中高 · 会议综述，汇总多篇烘焙度与香气、绿原酸研究；我读了全文 PDF"
-            },
-            {
-                "label": "Mayer, Czerny & Grosch (1999) · Influence of provenance and roast degree on the composition of potent odorants in Arabica coffees",
-                "url": "https://link.springer.com/article/10.1007/s002170050487",
-                "reliability": "高 · 用稳定同位素稀释法定量 28 种关键气味物；我读了 Springer 摘要，未打开全文"
-            },
-            {
-                "label": "Barista Hustle · What Is the Maillard Reaction and Why Is It Important?",
-                "url": "https://www.baristahustle.com/what-is-the-maillard-reaction-and-why-is-it-important/",
-                "reliability": "中高 · 说明美拉德约 140 °C、焦糖化约 170 °C，以及类黑精对烘焙味和醇厚度的贡献"
-            },
-            {
-                "label": "Blue Bottle Coffee · Giant Steps",
-                "url": "https://bluebottlecoffee.com/us/eng/product/giant-steps",
-                "reliability": "中 · 烘焙商对自己这袋豆的官方烘焙度与风味描述（可可、烤棉花糖、全麦饼干）"
-            }
-        ],
-        "illustration_prompt": "Hand-drawn sketchbook comic, black ink with soft sage-green, cream, cocoa-brown and caramel watercolor on cream paper #F4EEE1, 16:9. Three smiling coffee beans in a light-to-dark roast gradient: light bean with blossom and lemon wedge, medium bean with toasted nuts, dark bean with cocoa and a wisp of smoke. Cute sage dripper at lower right. NO text/letters/numbers. Empty upper-left/center for speech bubbles.",
-        "image_alt": "手绘水彩：三颗从浅到深微笑的咖啡豆，旁边分别是小花和柠檬、坚果、可可与一缕轻烟；右下角是微笑的绿色滤杯；左上留白给气泡。",
-        "bubbles": [
-            {
-                "text": "产地的花果香\n去哪了？",
-                "x": 4,
-                "y": 5,
-                "tail": "left"
-            },
-            {
-                "text": "深烘把它们烤成\n可可和焦糖了。",
-                "x": 4,
-                "y": 32,
-                "tail": "left"
-            }
-        ],
-        "try_big": "焙 / 产",
-        "image": "images/2026-11-08.png",
-        "tag": "",
-        "gradient": {
-            "label": "烘焙度与香气主角",
-            "steps": [
-                {
-                    "label": "浅 · 花果酸",
-                    "color": "#D9BE55"
-                },
-                {
-                    "label": "中 · 焦糖坚果",
-                    "color": "#C4A574"
-                },
-                {
-                    "label": "深 · 可可烟熏",
-                    "color": "#5B4636"
-                }
-            ]
+      "date": "2026-11-08",
+      "code": "RO1",
+      "branch": "烘焙与养豆",
+      "level": "入门",
+      "lesson_no": 35,
+      "title": "烘焙度如何改变香气",
+      "summary": "浅烘更容易留下花、果、酸这类产地香；中烘靠美拉德反应和焦糖化，把糖和氨基酸变成坚果、焦糖、可可；再往深烘，愈创木酚一类的烟熏酚味上来，酸降低，一部分果甜香还会退场。Giant Steps 被标成深烘，官方风味是可可、烤棉花糖、全麦饼干——几乎都是烘焙香。这正对上你要的低酸、丝滑饱满。",
+      "body": "**你闻到的「咖啡香」，大部分是烘焙烤出来的。** 生豆里主要是前体：糖、氨基酸、绿原酸。Barista Hustle 的说明：大约 140 °C 起，还原糖和氨基酸开始显著发生美拉德反应；超过 170 °C，焦糖化会消耗剩下的糖。终点产物之一是类黑精——它们让豆子变成棕色，带来烘焙、麦芽、面包、苦和焦的味道，也给杯子增加醇厚度。\n\n**浅、中、深，杯里换的是主角。** Laukaleja 与 Kruma 2019 年的综述汇总了多篇研究：浅烘或浅中烘更突出果香、酸和柑橘调；到了深烘，愉快的产地型香气减少，杯里转向咖啡本味、烘焙和焦香。综述的化合物表里，带花果香的苯乙醛、带煮苹果香的 (E)-β-突厥酮，都是浅烘浓度最高；中烘时丁二酮一类的黄油味会上来。\n\n**深烘不只是颜色更深。** Mayer、Czerny 与 Grosch 1999 年用稳定同位素稀释法测定了 28 种关键气味物。摘要写：从中烘加到深烘时，愈创木酚、4-乙基愈创木酚和 3-甲基-2-丁烯-1-硫醇明显增加（哥伦比亚、肯尼亚拼配和哥伦比亚 Tipica 都见到）；在 Tipica 上，羰基化合物、焦糖香的呋喃酮、甲硫基丙醛和 (E)-β-突厥酮反而下降。烟熏酚味加强，一部分果甜香退场。综述还提到：绿原酸随烘焙分解，酸感下降；烘得过深会生成苯基茚满，苦得更冲。\n\n**对你这袋 Giant Steps。** Blue Bottle 官方写它是深烘，为了带出厚重的巧克力感，风味是可可、烤棉花糖、全麦饼干——几乎全是烘焙香，不是花果产地香。养豆已经第 53 天，挥发性香气本来就弱。今天不改配方，只问一句：你闻到的更像烘焙给的，还是产地给的？",
+      "takeaways": [
+        "香气主要在烘焙中生成：约 140 °C 起美拉德反应，约 170 °C 起焦糖化；类黑精带来烘焙味，也增加醇厚度（Barista Hustle）。",
+        "浅烘偏花果酸，深烘偏烘焙、可可、烟熏；从中烘到深烘，愈创木酚类增加，部分果甜香下降（Laukaleja 综述；Mayer 等 1999 摘要）。",
+        "Giant Steps 的官方描述几乎全是烘焙香；今天用「产地 vs 烘焙」给它定性，比硬找花果更诚实。"
+      ],
+      "try_today": "1. 早上冲，下午不喝。配方不变：S3 刻度 6.6 / 粉重 30 g / 水量 350 g / 93 °C，目标总时间 **3:00–3:15**。\n2. **产地香还是烘焙香**（干粉 / 湿粉 / 入口各判一次）：更像「烘焙来的」（可可、烤棉花糖、焦糖、烟熏）还是「产地来的」（花、果、明亮酸）？可以再补一个具体词（接昨天的风味轮：大类→外圈）。说不准就写「说不准」。\n3. 先按秤上的 Timer 键再注水。下面的时间都是计时器读数（开始时刻），从按下 Timer 开始累计：\n   - 0:00–0:40 闷蒸：开头约 10 秒注到 60 g，然后等。\n   - 0:40–1:10 第 2 段：注到 150 g，然后等。\n   - 1:10–1:40 第 3 段：注到 250 g，然后等。\n   - 1:40 起第 4 段：注到 350 g，然后等滴滤结束，记下总时间。\n4. 把三次「产地 / 烘焙」判断连同总时间、评分 1–5 语音发我，我记进 Coffee Log。",
+      "sources": [
+        {
+          "label": "Laukaleja & Kruma (2019) · Influence of the roasting process on bioactive compounds and aroma profile in specialty coffee（FoodBalt）",
+          "url": "https://llufb.llu.lv/conference/foodbalt/2019/Laukaleja_Kruma_N080_FoodBalt2019.pdf",
+          "reliability": "中高 · 会议综述，汇总多篇烘焙度与香气、绿原酸研究；我读了全文 PDF"
+        },
+        {
+          "label": "Mayer, Czerny & Grosch (1999) · Influence of provenance and roast degree on the composition of potent odorants in Arabica coffees",
+          "url": "https://link.springer.com/article/10.1007/s002170050487",
+          "reliability": "高 · 用稳定同位素稀释法定量 28 种关键气味物；我读了 Springer 摘要，未打开全文"
+        },
+        {
+          "label": "Barista Hustle · What Is the Maillard Reaction and Why Is It Important?",
+          "url": "https://www.baristahustle.com/what-is-the-maillard-reaction-and-why-is-it-important/",
+          "reliability": "中高 · 说明美拉德约 140 °C、焦糖化约 170 °C，以及类黑精对烘焙味和醇厚度的贡献"
+        },
+        {
+          "label": "Blue Bottle Coffee · Giant Steps",
+          "url": "https://bluebottlecoffee.com/us/eng/product/giant-steps",
+          "reliability": "中 · 烘焙商对自己这袋豆的官方烘焙度与风味描述（可可、烤棉花糖、全麦饼干）"
         }
+      ],
+      "illustration_prompt": "Hand-drawn sketchbook comic, black ink with soft sage-green, cream, cocoa-brown and caramel watercolor on cream paper #F4EEE1, 16:9. Three smiling coffee beans in a light-to-dark roast gradient: light bean with blossom and lemon wedge, medium bean with toasted nuts, dark bean with cocoa and a wisp of smoke. Cute sage dripper at lower right. NO text/letters/numbers. Empty upper-left/center for speech bubbles.",
+      "image_alt": "手绘水彩：三颗从浅到深微笑的咖啡豆，旁边分别是小花和柠檬、坚果、可可与一缕轻烟；右下角是微笑的绿色滤杯；左上留白给气泡。",
+      "bubbles": [
+        {
+          "text": "产地的花果香\n去哪了？",
+          "x": 4,
+          "y": 5,
+          "tail": "left"
+        },
+        {
+          "text": "深烘把它们烤成\n可可和焦糖了。",
+          "x": 4,
+          "y": 32,
+          "tail": "left"
+        }
+      ],
+      "try_big": "焙 / 产",
+      "image": "images/2026-11-08.png",
+      "tag": "",
+      "gradient": {
+        "label": "烘焙度与香气主角",
+        "steps": [
+          {
+            "label": "浅 · 花果酸",
+            "color": "#D9BE55"
+          },
+          {
+            "label": "中 · 焦糖坚果",
+            "color": "#C4A574"
+          },
+          {
+            "label": "深 · 可可烟熏",
+            "color": "#5B4636"
+          }
+        ]
+      }
     },
     {
-        "date": "2026-11-09",
-        "code": "RO4",
-        "branch": "烘焙与养豆",
-        "level": "进阶",
-        "lesson_no": 36,
-        "title": "深烘香气：焦糖、可可与烟熏",
-        "summary": "深烘杯里的三种主角香气，来自三条不同的化学路径：焦糖香主要是糖降解生成的呋喃酮和麦芽酚；可可、坚果、烘烤感大多是美拉德反应生成的吡嗪；烟熏来自绿原酸和阿魏酸热分解出的愈创木酚一类酚。烘得越深，烟熏和焦苦越占上风；烘到极深，就从「可可焦糖」滑到「焦、闷、硫」。",
-        "body": "**焦糖：糖烤出来的甜香。** Obando 与 Figueroa 2024 年按 SCA 色值把同一批豆烘成四档（RL85 极浅、RL75 浅、RL55 中、RL25 极深），用气相色谱-嗅闻（GC-O）让人逐个闻。带焦糖香的呋喃酮（4-羟基-2,5-二甲基-3(2H)-呋喃酮）在四档里强度都是 3；同样焦糖甜的麦芽酚在极深烘最强。中烘 RL55 的整体描述是：甜、烤榛子、焦糖。\n\n**可可与坚果：美拉德反应的吡嗪。** 吡嗪由还原糖和氨基酸在烘焙中反应生成。Yang 等 2016 年把烘焙多延长 2 分钟做成「过深」缺陷组，大多数吡嗪显著增加；文中给 2-甲基吡嗪的文献描述是坚果、烘烤、巧克力。\n\n**烟熏：绿原酸烧出来的酚。** Angeloni 等 2021 年的综述写：咖啡里的酚类来自绿原酸热分解，愈创木酚来自阿魏酸热分解，浓度随烘焙加深而升高；萃取温度越高，愈创木酚溶出越多。Yang 的过深组里，4-乙基愈创木酚、苯酚和吲哚都显著上升。\n\n**好喝区的边界。** Obando 的极深烘 RL25 主角变成焦、霉、硫味，带硫味的 2-甲基吡啶强度随烘焙升高。所以深烘好喝的地方在「焦糖 + 可可」，再往前一步就是「焦苦 + 烟灰」。\n\n**对你这袋 Giant Steps。** 它是深烘拼配，正好站在这条线附近。10/2 第 1 杯你写过「偶尔有过度烘焙的味道」，那可能就是烟熏、焦这一侧。今天配方不改，只把三种香分开闻，看哪一层最强。",
-        "takeaways": [
-            "焦糖香主要来自呋喃酮、麦芽酚（糖降解）；可可、坚果、烘烤来自美拉德反应的吡嗪（Obando 2024；Yang 2016）。",
-            "烟熏来自绿原酸、阿魏酸热分解出的愈创木酚类，烘得越深越多，水越烫溶出越多（Angeloni 2021；Yang 2016）。",
-            "极深烘会滑向焦、霉、硫味；深烘的好喝区是「焦糖 + 可可」压住「烟熏」（Obando 2024）。"
-        ],
-        "try_today": "1. 早上冲，下午不喝。配方不变：S3 刻度 6.6 / 粉重 30 g / 水量 350 g / 93 °C，目标总时间 **3:00–3:15**。\n2. **三层分开闻**（干粉 / 湿粉 / 入口各一次）：焦糖、可可、烟熏，各给 0–3 分，再说哪一层最强。说不准就写「说不准」。\n3. 先按秤上的 Timer 键再注水。下面的时间都是计时器读数（开始时刻），从按下 Timer 开始累计：\n   - 0:00–0:40 闷蒸：开头约 10 秒注到 60 g，然后等。\n   - 0:40–1:10 第 2 段：注到 150 g，然后等。\n   - 1:10–1:40 第 3 段：注到 250 g，然后等。\n   - 1:40 起第 4 段：注到 350 g，然后等滴滤结束，记下总时间。\n4. 如果入口烟熏或焦明显压过可可、焦糖，下次改：水温 93 → 91 °C（推测：烫水会多溶出愈创木酚类；代价是酸可能多一点，要用你这杯验证）。\n5. 把三层分数、总时间、评分 1–5 语音发我，我记进 Coffee Log。",
-        "sources": [
-            {
-                "label": "Obando & Figueroa (2024) · Effect of Roasting Level on the Development of Key Aroma-Active Compounds in Coffee（Molecules 29:4723）",
-                "url": "https://doi.org/10.3390/molecules29194723",
-                "reliability": "高 · 同一批豆按 SCA 色值烘四档，用 GC-O 逐个嗅闻；我读了 Europe PMC 全文"
-            },
-            {
-                "label": "Yang et al. (2016) · Determination of volatile marker compounds of common coffee roast defects（Food Chemistry）",
-                "url": "https://doi.org/10.1016/j.foodchem.2016.04.124",
-                "reliability": "高 · 控制变量做五种烘焙缺陷对照，含「过深」组；我读了 Europe PMC 全文"
-            },
-            {
-                "label": "Angeloni et al. (2021) · Characterization of the Aroma Profile and Main Key Odorants of Espresso Coffee（Molecules 26:3856）",
-                "url": "https://doi.org/10.3390/molecules26133856",
-                "reliability": "中高 · 意式浓缩香气综述，酚类、吡嗪、硫醇来源讲得清楚；我读了相关段落"
-            }
-        ],
-        "illustration_prompt": "Hand-drawn sketchbook comic, ink outlines with soft sage-green and cream watercolor on warm paper #F4EEE1, 16:9. A smiling sage pour-over dripper on a glass server of dark coffee; aroma wisps turn into a caramel ribbon, a square of dark chocolate, and a curl of grey smoke. A dark-roasted coffee bean character sniffs with eyes closed. NO text/letters/numbers. Empty upper-left/center for speech bubbles.",
-        "image_alt": "手绘水彩：微笑的绿色滤杯坐在玻璃分享壶上，杯口飘出一缕焦糖、一块巧克力和一缕灰烟；右边一颗深烘咖啡豆闭眼闻香，左下有一颗柠檬；左侧留白给气泡。",
-        "bubbles": [
-            {
-                "text": "深烘的香气\n不就一个「苦」？",
-                "x": 4,
-                "y": 5,
-                "tail": "left"
-            },
-            {
-                "text": "分三层闻：\n焦糖、可可、烟熏。",
-                "x": 4,
-                "y": 32,
-                "tail": "left"
-            }
-        ],
-        "try_big": "焦 / 可 / 烟",
-        "image": "images/2026-11-09.png",
-        "tag": "",
-        "gradient": {
-            "label": "深烘香气三层",
-            "steps": [
-                {
-                    "label": "焦糖 · 呋喃酮",
-                    "color": "#C4A574"
-                },
-                {
-                    "label": "可可 · 吡嗪",
-                    "color": "#8B5E3C"
-                },
-                {
-                    "label": "烟熏 · 愈创木酚",
-                    "color": "#5B4636"
-                }
-            ]
+      "date": "2026-11-09",
+      "code": "RO4",
+      "branch": "烘焙与养豆",
+      "level": "进阶",
+      "lesson_no": 36,
+      "title": "深烘香气：焦糖、可可与烟熏",
+      "summary": "深烘杯里的三种主角香气，来自三条不同的化学路径：焦糖香主要是糖降解生成的呋喃酮和麦芽酚；可可、坚果、烘烤感大多是美拉德反应生成的吡嗪；烟熏来自绿原酸和阿魏酸热分解出的愈创木酚一类酚。烘得越深，烟熏和焦苦越占上风；烘到极深，就从「可可焦糖」滑到「焦、闷、硫」。",
+      "body": "**焦糖：糖烤出来的甜香。** Obando 与 Figueroa 2024 年按 SCA 色值把同一批豆烘成四档（RL85 极浅、RL75 浅、RL55 中、RL25 极深），用气相色谱-嗅闻（GC-O）让人逐个闻。带焦糖香的呋喃酮（4-羟基-2,5-二甲基-3(2H)-呋喃酮）在四档里强度都是 3；同样焦糖甜的麦芽酚在极深烘最强。中烘 RL55 的整体描述是：甜、烤榛子、焦糖。\n\n**可可与坚果：美拉德反应的吡嗪。** 吡嗪由还原糖和氨基酸在烘焙中反应生成。Yang 等 2016 年把烘焙多延长 2 分钟做成「过深」缺陷组，大多数吡嗪显著增加；文中给 2-甲基吡嗪的文献描述是坚果、烘烤、巧克力。\n\n**烟熏：绿原酸烧出来的酚。** Angeloni 等 2021 年的综述写：咖啡里的酚类来自绿原酸热分解，愈创木酚来自阿魏酸热分解，浓度随烘焙加深而升高；萃取温度越高，愈创木酚溶出越多。Yang 的过深组里，4-乙基愈创木酚、苯酚和吲哚都显著上升。\n\n**好喝区的边界。** Obando 的极深烘 RL25 主角变成焦、霉、硫味，带硫味的 2-甲基吡啶强度随烘焙升高。所以深烘好喝的地方在「焦糖 + 可可」，再往前一步就是「焦苦 + 烟灰」。\n\n**对你这袋 Giant Steps。** 它是深烘拼配，正好站在这条线附近。10/2 第 1 杯你写过「偶尔有过度烘焙的味道」，那可能就是烟熏、焦这一侧。今天配方不改，只把三种香分开闻，看哪一层最强。",
+      "takeaways": [
+        "焦糖香主要来自呋喃酮、麦芽酚（糖降解）；可可、坚果、烘烤来自美拉德反应的吡嗪（Obando 2024；Yang 2016）。",
+        "烟熏来自绿原酸、阿魏酸热分解出的愈创木酚类，烘得越深越多，水越烫溶出越多（Angeloni 2021；Yang 2016）。",
+        "极深烘会滑向焦、霉、硫味；深烘的好喝区是「焦糖 + 可可」压住「烟熏」（Obando 2024）。"
+      ],
+      "try_today": "1. 早上冲，下午不喝。配方不变：S3 刻度 6.6 / 粉重 30 g / 水量 350 g / 93 °C，目标总时间 **3:00–3:15**。\n2. **三层分开闻**（干粉 / 湿粉 / 入口各一次）：焦糖、可可、烟熏，各给 0–3 分，再说哪一层最强。说不准就写「说不准」。\n3. 先按秤上的 Timer 键再注水。下面的时间都是计时器读数（开始时刻），从按下 Timer 开始累计：\n   - 0:00–0:40 闷蒸：开头约 10 秒注到 60 g，然后等。\n   - 0:40–1:10 第 2 段：注到 150 g，然后等。\n   - 1:10–1:40 第 3 段：注到 250 g，然后等。\n   - 1:40 起第 4 段：注到 350 g，然后等滴滤结束，记下总时间。\n4. 如果入口烟熏或焦明显压过可可、焦糖，下次改：水温 93 → 91 °C（推测：烫水会多溶出愈创木酚类；代价是酸可能多一点，要用你这杯验证）。\n5. 把三层分数、总时间、评分 1–5 语音发我，我记进 Coffee Log。",
+      "sources": [
+        {
+          "label": "Obando & Figueroa (2024) · Effect of Roasting Level on the Development of Key Aroma-Active Compounds in Coffee（Molecules 29:4723）",
+          "url": "https://doi.org/10.3390/molecules29194723",
+          "reliability": "高 · 同一批豆按 SCA 色值烘四档，用 GC-O 逐个嗅闻；我读了 Europe PMC 全文"
+        },
+        {
+          "label": "Yang et al. (2016) · Determination of volatile marker compounds of common coffee roast defects（Food Chemistry）",
+          "url": "https://doi.org/10.1016/j.foodchem.2016.04.124",
+          "reliability": "高 · 控制变量做五种烘焙缺陷对照，含「过深」组；我读了 Europe PMC 全文"
+        },
+        {
+          "label": "Angeloni et al. (2021) · Characterization of the Aroma Profile and Main Key Odorants of Espresso Coffee（Molecules 26:3856）",
+          "url": "https://doi.org/10.3390/molecules26133856",
+          "reliability": "中高 · 意式浓缩香气综述，酚类、吡嗪、硫醇来源讲得清楚；我读了相关段落"
         }
+      ],
+      "illustration_prompt": "Hand-drawn sketchbook comic, ink outlines with soft sage-green and cream watercolor on warm paper #F4EEE1, 16:9. A smiling sage pour-over dripper on a glass server of dark coffee; aroma wisps turn into a caramel ribbon, a square of dark chocolate, and a curl of grey smoke. A dark-roasted coffee bean character sniffs with eyes closed. NO text/letters/numbers. Empty upper-left/center for speech bubbles.",
+      "image_alt": "手绘水彩：微笑的绿色滤杯坐在玻璃分享壶上，杯口飘出一缕焦糖、一块巧克力和一缕灰烟；右边一颗深烘咖啡豆闭眼闻香，左下有一颗柠檬；左侧留白给气泡。",
+      "bubbles": [
+        {
+          "text": "深烘的香气\n不就一个「苦」？",
+          "x": 4,
+          "y": 5,
+          "tail": "left"
+        },
+        {
+          "text": "分三层闻：\n焦糖、可可、烟熏。",
+          "x": 4,
+          "y": 32,
+          "tail": "left"
+        }
+      ],
+      "try_big": "焦 / 可 / 烟",
+      "image": "images/2026-11-09.png",
+      "tag": "",
+      "gradient": {
+        "label": "深烘香气三层",
+        "steps": [
+          {
+            "label": "焦糖 · 呋喃酮",
+            "color": "#C4A574"
+          },
+          {
+            "label": "可可 · 吡嗪",
+            "color": "#8B5E3C"
+          },
+          {
+            "label": "烟熏 · 愈创木酚",
+            "color": "#5B4636"
+          }
+        ]
+      }
     },
     {
-        "date": "2026-11-10",
-        "code": "VA3",
-        "branch": "豆种",
-        "level": "进阶",
-        "lesson_no": 37,
-        "title": "品种与香气：从波旁到埃塞原生种",
-        "summary": "品种给的是香气的上限，不是固定的味道。World Coffee Research 的品种目录只给「高海拔杯品质潜力」打分：波旁、铁皮卡「很好」，卡杜拉、卡杜艾「好」，SL28 和埃塞原生种出身的瑰夏「出色」；具体香气词只给了瑰夏（花香、茉莉、桃）。同一个品种换个气温、换个烘焙度，香气就会变。Giant Steps 是深烘拼配，官方页没写产地和品种，品种的声音大多被烘焙盖住了。",
-        "body": "**品种给的是上限，不是味道。** World Coffee Research（WCR）的品种目录给每个品种打「高海拔杯品质潜力」：波旁、铁皮卡是「很好」，卡杜拉、卡杜艾是「好」（目录原话：卡杜艾杯品质「好，但不算出色」），SL28 和瑰夏是「出色」。目录几乎不写香气词——我今天读的六页里，只有瑰夏写了：花香、茉莉、桃。WCR 把瑰夏的遗传背景归为「埃塞俄比亚原生种」：1930 年代从埃塞森林采来，后来经坦桑尼亚、哥斯达黎加的 CATIE 到了巴拿马。\n\n**同一个品种，换个地方就换个香。** Bertrand 等 2012 年在留尼汪岛选了 16 块地，种的是同一品种。结论是：种子发育期的平均气温对感官影响最大。凉爽地块的酸质、果香和整体风味更好，乙醛和丙酮是「凉爽」的标记；气温高、日照强的地块多出青味、土味，相关的醇、醛、酮在生豆里累积，作者推测烘焙后还会以异味出现。Seninde 与 Chambers 2020 年的综述还转述了一项秘鲁研究：四个品种里卡杜拉的香气、风味分最高，Catimor 的酸明显更低——但品种和海拔之间有显著交互。所以「某品种 = 某味道」只能当倾向，不能当定律。\n\n**产地和品种常常绑在一起。** 同一篇综述转述的 PTR-MS 研究里，埃塞俄比亚豆的单萜（柑橘样香气）更高。埃塞豆大多是原生种，这是品种和风土的合力，很难拆开。\n\n**对你这袋 Giant Steps。** Blue Bottle 官方页写它是有机、深烘、为了带出深巧克力感，风味是可可、烤棉花糖、全麦饼干；今天页面上没有列产地和品种。RO1 讲过，深烘会让产地型花果香退场。所以这袋豆里，品种的声音很小。今天配方不改，只做两件事：翻豆袋看有没有写品种；再分开给「品种 / 产地型」和「烘焙型」香气打分。",
-        "takeaways": [
-            "品种定的是潜力：WCR 评级里波旁、铁皮卡「很好」，卡杜拉、卡杜艾「好」，SL28、瑰夏「出色」；具体香气词只写了瑰夏（花香、茉莉、桃）。",
-            "品种 × 环境：同一品种，种子发育期越凉爽，酸质、果香越好；越热越偏青、土味（Bertrand 2012）。秘鲁对比里品种差异也随海拔变化（Seninde 2020 综述）。",
-            "深烘会压平品种差异：Giant Steps 官方页没写产地和品种，杯里的可可、烤棉花糖主要来自烘焙。想喝出品种，要选写明品种、烘得不那么深的单品豆。"
-        ],
-        "try_today": "1. 早上冲，下午不喝。配方不变：S3 刻度 6.6 / 粉重 30 g / 水量 350 g / 93 °C，目标总时间 **3:00–3:15**。\n2. **翻豆袋**：有没有写产地、品种、海拔？有就拍照或念给我；没写就说「没写」（官网页今天没列）。\n3. 先按秤上的 Timer 键再注水。下面的时间都是计时器读数（开始时刻），从按下 Timer 开始累计：\n   - 0:00–0:40 闷蒸：开头约 10 秒注到 60 g，然后等。\n   - 0:40–1:10 第 2 段：注到 150 g，然后等。\n   - 1:10–1:40 第 3 段：注到 250 g，然后等。\n   - 1:40 起第 4 段：注到 350 g，然后等滴滤结束，记下总时间。\n4. **两栏打分**（干粉 / 湿粉 / 入口各一次）：「品种 / 产地型」（花香、柑橘、桃、浆果）0–3 分，「烘焙型」（可可、焦糖、烟熏）0–3 分。我的预期是烘焙型 ≥ 2、品种型 0–1；说不准就写「说不准」。\n5. 如果入口烟熏或焦明显压过可可、焦糖，下次改：水温 93 → 91 °C（推测，要用你这杯验证）。\n6. 把豆袋信息、两栏分数、总时间、评分 1–5 语音发我，我记进 Coffee Log。",
-        "sources": [
-            {
-                "label": "World Coffee Research · Coffee Varieties Catalog（Bourbon / Typica / Caturra / Catuai / SL28 页）",
-                "url": "https://varieties.worldcoffeeresearch.org/",
-                "reliability": "高 · 咖啡业非营利研究机构的品种目录，含多国品种试验；我今天打开读了这五页的杯品质评级和历史"
-            },
-            {
-                "label": "World Coffee Research · Geisha (Panama)",
-                "url": "https://varieties.worldcoffeeresearch.org/varieties/geisha-panama",
-                "reliability": "高 · 同一目录；遗传背景标为埃塞俄比亚原生种，写明花香、茉莉、桃香"
-            },
-            {
-                "label": "Bertrand et al. (2012) · Climatic factors directly impact the volatile organic compound fingerprint in green Arabica coffee bean as well as coffee beverage quality（Food Chemistry）",
-                "url": "https://doi.org/10.1016/j.foodchem.2012.06.060",
-                "reliability": "高 · 同一品种 16 块地对照，GC-MS + 感官分析；我读了 Europe PMC 摘要，未读全文"
-            },
-            {
-                "label": "Seninde & Chambers (2020) · Coffee Flavor: A Review（Beverages 6:44）",
-                "url": "https://doi.org/10.3390/beverages6030044",
-                "reliability": "中高 · 同行评审综述，汇总品种、产地、烘焙对风味的研究；我读了全文，秘鲁品种对比和埃塞单萜结果是它转述的二手结论"
-            },
-            {
-                "label": "Blue Bottle Coffee · Giant Steps",
-                "url": "https://bluebottlecoffee.com/us/eng/product/giant-steps",
-                "reliability": "中 · 烘焙商官方页：有机、深烘、可可 / 烤棉花糖 / 全麦饼干；今天页面未列产地与品种"
-            }
-        ],
-        "illustration_prompt": "Hand-drawn sketchbook comic, black ink with soft sage-green, cream and berry-red watercolor on warm paper #F4EEE1, 16:9. A potted flowering coffee plant in the center with white blossoms and floating citrus slices; three smiling coffee-cherry characters (red, yellow, dark red) in front of it; at right a skeptical sage pour-over dripper on a glass server, a smiling gooseneck kettle, and a burlap bean sack with a magnifying glass. NO text/letters/numbers. Empty left/upper-left for speech bubbles.",
-        "image_alt": "手绘水彩：中间一盆开白花的咖啡树，旁边飘着柠檬片；树前有红、黄、深红三颗微笑的咖啡果，脚边几颗黑色小浆果；右边是皱着眉的绿色滤杯坐在玻璃分享壶上，一把微笑的手冲壶和一个靠着放大镜的麻袋；左侧留白给气泡。",
-        "bubbles": [
-            {
-                "text": "豆袋上写的品种，\n深烘后还喝得出来吗？",
-                "x": 4,
-                "y": 5,
-                "tail": "left"
-            },
-            {
-                "text": "先翻袋子看品种，\n再分开打分：\n**品种香 vs 烘焙香**",
-                "x": 4,
-                "y": 34,
-                "tail": "left"
-            }
-        ],
-        "try_big": "种 / 焙",
-        "image": "images/2026-11-10.png",
-        "tag": "",
-        "gradient": {
-            "label": "香气从哪来（由内到外）",
-            "steps": [
-                {
-                    "label": "品种 · 定上限",
-                    "color": "#9CAF94"
-                },
-                {
-                    "label": "气温 · 处理 · 定表达",
-                    "color": "#D9BE55"
-                },
-                {
-                    "label": "深烘 · 盖过品种",
-                    "color": "#5B4636"
-                }
-            ]
+      "date": "2026-11-10",
+      "code": "VA3",
+      "branch": "豆种",
+      "level": "进阶",
+      "lesson_no": 37,
+      "title": "品种与香气：从波旁到埃塞原生种",
+      "summary": "品种给的是香气的上限，不是固定的味道。World Coffee Research 的品种目录只给「高海拔杯品质潜力」打分：波旁、铁皮卡「很好」，卡杜拉、卡杜艾「好」，SL28 和埃塞原生种出身的瑰夏「出色」；具体香气词只给了瑰夏（花香、茉莉、桃）。同一个品种换个气温、换个烘焙度，香气就会变。Giant Steps 是深烘拼配，官方页没写产地和品种，品种的声音大多被烘焙盖住了。",
+      "body": "**品种给的是上限，不是味道。** World Coffee Research（WCR）的品种目录给每个品种打「高海拔杯品质潜力」：波旁、铁皮卡是「很好」，卡杜拉、卡杜艾是「好」（目录原话：卡杜艾杯品质「好，但不算出色」），SL28 和瑰夏是「出色」。目录几乎不写香气词——我今天读的六页里，只有瑰夏写了：花香、茉莉、桃。WCR 把瑰夏的遗传背景归为「埃塞俄比亚原生种」：1930 年代从埃塞森林采来，后来经坦桑尼亚、哥斯达黎加的 CATIE 到了巴拿马。\n\n**同一个品种，换个地方就换个香。** Bertrand 等 2012 年在留尼汪岛选了 16 块地，种的是同一品种。结论是：种子发育期的平均气温对感官影响最大。凉爽地块的酸质、果香和整体风味更好，乙醛和丙酮是「凉爽」的标记；气温高、日照强的地块多出青味、土味，相关的醇、醛、酮在生豆里累积，作者推测烘焙后还会以异味出现。Seninde 与 Chambers 2020 年的综述还转述了一项秘鲁研究：四个品种里卡杜拉的香气、风味分最高，Catimor 的酸明显更低——但品种和海拔之间有显著交互。所以「某品种 = 某味道」只能当倾向，不能当定律。\n\n**产地和品种常常绑在一起。** 同一篇综述转述的 PTR-MS 研究里，埃塞俄比亚豆的单萜（柑橘样香气）更高。埃塞豆大多是原生种，这是品种和风土的合力，很难拆开。\n\n**对你这袋 Giant Steps。** Blue Bottle 官方页写它是有机、深烘、为了带出深巧克力感，风味是可可、烤棉花糖、全麦饼干；今天页面上没有列产地和品种。RO1 讲过，深烘会让产地型花果香退场。所以这袋豆里，品种的声音很小。今天配方不改，只做两件事：翻豆袋看有没有写品种；再分开给「品种 / 产地型」和「烘焙型」香气打分。",
+      "takeaways": [
+        "品种定的是潜力：WCR 评级里波旁、铁皮卡「很好」，卡杜拉、卡杜艾「好」，SL28、瑰夏「出色」；具体香气词只写了瑰夏（花香、茉莉、桃）。",
+        "品种 × 环境：同一品种，种子发育期越凉爽，酸质、果香越好；越热越偏青、土味（Bertrand 2012）。秘鲁对比里品种差异也随海拔变化（Seninde 2020 综述）。",
+        "深烘会压平品种差异：Giant Steps 官方页没写产地和品种，杯里的可可、烤棉花糖主要来自烘焙。想喝出品种，要选写明品种、烘得不那么深的单品豆。"
+      ],
+      "try_today": "1. 早上冲，下午不喝。配方不变：S3 刻度 6.6 / 粉重 30 g / 水量 350 g / 93 °C，目标总时间 **3:00–3:15**。\n2. **翻豆袋**：有没有写产地、品种、海拔？有就拍照或念给我；没写就说「没写」（官网页今天没列）。\n3. 先按秤上的 Timer 键再注水。下面的时间都是计时器读数（开始时刻），从按下 Timer 开始累计：\n   - 0:00–0:40 闷蒸：开头约 10 秒注到 60 g，然后等。\n   - 0:40–1:10 第 2 段：注到 150 g，然后等。\n   - 1:10–1:40 第 3 段：注到 250 g，然后等。\n   - 1:40 起第 4 段：注到 350 g，然后等滴滤结束，记下总时间。\n4. **两栏打分**（干粉 / 湿粉 / 入口各一次）：「品种 / 产地型」（花香、柑橘、桃、浆果）0–3 分，「烘焙型」（可可、焦糖、烟熏）0–3 分。我的预期是烘焙型 ≥ 2、品种型 0–1；说不准就写「说不准」。\n5. 如果入口烟熏或焦明显压过可可、焦糖，下次改：水温 93 → 91 °C（推测，要用你这杯验证）。\n6. 把豆袋信息、两栏分数、总时间、评分 1–5 语音发我，我记进 Coffee Log。",
+      "sources": [
+        {
+          "label": "World Coffee Research · Coffee Varieties Catalog（Bourbon / Typica / Caturra / Catuai / SL28 页）",
+          "url": "https://varieties.worldcoffeeresearch.org/",
+          "reliability": "高 · 咖啡业非营利研究机构的品种目录，含多国品种试验；我今天打开读了这五页的杯品质评级和历史"
+        },
+        {
+          "label": "World Coffee Research · Geisha (Panama)",
+          "url": "https://varieties.worldcoffeeresearch.org/varieties/geisha-panama",
+          "reliability": "高 · 同一目录；遗传背景标为埃塞俄比亚原生种，写明花香、茉莉、桃香"
+        },
+        {
+          "label": "Bertrand et al. (2012) · Climatic factors directly impact the volatile organic compound fingerprint in green Arabica coffee bean as well as coffee beverage quality（Food Chemistry）",
+          "url": "https://doi.org/10.1016/j.foodchem.2012.06.060",
+          "reliability": "高 · 同一品种 16 块地对照，GC-MS + 感官分析；我读了 Europe PMC 摘要，未读全文"
+        },
+        {
+          "label": "Seninde & Chambers (2020) · Coffee Flavor: A Review（Beverages 6:44）",
+          "url": "https://doi.org/10.3390/beverages6030044",
+          "reliability": "中高 · 同行评审综述，汇总品种、产地、烘焙对风味的研究；我读了全文，秘鲁品种对比和埃塞单萜结果是它转述的二手结论"
+        },
+        {
+          "label": "Blue Bottle Coffee · Giant Steps",
+          "url": "https://bluebottlecoffee.com/us/eng/product/giant-steps",
+          "reliability": "中 · 烘焙商官方页：有机、深烘、可可 / 烤棉花糖 / 全麦饼干；今天页面未列产地与品种"
         }
+      ],
+      "illustration_prompt": "Hand-drawn sketchbook comic, black ink with soft sage-green, cream and berry-red watercolor on warm paper #F4EEE1, 16:9. A potted flowering coffee plant in the center with white blossoms and floating citrus slices; three smiling coffee-cherry characters (red, yellow, dark red) in front of it; at right a skeptical sage pour-over dripper on a glass server, a smiling gooseneck kettle, and a burlap bean sack with a magnifying glass. NO text/letters/numbers. Empty left/upper-left for speech bubbles.",
+      "image_alt": "手绘水彩：中间一盆开白花的咖啡树，旁边飘着柠檬片；树前有红、黄、深红三颗微笑的咖啡果，脚边几颗黑色小浆果；右边是皱着眉的绿色滤杯坐在玻璃分享壶上，一把微笑的手冲壶和一个靠着放大镜的麻袋；左侧留白给气泡。",
+      "bubbles": [
+        {
+          "text": "豆袋上写的品种，\n深烘后还喝得出来吗？",
+          "x": 4,
+          "y": 5,
+          "tail": "left"
+        },
+        {
+          "text": "先翻袋子看品种，\n再分开打分：\n**品种香 vs 烘焙香**",
+          "x": 4,
+          "y": 34,
+          "tail": "left"
+        }
+      ],
+      "try_big": "种 / 焙",
+      "image": "images/2026-11-10.png",
+      "tag": "",
+      "gradient": {
+        "label": "香气从哪来（由内到外）",
+        "steps": [
+          {
+            "label": "品种 · 定上限",
+            "color": "#9CAF94"
+          },
+          {
+            "label": "气温 · 处理 · 定表达",
+            "color": "#D9BE55"
+          },
+          {
+            "label": "深烘 · 盖过品种",
+            "color": "#5B4636"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "code": "OR3",
+      "branch": "产区",
+      "level": "进阶",
+      "lesson_no": 38,
+      "title": "产区风味：巴西、哥伦比亚、苏门答腊",
+      "summary": "三个产区，三种「低酸 / 醇厚」的来路。巴西靠低海拔和干燥收获季，日晒后杯子圆、酸低，偏巧克力和坚果；哥伦比亚的传统是水洗，追求顺滑、平衡，但 2015 年放开出口限制后，日晒、厌氧也多了；苏门答腊靠湿刨法，酸低、醇厚度高，好的带烟草、热带水果，差的发霉闷。产区给的是倾向，真正拍板的常常是处理法。",
+      "body": "**巴西：低海拔 + 干燥收获季 = 圆、酸低。** Coffee Review 2018 年测了近 60 支巴西豆。Kenneth Davids 写：巴西大部分产区海拔相对低，所以多数杯子「安静、有共鸣」，不是又亮又酸，对受不了高海拔柑橘酸的人很友好。传统巴西豆的卖点是巧克力、坚果、红糖、焦糖。收获季多数干燥晴朗，所以能把整颗果实直接晒干（日晒）。前 10 名里 7 支是日晒；作者说它们之间的差别主要来自处理法，不是品种。\n\n**哥伦比亚：传统是水洗，追求平衡。** Coffee Review 2021 年测了 63 支单一庄园哥伦比亚。作者把传统水洗哥伦比亚形容为「可预期的顺滑、平衡」。几十年里，哥伦比亚只允许出口符合「100% Colombian」标准的干净水洗豆；2015 年才放开。于是这批样品里约 45% 是水洗，约 30% 日晒，近 25% 是厌氧类实验。所以今天买哥伦比亚，豆袋上的处理法比国名更重要：水洗的例子写着焦糖、橙子、花香；厌氧的可能是果酱、乳酸感。\n\n**苏门答腊：湿刨法造出来的「土」。** 一般水洗豆是带着内果皮（羊皮纸）晒到约 12% 含水率再脱壳；湿刨法（giling basah）在豆子还很湿时就把羊皮纸剥掉——Coffearium 汇总的试验数据是含水率约 35–50%——然后让裸豆直接晒干。经典描述是：酸低、醇厚度高、带土味和香料感。Coffee Review 2016 年那篇写得更细：处理差的是霉味、闷；最好的是像腐殖土的甜烟草、热带水果，甚至花香。Coffearium 也提醒：这种风味有多少来自工艺本身、多少来自缺陷，目前没有定论。\n\n**对你的意义。** 你要的是低酸、丝滑饱满、柔和。按这三篇，最贴的方向是「巴西日晒」或「苏门答腊湿刨」，哥伦比亚要挑水洗、写着焦糖 / 巧克力的。Giant Steps 是深烘拼配，官方页没写产地。今天配方不改，只用三个产区当「参照系」，给它闻一闻、喝一喝。",
+      "takeaways": [
+        "巴西：海拔相对低、收获季干燥，多数日晒；杯子安静、酸低，偏巧克力、坚果、焦糖（Coffee Review 2018）。",
+        "哥伦比亚：传统水洗、追求平衡；2015 年放开出口限制后，日晒和厌氧变多，买时先看处理法（Coffee Review 2021）。",
+        "苏门答腊：湿刨法在含水率约 35–50% 时剥掉羊皮纸，典型是酸低、醇厚、土和香料感；好坏差距大（Coffearium；Coffee Review 2016）。"
+      ],
+      "try_today": "1. 早上冲，下午不喝。配方不变：S3 刻度 6.6 / 粉重 30 g / 水量 350 g / 93 °C，目标总时间 **3:00–3:15**。\n2. 先按秤上的 Timer 键再注水。下面的时间都是计时器读数（开始时刻），从按下 Timer 开始累计：\n   - 0:00–0:40 闷蒸：开头约 10 秒注到 60 g，然后等。\n   - 0:40–1:10 第 2 段：注到 150 g，然后等。\n   - 1:10–1:40 第 3 段：注到 250 g，然后等。\n   - 1:40 起第 4 段：注到 350 g，然后等滴滤结束，记下总时间。\n3. **三产区参照打分**（干粉 / 湿粉 / 入口各一次）：「巴西型」（坚果、可可）0–3 分，「哥伦比亚型」（焦糖、平衡、一点橙子）0–3 分，「苏门答腊型」（土、草本、香料、烟草）0–3 分。我的预期：巴西型最高；说不准就写「说不准」。\n4. 再记一句：醇厚度够不够「丝滑饱满」？这决定下一袋往巴西日晒还是苏门答腊湿刨走。\n5. 如果入口烟熏或焦明显压过可可、焦糖，下次改：水温 93 → 91 °C（推测，要用你这杯验证）。\n6. 把三栏分数、总时间、评分 1–5 语音发我，我记进 Coffee Log。",
+      "sources": [
+        {
+          "label": "Coffee Review · Coffees from Brazil: Chocolate, Simplicity and Some Surprises（Kenneth Davids, 2018）",
+          "url": "https://www.coffeereview.com/coffees-from-brazil-chocolate-simplicity-and-some-surprises/",
+          "reliability": "中高 · 专业杯测媒体，近 60 支样品盲测报告；属感官评论，不是对照实验"
+        },
+        {
+          "label": "Coffee Review · Colombia Coffee 2021: Best of Both Worlds or Identity Crisis?（Davids / Westerman）",
+          "url": "https://www.coffeereview.com/colombia-coffee-2021-best-of-both-worlds-or-identity-crisis/",
+          "reliability": "中高 · 63 支单一庄园样品盲测，含处理法比例和出口政策背景"
+        },
+        {
+          "label": "Coffee Review · Learning from Sumatras（Kim Westerman, 2016）",
+          "url": "https://www.coffeereview.com/learning-from-sumatras/",
+          "reliability": "中高 · 27 支苏门答腊杯测，详细描述湿刨法风味的好坏两端"
+        },
+        {
+          "label": "Coffearium · Wet-hulled (giling basah)",
+          "url": "https://coffearium.org/entries/wet-hulled/",
+          "reliability": "中高 · 汇总 FAO 项目报告、Pelita Perkebunan 等试验；标明了争议点和未知数"
+        }
+      ],
+      "illustration_prompt": "Hand-drawn sketchbook comic, black ink with soft sage-green and cream watercolor on warm paper #F4EEE1, 16:9. Three smiling burlap coffee sacks on a wooden counter: one with roasted nuts and a cocoa pod (Brazil), one with a caramel spoon and misty mountains (Colombia), one covered in moss, herbs and a tropical leaf (Sumatra). A cheerful sage pour-over dripper on a glass server at left. NO text/letters/numbers. Empty upper-left/upper-center for speech bubbles.",
+      "image_alt": "手绘水彩：木台上三个微笑的麻袋——左边配烤坚果和可可果，中间配一勺焦糖、背后是雾山，右边长满青苔和香草、旁边一片热带叶子；最左边是一只微笑的绿色滤杯坐在玻璃分享壶上；上方留白给气泡。",
+      "bubbles": [
+        {
+          "text": "想要低酸、饱满，\n该看哪个产区？",
+          "x": 4,
+          "y": 5,
+          "tail": "left"
+        },
+        {
+          "text": "先看处理法：\n**巴西日晒 · 苏门答腊湿刨**",
+          "x": 36,
+          "y": 5,
+          "tail": "left"
+        }
+      ],
+      "try_big": "巴 / 哥 / 苏",
+      "image": "images/2026-11-11.png",
+      "tag": "",
+      "gradient": {
+        "label": "三条低酸路线",
+        "steps": [
+          {
+            "label": "巴西 · 低海拔 + 日晒",
+            "color": "#8B5E3C"
+          },
+          {
+            "label": "哥伦比亚 · 水洗平衡",
+            "color": "#C4A574"
+          },
+          {
+            "label": "苏门答腊 · 湿刨土香",
+            "color": "#6B7B4F"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "code": "PR3",
+      "branch": "处理法",
+      "level": "进阶",
+      "lesson_no": 39,
+      "title": "处理法如何改变香气",
+      "summary": "处理法改的不是豆子本身，而是「烘焙前豆子里存了哪些香气前体」。日晒让果肉里的糖喂酵母，酯类（水果、酒香）留在豆里；水洗把发酵产物和糖冲掉，杯子更干净，偏花香、坚果；蜜处理介于两者之间。发酵没控好，醋酸会盖过水果，变成醋味、酒精味。",
+      "body": "**机制：微生物先「做菜」，烘焙再「加热」。** 采收后，果肉和果胶里有糖、氨基酸、有机酸。酵母把糖变成酒精，再酯化成乙酸乙酯、乙酸异戊酯这类「水果味」酯类；乳酸菌带来奶油感的双乙酰；醋酸菌则产生醋酸。2026 年 Molecules 的综述把这些物质当成各阶段的「生物标记」：酯类多，说明以酵母为主、发酵平衡；醋酸多，说明醋酸菌占上风、有过度发酵风险。综述还举了数据：日晒发酵 72–96 小时后，醋酸可到 4–6 mg/g，和醋味相关。\n\n**水洗：稀释 + 清洗。** 综述写，水洗相当于一次「稀释和选择性萃取」：冲掉残糖，后面的酵母就没粮了；已经生成的乙醇、乙酸乙酯也会溶进水里被带走。所以水洗豆通常更干净，过度发酵和醋味风险低。代价是一部分水果酯类也被洗掉。\n\n**日晒：慢干 = 把香气锁进豆里。** 整颗果实摊在晒床上晒好几天。综述指出，慢速晒干有利于乙酸异戊酯、2-苯乙醇这类水果 / 花香物质保留在豆子里；但暴晒太久或温度太高，酯类会挥发，游离脂肪酸增加，味道失衡。韩国 2020 年一项电子鼻研究用同一国家的 3 支水洗、3 支日晒对比：即使烘焙后，两组香气图谱仍能分开，有几种成分只在其中一组里出现。\n\n**对你的意义。** 你偏爱低酸、丝滑饱满、柔和。水果酯类本身不等于「酸」，但日晒和厌氧豆常伴着明亮的果酸和酒感；处理不好就是醋和酒精味。所以挑下一袋时，「巴西日晒」这类低海拔日晒或「苏门答腊湿刨」更合适，标着「厌氧 / 超长发酵」的要谨慎。Giant Steps 是深烘拼配，深烘会盖掉不少处理法痕迹。今天配方不改，只练用鼻子分辨处理法的方向。",
+      "takeaways": [
+        "发酵阶段：酵母产生水果酯类，醋酸菌产生醋酸；两者比例决定是「水果香」还是「醋味」（Molecules 2026 综述）。",
+        "水洗冲掉残糖和部分发酵产物，杯子干净；日晒慢干把酯类锁进豆里，水果和酒香更明显（同上）。",
+        "处理法的香气差异烘焙后仍测得出（Moon & Kim 2020 电子鼻研究）；但豆袋上写的发酵小时数，不能直接代表品质（PDG 2026）。"
+      ],
+      "try_today": "1. 早上冲，下午不喝。配方不变：S3 刻度 6.6 / 粉重 30 g / 水量 350 g / 93 °C，目标总时间 **3:00–3:15**。\n2. 先按秤上的 Timer 键再注水。下面的时间都是计时器读数（开始时刻），从按下 Timer 开始累计：\n   - 0:00–0:40 闷蒸：开头约 10 秒注到 60 g，然后等。\n   - 0:40–1:10 第 2 段：注到 150 g，然后等。\n   - 1:10–1:40 第 3 段：注到 250 g，然后等。\n   - 1:40 起第 4 段：注到 350 g，然后等滴滤结束，记下总时间。\n3. **处理法方向打分**（干粉 / 湿粉 / 入口各一次）：「日晒型」（莓果、酒香、果干）0–3 分，「水洗型」（干净、花香、坚果）0–3 分，「湿刨型」（土、草本、香料）0–3 分。我的预期：深烘下三项都不高，湿刨型可能略高（拼配里有苏门答腊）；说不准就写「说不准」。\n4. 再闻一次放凉的杯子：有没有一点醋味或酒精味？有的话记下来，这是发酵偏了的信号，不是你冲错了。\n5. 如果入口烟熏或焦明显压过可可、焦糖，下次改：水温 93 → 91 °C（推测，要用你这杯验证）。\n6. 把三栏分数、总时间、评分 1–5 语音发我，我记进 Coffee Log。",
+      "sources": [
+        {
+          "label": "Pajuelo-Muñoz et al. · Tracking Aromatic Volatile Biomarkers Through Coffee Bean Postharvest Stages（Molecules, 2026）",
+          "url": "https://www.mdpi.com/1420-3049/31/5/853",
+          "reliability": "高 · 同行评审综述，按采收、发酵、干燥、烘焙梳理香气物质，附具体浓度数据"
+        },
+        {
+          "label": "Moon & Kim · Fragrance Characteristics of Washed vs Natural Processed Coffee Using GC-IMS（J Korean Soc Food Nutr, 2020）",
+          "url": "https://www.e-jkfn.org/journal/view.html?uid=6777&vmd=Full",
+          "reliability": "中高 · 同行评审，但样本小（各 3 支），只读了摘要"
+        },
+        {
+          "label": "Perfect Daily Grind · 96 to 740 hours: The push for longer coffee fermentation（Elizabeth Sturges, 2026-11-11）",
+          "url": "https://perfectdailygrind.com/2026/11/the-push-for-longer-coffee-fermentation/",
+          "reliability": "中 · 行业媒体，引用 Cenicafé 2025 等研究和处理顾问观点；适合了解趋势"
+        }
+      ],
+      "illustration_prompt": "Hand-drawn watercolor comic in a sketchbook style: ink linework with soft sage green and cream washes on warm paper #F4EEE1, 16:9. Three anthropomorphic coffee characters on a wooden table: a plump red whole cherry lounging on a raised drying bed with strawberry and blueberry aroma wisps (natural), a sticky honey-coated bean in the middle (honey), a clean pale bean stepping out of a water trough with a towel and a tiny floral wisp (washed). A smiling sage cup at lower right. NO text/letters/numbers. Empty upper-left/upper-center for speech bubbles.",
+      "image_alt": "手绘水彩：木桌上三位咖啡角色——左边红色整颗咖啡果躺在晒床上，飘出草莓和蓝莓香气；中间一颗裹着蜂蜜般黏液的豆子；右边一颗干净的浅色豆子刚从水槽出来、搭着毛巾、飘着小花香；右下角一只微笑的绿色杯子；上方留白给气泡。",
+      "bubbles": [
+        {
+          "text": "同一颗果子，\n为什么香气差这么多？",
+          "x": 4,
+          "y": 5,
+          "tail": "left"
+        },
+        {
+          "text": "看发酵和怎么干：\n**日晒留酯 · 水洗洗净**",
+          "x": 36,
+          "y": 5,
+          "tail": "left"
+        }
+      ],
+      "try_big": "晒 / 洗 / 刨",
+      "image": "images/2026-11-12.png",
+      "tag": "",
+      "gradient": {
+        "label": "从干净到果香",
+        "steps": [
+          {
+            "label": "水洗 · 干净花香",
+            "color": "#C4D3B5"
+          },
+          {
+            "label": "蜜处理 · 甜感居中",
+            "color": "#D9A441"
+          },
+          {
+            "label": "日晒 · 果香酒感",
+            "color": "#A23B3B"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "code": "IN2",
+      "branch": "行业与文化",
+      "level": "入门",
+      "lesson_no": 40,
+      "title": "怎么读豆袋",
+      "summary": "豆袋上的每一行，都是烘焙商对「这杯会是什么味道」的压缩预告。先看烘焙日期（新鲜度），再看产地、海拔、处理法、品种（香气从哪来），最后看风味描述和烘焙度（烘焙商想让你尝到什么）。写得越具体，越能提前猜中杯子；什么都没写的拼配，就只能靠风味描述和自己的舌头。",
+      "body": "**一行字背后是一个机制。** 前三课讲了产地、品种、处理法怎么改变香气；豆袋就是把这些机制压成几行字。读豆袋，其实是在读「这袋豆的香气是怎么来的、现在还剩多少」。\n\n**① 烘焙日期：剩多少香气。** 烘焙后，CO₂ 和挥发性香气一起慢慢跑掉。Arco 的指南给出手冲的最佳窗口大约是烘焙后 7–30 天；Mug Cult 写的是 4–21 天。只印「Best before（最佳赏味期）」、往往一年以后的日期，不是新鲜度，是保质期。Giant Steps 今天是养豆第 58 天，已经在窗口外：香气偏弱，不怪你的手法。\n\n**② 产地 + 海拔：酸从哪来。** 海拔越高，果实熟得越慢，豆子更密、糖和酸更复杂，杯子更明亮。Arco 举例：2,100 m 的埃塞俄比亚，通常比 900 m 的巴西酸更多、更复杂；巴西则更醇厚、更像巧克力。你偏爱低酸、丝滑饱满，看到 1,800 m 以上要知道「它会更亮」。\n\n**③ 处理法：果味有多少。** 水洗干净明亮；日晒果味、酒感重；蜜处理居中（上一课 PR3 讲过机制）。\n\n**④ 品种：基因给的上限。** 波旁、铁皮卡偏甜；Gesha 花香；SL28 / SL34 酸度强、像黑醋栗（VA3 讲过）。Arco 提醒：没写品种不代表差，很多合作社是混种。\n\n**⑤ 风味描述 + 烘焙度：烘焙商的预告。** Giant Steps 官网只写了三样：可可、烤棉花糖、全麦饼干（Graham Cracker），深烘、有机认证，推荐粉水比 1:13。没有产地、海拔、处理法、品种——这是拼配的常见写法，靠烘焙风格保证每批稳定。所以它的「香气来源」主要是烘焙，而不是产地。",
+      "takeaways": [
+        "先看烘焙日期，不看「Best before」。手冲最佳窗口约烘焙后 7–30 天（Arco）或 4–21 天（Mug Cult），各家说法不同，但都远早于保质期。",
+        "海拔 → 酸，处理法 → 果味，品种 → 香气上限；三者都写了，你就能提前猜中杯子。偏低酸醇厚：找低海拔、巴西 / 苏门答腊、中深烘（Arco）。",
+        "Giant Steps 官网只写风味（可可、烤棉花糖、全麦饼干）、深烘、1:13，没有产地等信息——拼配靠烘焙风格说话（Blue Bottle 官网）。"
+      ],
+      "try_today": "1. 早上冲，下午不喝。配方不变：S3 刻度 6.6 / 粉重 30 g / 水量 350 g / 93 °C，目标总时间 **3:00–3:15**。\n2. 先按秤上的 Timer 键再注水。下面的时间都是计时器读数（开始时刻），从按下 Timer 开始累计：\n   - 0:00–0:40 闷蒸：开头约 10 秒注到 60 g，然后等。\n   - 0:40–1:10 第 2 段：注到 150 g，然后等。\n   - 1:10–1:40 第 3 段：注到 250 g，然后等。\n   - 1:40 起第 4 段：注到 350 g，然后等滴滤结束，记下总时间。\n3. **豆袋五问**：拿起 Giant Steps 的袋子，找这五样：烘焙日期、产地 / 海拔、处理法、品种、风味描述。有的打勾，没有的打叉，拍照发我。\n4. **对照风味描述**：喝的时候只找官网写的三样——可可、烤棉花糖、全麦饼干，各给 0–3 分。分数低不一定是你冲错了：养豆第 58 天，香气本来就弱。\n5. **为下一袋做准备**（只是参考，不催买）：袋子上找「烘焙日期在 2 周内」「海拔 1,500 m 以下或产地巴西 / 苏门答腊」「日晒或湿刨」「风味词有巧克力、坚果、焦糖」。\n6. 如果入口烟熏或焦明显压过可可，下次改：水温 93 → 91 °C（推测，要用你这杯验证）。把分数、总时间、评分 1–5 语音发我，我记进 Coffee Log。",
+      "sources": [
+        {
+          "label": "Arco Coffee · How to Read a Specialty Coffee Label",
+          "url": "https://arco.coffee/guides/sourcing/how-to-read-a-specialty-coffee-label",
+          "reliability": "中 · 器具品牌的科普指南，结构清楚；海拔、新鲜度窗口属行业通识，未附研究引用"
+        },
+        {
+          "label": "Mug Cult · How to Read a Coffee Bag Label",
+          "url": "https://mugcult.com/guides/how-to-read-coffee-bag-label",
+          "reliability": "中 · 科普站，只用来对照新鲜度窗口和 Best before 的说法"
+        },
+        {
+          "label": "Blue Bottle Coffee · Giant Steps 官方商品页",
+          "url": "https://bluebottlecoffee.com/us/eng/product/giant-steps",
+          "reliability": "高 · 烘焙商官方页，用来核对 Giant Steps 标注了什么、没标注什么"
+        }
+      ],
+      "illustration_prompt": "Hand-drawn watercolor comic in a sketchbook style: ink linework with soft sage green and cream washes on warm paper #F4EEE1, 16:9. A friendly anthropomorphic kraft coffee bag holds its own blank label; a coffee bean in round glasses inspects it with a magnifying glass; small wordless doodles float nearby (calendar, mountain, water drop, coffee cherry, plant sprig); a smiling sage cup at lower right. NO text/letters/numbers. Empty upper-left for speech bubbles.",
+      "image_alt": "手绘水彩：木桌上一只有表情的牛皮纸咖啡袋，双手举着空白标签；一颗戴圆眼镜的咖啡豆拿放大镜仔细看；旁边飘着日历、山、水滴、咖啡果、小树枝的小图标；右下角一只微笑的绿色杯子；左上留白给气泡。",
+      "bubbles": [
+        {
+          "text": "袋子上这么多字，\n先看哪个？",
+          "x": 4,
+          "y": 6,
+          "tail": "left"
+        },
+        {
+          "text": "先看**烘焙日期**，\n再看海拔和处理法",
+          "x": 4,
+          "y": 30,
+          "tail": "left"
+        }
+      ],
+      "try_big": "豆袋五问",
+      "image": "images/2026-11-13.png",
+      "tag": "",
+      "gradient": {
+        "label": "从新鲜度到风味预告",
+        "steps": [
+          {
+            "label": "烘焙日期 · 还剩多少香气",
+            "color": "#C4D3B5"
+          },
+          {
+            "label": "海拔 / 处理法 / 品种 · 香气从哪来",
+            "color": "#D9A441"
+          },
+          {
+            "label": "风味描述 · 烘焙商的预告",
+            "color": "#7A4A2E"
+          }
+        ]
+      }
     }
   ],
   "beans": [
@@ -2783,7 +2995,7 @@ window.LR_DATA = {
     "grind": "6.6",
     "grindPrev": "6.6",
     "target": "3:00–3:15",
-    "why": "<b>第 2 杯结果</b>（2026-10-03，养豆第 17 天）：S3 6.6 / 93 °C / 30 g : 350 g。总时间约 3:45。这是估计值，因为没有按 Timer。总时间偏长，原因是注水操作，不是研磨。豪力的评分是 5.5–6 / 10。<br><br><b>热的时候</b>：酸感仍明显，但入口顺了很多。咽下后不回酸。尾韵偏醇厚。这杯不明亮，也不算美味。<br><br><b>放凉后</b>（放到午饭后）：入口很浓。酸感仍在。苦味浮出来了，热的时候尝不出。原因有三个。第一，咖啡变凉后，甜感变弱，压不住苦味。第二，绿原酸内酯会慢慢分解成奎宁酸。奎宁酸又酸又涩。第三，变凉会暴露萃取不均或萃取过度。深烘豆变凉后更容易发苦。请趁热喝。<br><br><b>香气</b>：整豆、研磨后和杯里的香气都弱，像普通热美式，比新鲜挂耳还弱。原因有两个。第一，深烘拼配的香气本来就内敛。第二，到养豆第 17 天，挥发性香气已经随 CO₂ 散失，并且氧化了。挂耳每包都充氮密封，所以香气留在包里，打开时一次释放。<br><br><b>品鉴技巧</b>：用舌尖小口喝，然后直接咽下。这样尝到的酸感少很多。<br><br><b>下次改</b>：这一杯不改研磨，只把计时做准。S3 保持 6.6。先按 Timer，再严格按下面注水表的开始时刻注水。测出真实总时间。目标是 3:00–3:15。<br><br><br><br><b>今日课 VA3</b>：品种定香气上限，环境和烘焙决定表达；深烘会把品种差异压平。翻豆袋看有没有写品种，再给「品种 / 产地型」和「烘焙型」香气各打 0–3 分。手冲配方不改：S3 6.6 / 93 °C / 30:350 / 目标总时间 3:00–3:15。若烟熏压过可可，下次改水温 93 → 91 °C。",
+    "why": "<b>第 2 杯结果</b>（2026-10-03，养豆第 17 天）：S3 6.6 / 93 °C / 30 g : 350 g。总时间约 3:45。这是估计值，因为没有按 Timer。总时间偏长，原因是注水操作，不是研磨。豪力的评分是 5.5–6 / 10。<br><br><b>热的时候</b>：酸感仍明显，但入口顺了很多。咽下后不回酸。尾韵偏醇厚。这杯不明亮，也不算美味。<br><br><b>放凉后</b>（放到午饭后）：入口很浓。酸感仍在。苦味浮出来了，热的时候尝不出。原因有三个。第一，咖啡变凉后，甜感变弱，压不住苦味。第二，绿原酸内酯会慢慢分解成奎宁酸。奎宁酸又酸又涩。第三，变凉会暴露萃取不均或萃取过度。深烘豆变凉后更容易发苦。请趁热喝。<br><br><b>香气</b>：整豆、研磨后和杯里的香气都弱，像普通热美式，比新鲜挂耳还弱。原因有两个。第一，深烘拼配的香气本来就内敛。第二，到养豆第 17 天，挥发性香气已经随 CO₂ 散失，并且氧化了。挂耳每包都充氮密封，所以香气留在包里，打开时一次释放。<br><br><b>品鉴技巧</b>：用舌尖小口喝，然后直接咽下。这样尝到的酸感少很多。<br><br><b>下次改</b>：这一杯不改研磨，只把计时做准。S3 保持 6.6。先按 Timer，再严格按下面注水表的开始时刻注水。测出真实总时间。目标是 3:00–3:15。<br><br><br><br><b>今日课 IN2</b>：怎么读豆袋。先看烘焙日期，再看产地、海拔、处理法、品种，最后对照风味描述。Giant Steps 官网只写可可、烤棉花糖、全麦饼干和深烘，没有产地信息。手冲配方不改：S3 6.6 / 93 °C / 30:350 / 目标总时间 3:00–3:15。若烟熏压过可可，下次改水温 93 → 91 °C。",
     "prep": [
       "S3 归零：把外圈顺时针转到底，让“0”对准红标。",
       "把外圈<b>逆时针转到 6.6</b>。（不归零也可以：从 7.0 顺时针调细 4 格。）",
@@ -3173,6 +3385,33 @@ window.LR_DATA = {
     ]
   },
   "changelog": [
+    {
+      "date": "2026-11-13",
+      "items": [
+        "推送 Morning Gradient 第 40 课 IN2「怎么读豆袋」（来源：Arco Coffee 豆袋指南；Mug Cult 豆袋指南；Blue Bottle Giant Steps 官方页）。",
+        "配图：方向 A 手绘水彩，images/2026-11-13.png。",
+        "今日冲煮计划仍是第 3 杯：S3 6.6 / 93 °C / 30:350 / 目标总时间 3:00–3:15；新增「豆袋五问」和官网三种风味（可可 / 烤棉花糖 / 全麦饼干）0–3 分对照。",
+        "Giant Steps 养豆第 58 天，约 280 g。48 小时内无值得说的新闻。"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "items": [
+        "推送 Morning Gradient 第 39 课 PR3「处理法如何改变香气」（来源：Molecules 2026 采后香气标记物综述；Moon & Kim 2020 水洗 / 日晒电子鼻研究；Perfect Daily Grind 2026-11-11 长时间发酵报道）。",
+        "配图：方向 A 手绘水彩，images/2026-11-12.png。",
+        "今日冲煮计划仍是第 3 杯：S3 6.6 / 93 °C / 30:350 / 目标总时间 3:00–3:15；新增「日晒型 / 水洗型 / 湿刨型」三栏处理法打分。",
+        "Giant Steps 养豆第 57 天，约 280 g。新闻：Perfect Daily Grind 11/11，超长发酵（96–740 小时）趋势，研究显示时间长不等于分数高；Daily Coffee News 11/11，UNSW 石墨烯氧化物膜可在冲好后去除约 47% 咖啡因（早期实验）。"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "items": [
+        "推送 Morning Gradient 第 38 课 OR3「产区风味：巴西、哥伦比亚、苏门答腊」（来源：Coffee Review 2018 巴西报告、2021 哥伦比亚报告、2016 苏门答腊报告；Coffearium 湿刨法词条）。",
+        "配图：方向 A 手绘水彩，images/2026-11-11.png。",
+        "今日冲煮计划仍是第 3 杯：S3 6.6 / 93 °C / 30:350 / 目标总时间 3:00–3:15；新增「巴西型 / 哥伦比亚型 / 苏门答腊型」三栏参照打分。",
+        "Giant Steps 养豆第 56 天，约 280 g。新闻：Daily Coffee News 11/10，GCP 报告大买家可持续采购占比从约 75% 降到 69%；11/9，巴西 7 个再生农业农场的成本与产量研究。"
+      ]
+    },
     {
       "date": "2026-11-10",
       "items": [

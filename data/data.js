@@ -9,7 +9,7 @@ window.LR_DATA = {
   "meta": {
     "title": "Latent Roast",
     "subtitle": "豪力的咖啡数据实验室",
-    "updated": "2026-11-18",
+    "updated": "2026-11-19",
     "location": "纽约 · 海拔 0 ft"
   },
   "curriculum": {
@@ -3299,6 +3299,70 @@ window.LR_DATA = {
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-19",
+      "code": "RT3",
+      "branch": "比例与温度",
+      "level": "入门",
+      "lesson_no": 46,
+      "title": "热水与冰的比例：稀释和浓度",
+      "summary": "冰冲里，热水负责萃取，冰负责降温和稀释。冰在壶里全部化掉，杯里的浓度就由配方定死；冰太多，热水不够萃取，冰又化不完。热水约六成、冰约四成，是萃取和降温之间的平衡点。",
+      "body": "**两笔账分开算。** 你的配方是 30 g 粉、210 g 热水、140 g 冰，总水量 350 g。萃取只看热水：210 g 热水流过粉层，滴下来的是一壶约 1:7 的浓咖啡。浓度看总水量：冰化开后，整壶被稀释到 1:11.7，和热冲 30 g : 350 g 一样浓。所以冰不是“额外加的”，它是配方里的水，只是换了个形态、晚一点进杯。\n\n**冰为什么会全部化掉。**（下面是按比热和熔化热的粗算，不是实测。）从冷冻室拿出的冰约 −18 °C，把 140 g 冰升到 0 °C 再全部化掉，大约要吸收 52 kJ 热量。210 g 热水落进壶里时约 85 °C，降到 0 °C 能放出约 75 kJ。热水放的热比冰吸的多，所以 140 g 冰会全部化完，壶里剩下的是一壶凉的、而不是冰的咖啡。这正是我们要的：冰全化了，稀释量就是确定的 140 g，每次浓度都一样。\n\n**冰多了会怎样。** James Hoffmann 做过一组对照：冰越多，咖啡越冷，但过了某个点再加冰也冷不了多少，热水却少到萃取不好。他的判断标准很简单：**冲完壶里还剩冰块，就是冰放多了**，下次少放冰、多放热水。他用的是热水六成、冰四成。你的 140/350 = 40%，正好在这个点上。\n\n**最后那一下稀释。** 壶里的冰化完后，咖啡还是凉而不冰，所以倒进装了新冰块的杯子里喝。这些杯中冰会再稀释一点，所以冰冲的粉水比可以比热冲略浓（Hoffmann 每升多放 5 g 粉）。你的 1:11.7 本来就偏浓，正好留出这点余量，喝到最后也不会变成水。\n\n**对你的意思。** 想要更凉、更清爽，别往壶里加冰，在杯里加；想要更饱满，别减冰，减的是热水，冰占比一高，萃取不足，就偏酸、单薄。",
+      "takeaways": [
+        "热水管萃取，冰管降温和稀释；冰化完以后，浓度由总水量（热水 + 冰）决定。",
+        "冲完壶里还剩冰块 = 冰放多了（Hoffmann 的判断法）；热水约六成、冰约四成是平衡点。",
+        "要更冰就在杯里加新冰，不要在壶里加冰；杯中冰会再稀释一点，所以冰冲配方可以略浓。"
+      ],
+      "try_today": "1. 今天换上新豆 Devoción House Blend Honey（烘焙日期 11/12，养豆第 7 天）。冰和热水的比例不动：杯里 140 g 冰 / 95 °C 热水共 210 g / 粉重 30 g / S3 5.9，目标总时间 **2:40–3:00**。\n2. 冰放进分享壶，滤杯架上去，倒粉铺平，一起放上秤，按 TARE 归零。这样秤上读数只算热水。\n3. 先按秤上的 Timer 键再注水。下面是计时器上的累计时间段，每段开头先注到目标重量，其余时间等滴滤：\n   - 0:00–0:45 闷蒸：开头约 10 秒注到 60 g，然后等。\n   - 0:45–1:15：注到 120 g，然后等。\n   - 1:15–1:45：注到 170 g，然后等。\n   - 1:45 起：注到 210 g，等滴滤结束，记下总时间。\n4. 拿下滤杯，**先看壶里还有没有冰块**。全化了 = 比例对；还剩冰 = 冰多了。\n5. 晃匀，先尝一口壶里的（凉的），再倒进装了新冰的杯子尝一口。对比：杯中冰加进去后，是更清爽，还是开始变淡？\n6. 把总时间、壶里剩没剩冰、评分 1–5、口感一句语音发我，我记进 Coffee Log。",
+      "try_big": "60 : 40",
+      "sources": [
+        {
+          "label": "James Hoffmann · Better than cold brew: How to make iced filter coffee（YouTube）",
+          "url": "https://www.youtube.com/watch?v=PApBycDrPo0",
+          "reliability": "中高 · 前世界咖啡师冠军的实验型讲解，给了 60/40 比例、闷蒸 ≥ 45 秒和“剩冰 = 冰多了”的判断法；但实验数据没有公开发表"
+        },
+        {
+          "label": "Blue Bottle Coffee · Hot Over Ice Brew Guide",
+          "url": "https://bluebottlecoffee.com/us/eng/brew-guides/hot-over-ice",
+          "reliability": "中高 · 烘焙商官方冲煮指南：200 g 热水配约 75 g 冰，冲完冰应基本化开，再倒进加冰的杯子；只是一家的配方"
+        }
+      ],
+      "illustration_prompt": "Hand-drawn watercolor comic in sketchbook style: ink linework with soft sage green and cream washes on warm paper color #F4EEE1, 16:9 landscape. On a wooden counter sits an old-fashioned balance scale. On the left pan, a cheerful anthropomorphic gooseneck kettle with a smiling face steams gently; on the right pan, a small heap of cute round ice cube characters, one of them sweating and melting into a tiny puddle. Beside it, a glass server under a cone pour-over dripper holds amber coffee with a single half-melted ice cube floating. Small cozy details: a few coffee beans, a little thermometer. Gentle humor. Absolutely NO text, letters or numbers anywhere. Leave the upper-left and upper-center area as empty pale paper for speech bubbles.",
+      "image_alt": "手绘水彩：木台上一架老式天平，左盘是一把笑眯眯的绿色手冲壶在冒热气，右盘是三块笑脸冰块小人，身上挂着水珠；右边滤杯架在玻璃分享壶上，壶里是琥珀色咖啡和一块快化完的冰；台面上有一个小温度计和几颗咖啡豆；左上和中上方留白给气泡。",
+      "bubbles": [
+        {
+          "text": "冰多放点，\n不是更冰吗？",
+          "x": 4,
+          "y": 6,
+          "tail": "left"
+        },
+        {
+          "text": "热水六、冰四\n**壶里剩冰 = 冰多了**",
+          "x": 40,
+          "y": 6,
+          "tail": "left"
+        }
+      ],
+      "image": "images/2026-11-19.png",
+      "tag": "",
+      "gradient": {
+        "label": "冰冲的两笔账",
+        "steps": [
+          {
+            "label": "热水 · 管萃取",
+            "color": "#D9A441"
+          },
+          {
+            "label": "冰 · 管稀释",
+            "color": "#C4D3B5"
+          },
+          {
+            "label": "总水量 · 定浓度",
+            "color": "#7A4A2E"
+          }
+        ]
+      }
     }
   ],
   "beans": [
@@ -3309,23 +3373,31 @@ window.LR_DATA = {
       "type": "拼配 · 偏深烘",
       "notes": "巧克力、厚重 · 产地：乌干达、巴布亚新几内亚、苏门答腊（有机拼配）",
       "roastDate": "2026-09-16"
+    },
+    {
+      "id": "devocion-house-honey",
+      "name": "House Blend Honey",
+      "roaster": "Devoción",
+      "type": "拼配 · 水洗 · 烘焙度未标注",
+      "notes": "蜂蜜、橙花、焦糖、一点尤加利 · 产地：哥伦比亚，海拔 1,600–1,900 m",
+      "roastDate": "2026-11-12"
     }
   ],
   "recipe": {
-    "label": "冰冲 · 今日（第三阶段第 1 课）",
-    "bean": "giant-steps",
+    "label": "冰冲 · 今日（新豆第 1 杯）",
+    "bean": "devocion-house-honey",
     "dose": 30,
     "water": 210,
-    "tempC": 93,
-    "grind": "6.1",
-    "grindPrev": "6.3",
-    "target": "2:30–2:50",
-    "why": "<b>为什么改成冰冲</b>：豪力 2026-11-17 定：之后默认给冰冲参数。冰冲基准是 S3 6.3 / 30 g 粉 / 杯里 140 g 冰 / 93 °C 热水共 210 g（总水量 350 g，粉水比 1:11.7，冰占 40%）。<br><br><b>今天只改一个变量</b>：S3 从 6.3 调细到 <b>6.1</b>（2 格）。原因：冰不流过粉层，真正萃取的只有 210 g 热水，刻度不变容易萃取不足（偏酸、单薄）。磨细加大表面积、放慢流速，把萃取补回来（今日课 EX5）。<br><br><b>看什么</b>：更饱满、酸更少，就保留 6.1；开始发苦，下次退回 6.3。<br><br><b>注意</b>：Coffee Log 里最新的在家手冲仍是 10/3 的第 2 杯（热冲 6.6）；之后的冰冲还没记录。",
+    "tempC": 95,
+    "grind": "5.9",
+    "grindPrev": "6.1",
+    "target": "2:40–3:00",
+    "why": "<b>今天换豆</b>：Devoción House Blend Honey（烘焙日期 11/12，养豆第 7 天）。包装写着 Honey，但处理法是水洗；哥伦比亚 1,600–1,900 m 的高海拔豆，比深烘的 Giant Steps 更硬、更难萃取，酸也更容易冒出来。<br><br><b>新豆起点（只这一次一起动三处）</b>：S3 从 6.1 调细到 <b>5.9</b>（2 格）、水温 93 → <b>95 °C</b>、闷蒸 0:40 → <b>0:45</b>。三处都往“多萃取一点”走，目的是压住偏酸，把蜂蜜、焦糖的甜感拉出来，贴合你要的低酸、饱满。冰和热水的比例 140/210 不动（今日课 RT3）。从明天起又回到一次只改一个变量。<br><br><b>看什么</b>：冲完先看壶里还剩不剩冰；再尝酸是不是柔和、口感够不够饱满。<br><br><b>注意</b>：Coffee Log 里最新的在家手冲仍是 10/3 的第 2 杯；之后的冰冲还没记录。",
     "prep": [
       "S3 归零：把外圈顺时针转到底，让“0”对准红标。",
-      "把外圈<b>逆时针转到 6.1</b>。（从 6.3 顺时针调细 2 格也行。）",
-      "磨 30 g 豆。",
-      "把 Fellow 设到 <b>93 °C</b>。",
+      "把外圈<b>逆时针转到 5.9</b>。（从 6.1 顺时针调细 2 格也行。）",
+      "磨 30 g 新豆。",
+      "把 Fellow 设到 <b>95 °C</b>。",
       "分享壶里先放 <b>140 g 冰</b>。",
       "把 Blue Bottle 滤纸放进滤杯，滤杯架在分享壶上。<b>不要在分享壶上预湿</b>，免得冰提前化。",
       "倒入粉，轻轻铺平，整套放上秤。",
@@ -3334,32 +3406,32 @@ window.LR_DATA = {
     ],
     "timeline": [
       {
-        "t": "0:00–0:40",
-        "action": "闷蒸：开头约 10 秒注到 60 g，然后等。",
+        "t": "0:00–0:45",
+        "action": "闷蒸：开头约 10 秒注到 60 g，然后等。新豆排气多，粉层会鼓起来。",
         "total": "60 g",
         "kind": "pour"
       },
       {
-        "t": "0:40–1:10",
+        "t": "0:45–1:15",
         "action": "第 2 段：注到 120 g，然后等。",
         "total": "120 g",
         "kind": "pour"
       },
       {
-        "t": "1:10–1:40",
+        "t": "1:15–1:45",
         "action": "第 3 段：注到 170 g，然后等。",
         "total": "170 g",
         "kind": "pour"
       },
       {
-        "t": "1:40 起",
+        "t": "1:45 起",
         "action": "第 4 段：注到 210 g，停止注水，等滴滤。",
         "total": "210 g",
         "kind": "pour"
       },
       {
-        "t": "2:30–2:50",
-        "action": "滴滤结束。<b>记下这时的计时器读数</b>，它就是总时间。晃匀，让冰化一会儿再喝。",
+        "t": "2:40–3:00",
+        "action": "滴滤结束。<b>记下这时的计时器读数</b>，它就是总时间。先看壶里还剩不剩冰，再晃匀，倒进装了新冰的杯子。",
         "total": "210 g + 140 g 冰",
         "kind": "end"
       }
@@ -3367,20 +3439,20 @@ window.LR_DATA = {
     "pourNote": "左列是<b>计时器上的时间段</b>，从按下 Timer 开始累计。每段开头先注到目标重量，其余时间是等待滴滤。秤上读数只算热水，冰在 TARE 前已经放好。",
     "ifThen": [
       {
-        "if": "更饱满、酸更少，不苦",
-        "then": "固定 6.1，记为 Giant Steps 冰冲配方"
+        "if": "壶里还剩冰块",
+        "then": "下次冰减到 <b>120 g</b>、热水加到 230 g（总水量不变）"
       },
       {
-        "if": "开始发苦、发干",
-        "then": "下次退回 <b>6.3</b>"
+        "if": "酸柔和、饱满、有甜感",
+        "then": "固定 5.9 / 95 °C，记为这包豆的冰冲配方"
       },
       {
-        "if": "还是偏酸 / 单薄，总时间 &lt; 2:30",
-        "then": "下次再调细到 <b>5.9</b>（2 格），其他不变"
+        "if": "还是偏酸 / 单薄，总时间 &lt; 2:40",
+        "then": "下次再调细到 <b>5.7</b>（2 格），其他不变"
       },
       {
-        "if": "总时间超过 3:00",
-        "then": "刻度先不变，检查注水速度；仍慢再调粗回 6.3"
+        "if": "发苦、发干，或总时间超过 3:15",
+        "then": "下次退回 <b>6.1</b>，其他不变"
       }
     ],
     "ice": 140
@@ -3698,6 +3770,16 @@ window.LR_DATA = {
     ]
   },
   "changelog": [
+    {
+      "date": "2026-11-19",
+      "items": [
+        "推送 Morning Gradient 第 46 课 RT3「热水与冰的比例：稀释和浓度」（来源：James Hoffmann《Better than cold brew》视频；Blue Bottle Hot Over Ice 指南）。",
+        "配图：方向 A 手绘水彩，images/2026-11-19.png。",
+        "换新豆：Devoción House Blend Honey（烘焙日期 2026-11-12），加入豆子列表。",
+        "今日冰冲配方：S3 5.9 / 30 g 粉 / 140 g 冰 / 95 °C 热水 210 g / 闷蒸 0:00–0:45 / 目标总时间 2:40–3:00。",
+        "新闻：DCN 11/18，FDA 撤销二氯甲烷的几项食品用途（2027-01-11 生效），但脱因咖啡用途仍待另一份请愿裁定。"
+      ]
+    },
     {
       "date": "2026-11-18",
       "items": [

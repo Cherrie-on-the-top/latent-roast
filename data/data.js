@@ -9,7 +9,7 @@ window.LR_DATA = {
   "meta": {
     "title": "Latent Roast",
     "subtitle": "豪力的咖啡数据实验室",
-    "updated": "2026-11-19",
+    "updated": "2026-11-20",
     "location": "纽约 · 海拔 0 ft"
   },
   "curriculum": {
@@ -3363,6 +3363,75 @@ window.LR_DATA = {
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-20",
+      "code": "TA10",
+      "branch": "品鉴与风味",
+      "level": "进阶",
+      "lesson_no": 47,
+      "title": "低温怎样改变香气和酸感",
+      "summary": "同一杯咖啡，越冷，甜味的信号越弱，香气也跑出来得越少；酸没跟着退，于是冰咖啡容易喝起来更尖、更薄。想冰着喝也柔和，要靠萃取足，再控制杯里那块新冰。",
+      "body": "**先接你昨天的问题。** 你说得对：最稳的做法是先把萃取出来的咖啡液浓度控制住，再用冰稀释到好入口。壶里的冰在配方里，冰化完浓度就定了；杯里那块新冰是额外的，它做两件事：再稀释一点，以及让咖啡更冷。今天讲“更冷”这一半：同一杯咖啡，温度一变，你尝到的就不一样。\n\n**甜味最怕冷。** 味觉细胞把甜、鲜、苦的信号往神经传时，要经过一个叫 TRPM5 的离子通道。Talavera 等人 2005 年在 Nature 上发表：这个通道遇热才更活跃，在 15–35 °C 之间，电流随温度陡增；小鼠舌头对甜味物质的神经反应，从 15 °C 升到 35 °C 时明显变强，敲掉 TRPM5 的小鼠就没有这个变化。换句话说，同样多的甜味物质，越冷，“甜”的信号越弱。（这是细胞和小鼠实验，用到人喝冰咖啡上是合理推断，不是直接测出来的。）\n\n**甜退一步，酸就显出来。** 论文里 TRPM5 管的是甜、鲜、苦，没有提到酸。咖啡里的酸平时被甜味“包着”，冷下来甜先退，同样多的酸喝起来就更尖。这是冰咖啡常被说“更酸、更薄”的一个原因（推断，今天没找到直接测冰咖啡酸感的研究）。\n\n**香气也收起来。** 香气分子要先从液体跑进空气，鼻子才闻得到；温度越低，跑出来的越少（一般物理规律，不是今天来源里的数据）。Adhikari 等人 2019 年用训练过的品鉴小组测了 36 项风味：大多数风味只在 70 °C 时明显更强，50 °C 和 60 °C 之间差别不大；“咖啡感”随温度升高而增强。冰咖啡远低于 50 °C，这组数据覆盖不到，但方向一致：越冷，风味越收。\n\n**热的区间里差别其实不大。** UC Davis 的 Ristenpart 团队分析了 3000 多次消费者试喝（56–71 °C）：在这个范围里，温度几乎不影响大家对风味强度、酸感和口感是否合适的判断。所以真正的大变化在“热 → 冰”这一跳，不在 60 °C 和 70 °C 之间。\n\n**对你的意思。** 你要低酸、饱满、柔和。冰冲天生会让甜变弱、酸显出来，所以冰冲比热冲更需要萃取足，这也是新豆起步调细、加温的原因。另一条路是别喝得太冰：杯里少放新冰，或者倒出来放几分钟再喝，让甜回来一点。",
+      "takeaways": [
+        "甜味信号要经过 TRPM5 通道，它在 15–35 °C 之间对温度很敏感：越冷，甜越弱（细胞和小鼠实验）。",
+        "甜退一步，酸就显出来；香气分子也跑得少。所以冰咖啡容易显得更尖、更薄、香气更收。",
+        "想冰着喝也柔和：先保证萃取足，再少放杯中新冰，或倒出来等几分钟再喝。"
+      ],
+      "try_today": "1. 昨天没冲，今天照 11/19 的新豆配方冲 Devoción 第 1 杯，**不改变量**：S3 5.9 / 粉重 30 g / 壶里 140 g 冰 / 95 °C 热水共 210 g，目标总时间 **2:40–3:00**。\n2. 冰放进分享壶，滤杯架上去，倒粉铺平，一起放上秤，按 TARE 归零。这样秤上读数只算热水。\n3. 先按秤上的 Timer 键再注水。下面是计时器上的累计时间段，每段开头先注到目标重量，其余时间等滴滤：\n   - 0:00–0:45 闷蒸：开头约 10 秒注到 60 g，然后等。\n   - 0:45–1:15：注到 120 g，然后等。\n   - 1:15–1:45：注到 170 g，然后等。\n   - 1:45 起：注到 210 g，等滴滤结束，记下总时间。\n4. 拿下滤杯，先看壶里还剩不剩冰，再晃匀。\n5. 倒两小杯：A 杯放两三块新冰，B 杯不放冰。马上各喝一口，过 5 分钟再各喝一口。\n6. 每口只记三个词：甜（强 / 弱）、酸（尖 / 圆 / 几乎没有）、香气（强 / 弱）。看哪一项最怕冷。\n7. 把总时间、壶里剩没剩冰、评分 1–5、口感一句语音发我，我记进 Coffee Log。",
+      "try_big": "冷 → 甜↓",
+      "sources": [
+        {
+          "label": "Talavera et al. · Heat activation of TRPM5 underlies thermal sensitivity of sweet taste（Nature, 2005）",
+          "url": "https://www.nature.com/articles/nature04248",
+          "reliability": "高 · 同行评审期刊，机制清楚（15–35 °C 间 TRPM5 电流陡增，小鼠甜味神经反应随温度增强）；但是细胞和小鼠实验，用到人喝冰咖啡是推断"
+        },
+        {
+          "label": "Adhikari, Chambers, Koppel · Impact of consumption temperature on sensory properties of hot brewed coffee（Food Research International, 2019 · PubMed）",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30599987",
+          "reliability": "高 · 训练过的品鉴小组做 36 项风味的描述性分析；只测了 50 / 60 / 70 °C 的热咖啡，没测冰咖啡"
+        },
+        {
+          "label": "Ristenpart, Cotter, Guinard · Impact of beverage temperature on consumer preferences for black coffee（UC Davis · PMC 全文）",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9712614/",
+          "reliability": "高 · UC Davis 团队，3000 多次消费者试喝；温度只覆盖 56–71 °C，只能说明热的区间里差别小"
+        }
+      ],
+      "illustration_prompt": "Hand-drawn watercolor comic illustration on sketchbook paper (warm cream paper color close to #F4EEE1), ink linework with soft sage-green and cream watercolor washes, gentle humor. Left: a shivering pour-over dripper and glass carafe full of iced coffee wearing a knitted scarf, surrounded by cold blue ice cubes. Right: a cheerful cartoon tongue character holding a thermometer, sipping a warm cup of coffee under a sunbeam, with glowing sugar cubes. Empty paper space in the upper-left and upper-center for speech bubbles. Absolutely no text, letters or numbers. 16:9 landscape.",
+      "image_alt": "手绘水彩：左边一套手冲滤杯和玻璃分享壶装满冰咖啡，围着围巾、冷得发抖，周围是泛蓝的冰块；右边一个舌头小人举着温度计，在阳光下喝一杯温热的咖啡，身边的方糖在发光；中上方留白给气泡。",
+      "bubbles": [
+        {
+          "text": "冰着喝，\n怎么更酸了？",
+          "x": 30,
+          "y": 5,
+          "tail": "left"
+        },
+        {
+          "text": "酸没变多，\n**是甜被冻住了**",
+          "x": 56,
+          "y": 5,
+          "tail": "right"
+        }
+      ],
+      "image": "images/2026-11-20.png",
+      "tag": "",
+      "gradient": {
+        "label": "温度怎样改写味道",
+        "steps": [
+          {
+            "label": "热 · 甜和香都在",
+            "color": "#D9A441"
+          },
+          {
+            "label": "凉 · 甜先退",
+            "color": "#C4D3B5"
+          },
+          {
+            "label": "冰 · 酸显出来",
+            "color": "#7A4A2E"
+          }
+        ]
+      }
     }
   ],
   "beans": [
@@ -3384,7 +3453,7 @@ window.LR_DATA = {
     }
   ],
   "recipe": {
-    "label": "冰冲 · 今日（新豆第 1 杯）",
+    "label": "冰冲 · 今日（新豆第 1 杯，沿用 11/19 配方）",
     "bean": "devocion-house-honey",
     "dose": 30,
     "water": 210,
@@ -3392,7 +3461,7 @@ window.LR_DATA = {
     "grind": "5.9",
     "grindPrev": "6.1",
     "target": "2:40–3:00",
-    "why": "<b>今天换豆</b>：Devoción House Blend Honey（烘焙日期 11/12，养豆第 7 天）。包装写着 Honey，但处理法是水洗；哥伦比亚 1,600–1,900 m 的高海拔豆，比深烘的 Giant Steps 更硬、更难萃取，酸也更容易冒出来。<br><br><b>新豆起点（只这一次一起动三处）</b>：S3 从 6.1 调细到 <b>5.9</b>（2 格）、水温 93 → <b>95 °C</b>、闷蒸 0:40 → <b>0:45</b>。三处都往“多萃取一点”走，目的是压住偏酸，把蜂蜜、焦糖的甜感拉出来，贴合你要的低酸、饱满。冰和热水的比例 140/210 不动（今日课 RT3）。从明天起又回到一次只改一个变量。<br><br><b>看什么</b>：冲完先看壶里还剩不剩冰；再尝酸是不是柔和、口感够不够饱满。<br><br><b>注意</b>：Coffee Log 里最新的在家手冲仍是 10/3 的第 2 杯；之后的冰冲还没记录。",
+    "why": "<b>今天不改变量</b>：昨天你没冲，新豆 Devoción House Blend Honey（烘焙日期 11/12，今天养豆第 8 天）还一杯没喝过。照 11/19 的新豆起点冲第 1 杯：S3 <b>5.9</b> / <b>95 °C</b> / 闷蒸 <b>0:45</b>，这三处都往“多萃取一点”走，用来压住水洗高海拔豆的酸，把蜂蜜、焦糖的甜拉出来。<br><br><b>为什么冰冲更要萃取足</b>（今日课 TA10）：越冷，甜味信号越弱，酸就显出来。萃取足，甜才够撑住冰。<br><br><b>看什么</b>：冲完先看壶里剩不剩冰；再分两小杯（一杯加新冰、一杯不加）对比甜和酸。<br><br><b>注意</b>：Coffee Log 里最新的在家手冲仍是 10/3 的第 2 杯；之后的冰冲还没记录。",
     "prep": [
       "S3 归零：把外圈顺时针转到底，让“0”对准红标。",
       "把外圈<b>逆时针转到 5.9</b>。（从 6.1 顺时针调细 2 格也行。）",
@@ -3770,6 +3839,15 @@ window.LR_DATA = {
     ]
   },
   "changelog": [
+    {
+      "date": "2026-11-20",
+      "items": [
+        "推送 Morning Gradient 第 47 课 TA10「低温怎样改变香气和酸感」（来源：Talavera et al. 2005 Nature；Adhikari et al. 2019；UC Davis Ristenpart 团队消费者试喝研究）。",
+        "配图：方向 A 手绘水彩，images/2026-11-20.png。",
+        "今日冰冲配方沿用 11/19（昨天没冲）：S3 5.9 / 30 g 粉 / 140 g 冰 / 95 °C 热水 210 g / 闷蒸 0:00–0:45 / 目标总时间 2:40–3:00。",
+        "新闻：DCN 11/19，巴西 2026/27 产季估计创纪录 72.5 百万袋，但后期大雨拉低了部分阿拉比卡的品质。"
+      ]
+    },
     {
       "date": "2026-11-19",
       "items": [

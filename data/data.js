@@ -9,7 +9,7 @@ window.LR_DATA = {
   "meta": {
     "title": "Latent Roast",
     "subtitle": "豪力的咖啡数据实验室",
-    "updated": "2026-11-20",
+    "updated": "2026-11-21",
     "location": "纽约 · 海拔 0 ft"
   },
   "curriculum": {
@@ -3432,6 +3432,85 @@ window.LR_DATA = {
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-21",
+      "code": "EX6",
+      "branch": "萃取原理",
+      "level": "入门",
+      "lesson_no": 48,
+      "title": "冷萃的萃取动力学：时间、温度、研磨、比例",
+      "summary": "冷萃没有热量帮忙，只能靠时间：头几个小时先溶出颗粒表面的物质，之后要等颗粒内部的东西慢慢扩散出来，越来越慢，室温下约 6–7 小时接近平衡。四个变量里，温度定速度，时间定走到哪一步，粉水比定浓度上限；研磨反而没你想的那么重要。",
+      "body": "**先分清两件事。** 你现在喝的冰冲，是 95 °C 热水在 2:40–3:00 里把咖啡萃完，再落到冰上降温、稀释。冷萃从头到尾不用热水：粉泡在冷水或室温水里几个小时。热量没了，就只能拿时间去换。今天把“换”的过程拆成四层。\n\n**第一层：两段速度。** Fuller 和 Rao 2017 年在 21–25 °C 室温下，用 35 g 粉泡 350 mL 水（约 1:10），一直取样到 24 小时，测咖啡因和绿原酸（3-CGA）。两者都是头 180 分钟涨得快，之后变慢，大约 400 分钟（约 6.7 小时）到平衡；400 分钟和 1400 分钟（约 23 小时）的浓度在误差范围内。论文的解释：开头快，是颗粒表面和表层的物质先溶出来；后面慢，是物质要从颗粒内部的细孔一点点扩散到水里。\n\n**第二层：越接近终点越慢。** 这种曲线叫一级动力学：萃取速度和“离平衡还差多少”成正比，差得越少走得越慢。所以过了平衡点，多泡几个小时，杯里几乎不再多出东西。Stumptown 的首席冲煮师说法一致：接近平衡时萃取自然放慢，多泡几小时毁不了，但别超过 20–24 小时，容易出苦味、木头味；想更浓就少兑水，而不是泡更久。泡过头为什么会苦？Fuller 和 Rao 只给了推测：一类溶出很慢、带刺苦的物质（4-乙烯基儿茶酚低聚物）**可能**被慢慢泡出来。\n\n**第三层：研磨没你想的那么重要。** Fuller 和 Rao 的中研磨和粗研磨，最终咖啡因和绿原酸浓度没有显著差别，说明限制速度的不是表面积。Cordoba 等人 2019 年（20 °C，60 g 粉 : 700 g 水，约 1:11.7）甚至发现：粗研磨（701–900 µm）的浓度（TDS）和萃取率（EY）比中研磨（501–700 µm）还高；他们看到中研磨的滤袋结块更严重。也就是说，浸泡几个小时，粉堆得密不密、水进不进得去，比单颗粉的粗细更关键。这和你冰冲“调细补萃取”正好相反：冰冲只有三分钟，表面积说了算；冷萃泡几个小时，颗粒内部的扩散和结块说了算。\n\n**第四层：温度定速度，粉水比定浓度上限。** Kwok 等人 2020 年的综述说：温度越低萃得越慢。他们推荐的经验做法是 15 °C、每升水 80 g 粉、泡 2 小时，只萃出可溶物的约 70%；作者自己承认，这个 70% 还没有科学依据，是经验值。粉水比的作用可以这样理解（推理）：浸泡时粉和水一直待在一起，水里溶出的东西越多，再往外溶的推力越小；粉多水少，这个平衡点的浓度就高。所以冷萃常做成浓缩液再兑水（Stumptown 约 1:5.6 泡浓缩液，喝时 1:1 兑水或奶）。\n\n**对你的意思。** 你要低酸、柔和：Cordoba 测到所有冷萃样品的可滴定酸都低于热冲对照，为什么会这样，明天 EX7 细讲。还有一点：Cordoba 的 3 位品鉴员更喜欢泡 14 小时的，不是 22 小时的（人数少，只当参考）。今天先记住：冷萃好不好喝，靠的是“泡够、别泡过头”，不是磨细。",
+      "takeaways": [
+        "冷萃有两段速度：头约 3 小时表面物质快速溶出，之后靠颗粒内部扩散慢慢来；室温下咖啡因和绿原酸约 6–7 小时到平衡（Fuller & Rao 2017）。",
+        "浸泡式冷萃里研磨不是主角：中、粗研磨最终浓度差别不大，偏细反而容易结块挡水（Cordoba 2019 粗研磨的 TDS、萃取率更高）。",
+        "温度定速度，时间定走到哪，粉水比定浓度上限；想更浓就少兑水，别泡更久（Stumptown 建议别超过 20–24 小时）。"
+      ],
+      "try_today": "1. 主推不变：冰冲 Devoción 第 1 杯，S3 5.9 / 30 g 粉 / 壶里 140 g 冰 / 95 °C 热水共 210 g，注水表见“冲煮日记”。\n2. 可选小试（周末正好）：用快喝完的 Giant Steps 做一小罐冷萃，把 Devoción 留给冰冲。照 Blue Bottle Hario 冷萃瓶的比例减半：约 28 g 粉 + 350 g 冷的过滤水（原版 55 g : 700 mL）。研磨用中粗，明显比 5.9 粗，接近法压壶；S3 具体刻度今天没查到可靠对照，先目测。\n3. 盖好静置。Blue Bottle 原文泡 8 小时；放冰箱会比室温慢一点，所以 6 小时、8 小时各尝一小口，对照“6–7 小时到平衡”，看能不能尝出变化。\n4. 用滤纸过滤一遍，冰箱保存，Stumptown 建议 7–10 天内喝完。喝时先 1:1 兑水试。\n5. 语音发冰冲评分 1–5 和总时间。",
+      "sources": [
+        {
+          "label": "Fuller & Rao (2017) The Effect of Time, Roasting Temperature, and Grind Size on Caffeine and Chlorogenic Acid Concentrations in Cold Brew Coffee · Scientific Reports",
+          "url": "https://www.nature.com/articles/s41598-017-18247-4",
+          "reliability": "高 · 同行评审开放论文，测了 24 小时萃取曲线；但只测咖啡因和 3-CGA，单一产地、室温浸泡"
+        },
+        {
+          "label": "Cordoba et al. (2019) Effect of grinding, extraction time and type of coffee on the physicochemical and flavour characteristics of cold brew coffee · Scientific Reports",
+          "url": "https://www.nature.com/articles/s41598-019-44886-w",
+          "reliability": "高 · 同行评审，因子设计测 TDS / 萃取率 / 酸度；感官只有 3 位品鉴员，口味结论要打折"
+        },
+        {
+          "label": "Kwok et al. (2020) Current Challenges of Cold Brew Coffee · Challenges (MDPI)",
+          "url": "https://www.mdpi.com/2078-1547/11/2/26",
+          "reliability": "中高 · 综述加 Coffee Consulate 实务经验；70% 萃取目标作者自认尚无科学依据"
+        },
+        {
+          "label": "Stumptown · Homemade Cold Brew FAQs With Our Head Brewer (2026-04-27)",
+          "url": "https://www.stumptowncoffee.com/blogs/news/cold-brewing-faqs",
+          "reliability": "中 · 烘焙商官方经验建议，不是测量数据"
+        },
+        {
+          "label": "Blue Bottle · Hario Cold Brew Bottle Brew Guide",
+          "url": "https://bluebottlecoffee.com/us/eng/brew-guides/cold-brew-bottle",
+          "reliability": "中 · 烘焙商官方配方，适合做家用起点"
+        }
+      ],
+      "illustration_prompt": "Hand-drawn watercolor comic in sketchbook style, ink linework, soft sage green and cream washes, paper texture close to #F4EEE1, 16:9. A sleepy glass jar of cold brew with a cute drowsy face sits inside an open fridge shelf, coffee grounds in a cloth bag floating inside; a round wall clock character beside it with hands pointing to about 7 o'clock, looking satisfied; a small pour-over kettle peeks in from the right, curious. Gentle humor, objects with expressions. Leave top-left and top-center empty for speech bubbles. No text, no letters, no numbers in the image.",
+      "image_alt": "手绘水彩漫画：冰箱里一罐睡眼惺忪的冷萃，旁边的挂钟指着约 7 点，一把手冲壶从右边探头看。",
+      "bubbles": [
+        {
+          "text": "泡 24 小时，\n不是更浓吗？",
+          "x": 4,
+          "y": 6,
+          "tail": "left"
+        },
+        {
+          "text": "**6–7 小时**就到顶，\n想浓就少兑水",
+          "x": 50,
+          "y": 6,
+          "tail": "left"
+        }
+      ],
+      "gradient": {
+        "label": "冷萃的萃取曲线（室温，大致）",
+        "steps": [
+          {
+            "label": "头 3 小时 · 表面快溶",
+            "color": "#D9A441"
+          },
+          {
+            "label": "3–7 小时 · 内部慢渗",
+            "color": "#C4D3B5"
+          },
+          {
+            "label": "泡过头 · 可能出苦",
+            "color": "#7A4A2E"
+          }
+        ]
+      },
+      "try_big": "6–7 h",
+      "image": "images/2026-11-21.png",
+      "tag": ""
     }
   ],
   "beans": [
@@ -3461,7 +3540,7 @@ window.LR_DATA = {
     "grind": "5.9",
     "grindPrev": "6.1",
     "target": "2:40–3:00",
-    "why": "<b>今天不改变量</b>：昨天你没冲，新豆 Devoción House Blend Honey（烘焙日期 11/12，今天养豆第 8 天）还一杯没喝过。照 11/19 的新豆起点冲第 1 杯：S3 <b>5.9</b> / <b>95 °C</b> / 闷蒸 <b>0:45</b>，这三处都往“多萃取一点”走，用来压住水洗高海拔豆的酸，把蜂蜜、焦糖的甜拉出来。<br><br><b>为什么冰冲更要萃取足</b>（今日课 TA10）：越冷，甜味信号越弱，酸就显出来。萃取足，甜才够撑住冰。<br><br><b>看什么</b>：冲完先看壶里剩不剩冰；再分两小杯（一杯加新冰、一杯不加）对比甜和酸。<br><br><b>注意</b>：Coffee Log 里最新的在家手冲仍是 10/3 的第 2 杯；之后的冰冲还没记录。",
+    "why": "<b>今天不改变量</b>：昨天你没冲，新豆 Devoción House Blend Honey（烘焙日期 11/12，今天养豆第 9 天）还一杯没喝过。照 11/19 的新豆起点冲第 1 杯：S3 <b>5.9</b> / <b>95 °C</b> / 闷蒸 <b>0:45</b>，这三处都往“多萃取一点”走，用来压住水洗豆的酸，把蜂蜜、焦糖的甜拉出来。<br><br><b>和今日课 EX6 的关系</b>：冰冲只有三分钟、靠热水，所以要调细补萃取；冷萃泡几个小时，靠时间，研磨反而不是主角。两种冷杯，补萃取的办法正好相反。<br><br><b>看什么</b>：冲完先看壶里剩不剩冰；再分两小杯（一杯加新冰、一杯不加）对比甜和酸。<br><br><b>注意</b>：Coffee Log 里最新的在家手冲仍是 10/3 的第 2 杯；之后的冰冲还没记录。",
     "prep": [
       "S3 归零：把外圈顺时针转到底，让“0”对准红标。",
       "把外圈<b>逆时针转到 5.9</b>。（从 6.1 顺时针调细 2 格也行。）",
@@ -3839,6 +3918,15 @@ window.LR_DATA = {
     ]
   },
   "changelog": [
+    {
+      "date": "2026-11-21",
+      "items": [
+        "推送 Morning Gradient 第 48 课 EX6「冷萃的萃取动力学：时间、温度、研磨、比例」（来源：Fuller & Rao 2017；Cordoba et al. 2019；Kwok et al. 2020；Stumptown、Blue Bottle 官方冷萃指南）。",
+        "配图：方向 A 手绘水彩，路径 images/2026-11-21.png（本次运行没有生图工具，图片待补；补上前页面显示占位图）。",
+        "今日冰冲配方沿用 11/19（Devoción 第 1 杯仍未冲）：S3 5.9 / 30 g 粉 / 140 g 冰 / 95 °C 热水 210 g / 闷蒸 0:00–0:45 / 目标总时间 2:40–3:00；附可选家用冷萃小试（Giant Steps，约 28 g : 350 g，中粗，6–8 小时）。",
+        "新闻：PDG 11/20 周报，ICE 认证阿拉比卡库存 11/16 降到 186,414 袋，27 年来最低；DCN 11/20 周报，Bosch 北美新款 VeroCafe 全自动咖啡机带冷萃模式。"
+      ]
+    },
     {
       "date": "2026-11-20",
       "items": [

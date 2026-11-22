@@ -9,7 +9,7 @@ window.LR_DATA = {
   "meta": {
     "title": "Latent Roast",
     "subtitle": "豪力的咖啡数据实验室",
-    "updated": "2026-11-21",
+    "updated": "2026-11-22",
     "location": "纽约 · 海拔 0 ft"
   },
   "curriculum": {
@@ -3511,6 +3511,75 @@ window.LR_DATA = {
       "try_big": "6–7 h",
       "image": "images/2026-11-21.png",
       "tag": ""
+    },
+    {
+      "date": "2026-11-22",
+      "code": "EX7",
+      "branch": "萃取原理",
+      "level": "进阶",
+      "lesson_no": 49,
+      "title": "冷萃为什么喝起来更低酸",
+      "summary": "冷萃的 pH 和热冲差不多，真正少的是“总酸量”（可滴定酸）。咖啡里的酸大多是弱酸，pH 只量已经放出来的那一小部分；舌头尝到的酸，更跟着总酸量走。冷水没有热量帮忙，把酸从颗粒里带出来的少，所以喝起来柔。",
+      "body": "**先拆一个误会：低酸不等于 pH 高。** pH 量的是水里已经游离出来的氢离子。咖啡里的酸（柠檬酸、苹果酸、醋酸、绿原酸等）大多是弱酸，放进水里只有一小部分会放出氢离子，其余还“攥在手里”。可滴定酸（TA）是另一种量法：往咖啡里一点点加碱，看要加多少才能把它中和到设定的 pH，等于把攥着的那部分也算进去，量的是总酸量。\n\n**第一层：舌头更信总酸量。** UC Davis 团队（Batali 等，SCA 新闻转述）冲了 744 杯滴滤咖啡，每杯都测 pH 和 TA，再让品鉴小组打分。结果：TA 和尝到的酸强相关；pH 和酸感在温度实验里没有关系，在烘焙实验里只是弱相关。pH 几乎不随萃取变化，主要随烘焙度变；TA 则跟浓度（TDS）成直线上升。SCA 文章的说法是：弱酸虽然不完全放出氢离子，照样会触发舌头上的酸味受体。\n\n**第二层：冷萃少的正是总酸量。** Rao 和 Fuller 2018 年用 6 个产地的浅烘豆，同样 35 g 粉配 350 mL 水，做两种咖啡：冷萃是 21–25 °C 室温泡 7 小时；热冲是沸水法压泡 6 分钟。两种的 pH 差不多，全部落在 4.85–5.13 之间；可是**每一个**冷萃样品的 TA 都比它的热冲对照低。Cordoba 等人 2019 年用两支哥伦比亚精品豆再测一次，结论一样：所有冷萃的 TA 都低于热冲。\n\n**第三层：为什么冷水带出的酸少。** Rao 和 Fuller 的解释是：热水会多萃出一批“还没放出氢离子”的酸，热冲的化学成分也更复杂。至于这些酸怎样从颗粒里脱出来、穿过细孔扩散到冷水里，论文明说**还不清楚**。可以接上 EX6 的思路理解（推理）：冷萃靠时间慢慢扩散，热量少了，一部分东西就是出不来，或出来得少。\n\n**第四层：冷萃里也有能调的地方。** Cordoba 测到：同是冷萃，粗研磨 + 泡 22 小时的 TA 最高，中研磨 + 14 小时最低；豆子不同（Nariño 比 Huila）TA 也不同。也就是说，泡得越久、萃得越多，酸也跟着上来；豆子本身的底子同样算数。再加上 SCA 那条“TA 跟着浓度走”：冷萃浓缩液兑水后，总酸量也按比例降（推理）。\n\n**对你的意思。** 你的冰冲是 95 °C 热水萃的，总酸量更接近热冲，只是喝的时候冷（TA10 讲过低温本身会改变酸感）。想从源头把酸压低，冷萃是更直接的路。要注意两点：一，Rao 和 Fuller 只测了浅烘豆，没测深烘；二，“对胃更友好”他们没有测，作者说还要更多研究。",
+      "takeaways": [
+        "酸感跟总酸量（可滴定酸 TA）走得更紧，跟 pH 关系弱；咖啡的酸多是弱酸，pH 只量放出来的那一部分（UC Davis / SCA，744 杯）。",
+        "冷萃和热冲 pH 差不多（4.85–5.13），但每个冷萃样品的 TA 都更低；冷水带出的酸少，为什么少还没完全弄清（Rao & Fuller 2018；Cordoba 2019）。",
+        "冷萃里泡越久、萃越多，酸也越多；兑水会按比例降低总酸量。你的冰冲靠热水萃取，总酸量更接近热冲。"
+      ],
+      "try_today": "1. 主推不变：冰冲 Devoción 第 1 杯，S3 5.9 / 30 g 粉 / 壶里 140 g 冰 / 95 °C 热水共 210 g，注水表见“冲煮日记”。\n2. 如果昨天泡了 Giant Steps 小罐冷萃：倒两小杯，一杯冷萃先 1:1 兑水，一杯冰冲，用同样大小的杯子、同样的温度并排喝。\n3. 只看一件事：咽下后舌头两侧的酸，哪杯更少？再看甜和醇厚度有没有跟着变薄。\n4. 没泡冷萃也没关系，今天照常冰冲，把“酸在哪一口出现”记一句就行。\n5. 语音发冰冲评分 1–5 和总时间。",
+      "sources": [
+        {
+          "label": "Rao & Fuller (2018) Acidity and Antioxidant Activity of Cold Brew Coffee · Scientific Reports",
+          "url": "https://www.nature.com/articles/s41598-018-34392-w",
+          "reliability": "高 · 同行评审开放论文，6 个产地冷热对照；只用浅烘豆，冷萃 7 小时、热冲沸水法压 6 分钟，冲法不完全对等"
+        },
+        {
+          "label": "Cordoba et al. (2019) Effect of grinding, extraction time and type of coffee on the physicochemical and flavour characteristics of cold brew coffee · Scientific Reports",
+          "url": "https://www.nature.com/articles/s41598-019-44886-w",
+          "reliability": "高 · 同行评审，测了冷萃不同研磨 / 时间下的 pH 和 TA；只有两支哥伦比亚豆"
+        },
+        {
+          "label": "SCA News 25-15 · Manipulating and Measuring a Key Attribute in Drip Brew Coffee（UC Davis 团队 pH / TA / 酸感研究）",
+          "url": "https://sca.coffee/sca-news/25/issue-15/manipulating-and-measuring-a-key-attribute-in-drip-brew-coffee-zwlhz",
+          "reliability": "中高 · SCA 官方刊物，研究者自述 744 杯数据；是热滴滤咖啡的结论，移到冷萃属于推理"
+        }
+      ],
+      "illustration_prompt": "Hand-drawn watercolor comic in sketchbook style, ink linework, soft sage green and cream washes, paper texture close to #F4EEE1, 16:9 landscape. Two coffee characters side by side on a kitchen counter: on the left a steaming hot pour-over cup with lively little lemon-slice friends bouncing around it, looking energetic and a bit tart; on the right a calm glass jar of cold brew with ice, relaxed sleepy smile, only one small shy lemon slice peeking from behind it. A tiny old-fashioned glass dropper and a small beaker sit in the foreground like lab tools, with a curious expression. Gentle humor, objects with expressions. Leave top-left and top-center empty cream paper for speech bubbles. No text, no letters, no numbers anywhere in the image.",
+      "image_alt": "手绘水彩漫画：左边一杯热手冲，柠檬片在它头顶蹦跳；右边一罐加冰的冷萃神情放松，只有一片柠檬靠在杯口；前面一支滴管和一个小量杯好奇地看着。",
+      "bubbles": [
+        {
+          "text": "pH 差不多，\n为什么它不酸？",
+          "x": 3,
+          "y": 8,
+          "tail": "left"
+        },
+        {
+          "text": "少的是**总酸量**，\n不是 pH",
+          "x": 3,
+          "y": 40,
+          "tail": "left"
+        }
+      ],
+      "gradient": {
+        "label": "同一支豆，总酸量（TA）大致排序",
+        "steps": [
+          {
+            "label": "热冲 · 总酸量高",
+            "color": "#7A4A2E"
+          },
+          {
+            "label": "冷萃泡久 · 中间",
+            "color": "#D9A441"
+          },
+          {
+            "label": "冷萃兑水 · 最柔",
+            "color": "#C4D3B5"
+          }
+        ]
+      },
+      "try_big": "TA ↓",
+      "image": "images/2026-11-22.png",
+      "tag": ""
     }
   ],
   "beans": [
@@ -3540,7 +3609,7 @@ window.LR_DATA = {
     "grind": "5.9",
     "grindPrev": "6.1",
     "target": "2:40–3:00",
-    "why": "<b>今天不改变量</b>：昨天你没冲，新豆 Devoción House Blend Honey（烘焙日期 11/12，今天养豆第 9 天）还一杯没喝过。照 11/19 的新豆起点冲第 1 杯：S3 <b>5.9</b> / <b>95 °C</b> / 闷蒸 <b>0:45</b>，这三处都往“多萃取一点”走，用来压住水洗豆的酸，把蜂蜜、焦糖的甜拉出来。<br><br><b>和今日课 EX6 的关系</b>：冰冲只有三分钟、靠热水，所以要调细补萃取；冷萃泡几个小时，靠时间，研磨反而不是主角。两种冷杯，补萃取的办法正好相反。<br><br><b>看什么</b>：冲完先看壶里剩不剩冰；再分两小杯（一杯加新冰、一杯不加）对比甜和酸。<br><br><b>注意</b>：Coffee Log 里最新的在家手冲仍是 10/3 的第 2 杯；之后的冰冲还没记录。",
+    "why": "<b>今天不改变量</b>：昨天没有新的冲煮记录，Devoción House Blend Honey（烘焙日期 11/12，今天养豆第 10 天）还一杯没喝。照 11/19 的新豆起点冲第 1 杯：S3 <b>5.9</b> / <b>95 °C</b> / 闷蒸 <b>0:45</b>，这三处都往“多萃取一点”走，用来压住水洗豆的酸，把蜂蜜、焦糖的甜拉出来。<br><br><b>和今日课 EX7 的关系</b>：冰冲靠热水萃取，总酸量更接近热冲；冷萃靠冷水，总酸量从源头就低。所以冰冲想更柔，靠的是把甜萃出来去平衡酸，而不是指望温度把酸去掉。<br><br><b>看什么</b>：冲完先看壶里剩不剩冰；咽下后舌头两侧的酸，和甜比哪个先出来。<br><br><b>注意</b>：Coffee Log 里最新的在家手冲仍是 10/3 的第 2 杯；之后的冰冲还没记录。",
     "prep": [
       "S3 归零：把外圈顺时针转到底，让“0”对准红标。",
       "把外圈<b>逆时针转到 5.9</b>。（从 6.1 顺时针调细 2 格也行。）",
@@ -3918,6 +3987,15 @@ window.LR_DATA = {
     ]
   },
   "changelog": [
+    {
+      "date": "2026-11-22",
+      "items": [
+        "推送 Morning Gradient 第 49 课 EX7「冷萃为什么喝起来更低酸」（来源：Rao & Fuller 2018；Cordoba et al. 2019；SCA News 25-15 UC Davis pH / 可滴定酸研究）。",
+        "配图：方向 A 手绘水彩，路径 images/2026-11-22.png。",
+        "今日冰冲配方沿用 11/19（Devoción 第 1 杯仍未冲）：S3 5.9 / 30 g 粉 / 140 g 冰 / 95 °C 热水 210 g / 闷蒸 0:00–0:45 / 目标总时间 2:40–3:00；附可选冷萃 vs 冰冲并排对比。",
+        "新闻：近 48 小时 Daily Coffee News、Perfect Daily Grind 无新的重要内容（最新一期 11/20 已在昨天写过）。"
+      ]
+    },
     {
       "date": "2026-11-21",
       "items": [

@@ -9,7 +9,7 @@ window.LR_DATA = {
   "meta": {
     "title": "Latent Roast",
     "subtitle": "豪力的咖啡数据实验室",
-    "updated": "2026-11-22",
+    "updated": "2026-11-23",
     "location": "纽约 · 海拔 0 ft"
   },
   "curriculum": {
@@ -3580,6 +3580,80 @@ window.LR_DATA = {
       "try_big": "TA ↓",
       "image": "images/2026-11-22.png",
       "tag": ""
+    },
+    {
+      "date": "2026-11-23",
+      "code": "RT4",
+      "branch": "比例与温度",
+      "level": "入门",
+      "lesson_no": 50,
+      "title": "冷萃浓缩液和稀释",
+      "summary": "冷萃里有两个比：浸泡时的萃取比，决定萃出了什么；兑水后的饮用比，决定杯里有多浓。兑水只把浓度（TDS）拉低，不改变酸、苦、甜之间的比例。所以“浓淡”靠稀释调，“平衡”靠萃取调，两件事分开管。",
+      "body": "**先看三份配方落到杯里是多少。** Stumptown 的家用浓缩液：12 oz 豆（约 340 g）配 64 oz 水（约 1,890 g），萃取比约 1:5.6，泡 16 小时，喝前按 1:1 兑水或兑奶，杯里大约 1:11。Blue Bottle 的 Hario 冷萃瓶：55 g 配 700 mL，约 1:12.7，泡 8 小时，不兑水，直接倒在冰上喝。你今天的冰冲：30 g 粉、230 g 热水、120 g 冰，合起来 1:11.7。三条路，杯里的总粉水比落在差不多的地方。浓缩液不是“更浓的咖啡”，只是把同样的咖啡分两步做完。\n\n**第一层：两个比，各管一件事。** 萃取比管的是萃取过程：水少粉多，水里很快变浓。饮用比管的是浓度：杯里溶解物的总量 ÷ 整杯重量。兑水时溶解物一样没少，只是被摊薄，酸、苦、甜按同一个比例一起降。所以兑水能把“太冲”变成“刚好”，但不能把“又干又苦”变成“甜”。平衡要回到萃取那一步去改。\n\n**第二层：为什么要分开管。** Stumptown 的建议很直接：想喝浓一点，就少兑水，不要泡更久。原因是浸泡到后段，咖啡和水接近平衡，萃取自己会慢下来；超过 20–24 小时，多出来的多是苦和木头味。时间管萃取（平衡），稀释管浓度，一次只动一个变量。\n\n**第三层：浓缩的代价（推理）。** 接 EX5 的浓度梯度：萃取比越浓，水里溶解物越多，颗粒里外的浓度差越小，扩散就越早变慢。粉越多，粉渣吸走、留在里面的液体也越多。Cordoba 等人 2019 年的数据说明，冷萃泡得够久，萃出的东西并不少：同样的粉水比下，粗研磨、泡 22 小时的冷萃，TDS 和萃取率都高过他们的热冲对照。但浓缩液兑水后，味道是不是和直接按 1:12 泡出来一样？Kwok 等人 2020 年的综述明说：浓度怎样影响风味，**目前没有研究**。所以这里只能自己尝。\n\n**第四层：冰也是一种稀释。** Kwok 等人提醒：冰会降温，也会冲淡香气；温度低了，舌头对味道的感知也被压住。冷萃倒在冰上，冰一边化，杯子一边变淡。你的冰冲把这一步提前做完了：壶里的冰就是兑进去的水，一冲完就定量。今天把冰从 140 g 减到 120 g、热水从 210 g 加到 230 g，总量还是 350 g，杯里浓度差不多；变的是更多的水真正参与了萃取，萃取比从 1:7 放宽到约 1:7.7，目标是多萃一点甜和醇厚度。这正是今天课里“萃取比”和“饮用比”的分工。",
+      "takeaways": [
+        "冷萃有两个比：萃取比决定萃出了什么（平衡），饮用比决定杯里有多浓（浓度 TDS）。兑水只摊薄，不改酸、苦、甜的比例。",
+        "想要浓一点，就少兑水，不要泡更久；浸泡后段接近平衡，泡过 20–24 小时多出来的是苦和木头味（Stumptown）。",
+        "Stumptown 浓缩液约 1:5.6 再 1:1 兑水，Blue Bottle 约 1:12.7 直接喝，你的冰冲 1:11.7：杯里终点相近。浓缩后兑水和直接泡是否同味，尚无研究（Kwok 2020）。"
+      ],
+      "try_today": "1. 冰冲 Devoción 第 2 杯，换昨天定好的比例：S3 5.9 / 30 g 粉 / 壶里 120 g 冰 / 95 °C 热水共 230 g，注水表见“冲煮日记”。刷牙后至少等 30 分钟再喝。\n2. 小实验（1 分钟）：冲好晃匀后，倒两小杯各约 40 g。一杯不动，另一杯加 10 g 冷水。并排各喝一口：加水那杯，是酸、苦、甜一起变淡，还是某一种先消失？\n3. 只记一句：干苦有没有比 11/21 那杯少，咽下后有没有回甘。\n4. 不用今天泡冷萃。11/28 的对照实验前一晚再泡，参数到时候写。\n5. 语音发评分 1–5 和总时间。",
+      "sources": [
+        {
+          "label": "Stumptown · Homemade Cold Brew FAQs With Our Head Brewer (2026-04-27)",
+          "url": "https://www.stumptowncoffee.com/blogs/news/cold-brewing-faqs",
+          "reliability": "中 · 烘焙商官方经验建议（340 g : 64 oz、16 小时、1:1 兑水、“少兑水别多泡”），不是测量数据"
+        },
+        {
+          "label": "Blue Bottle · Hario Cold Brew Bottle Brew Guide",
+          "url": "https://bluebottlecoffee.com/us/eng/brew-guides/cold-brew-bottle",
+          "reliability": "中 · 烘焙商官方配方（55 g : 700 mL、8 小时、不兑水），只是一家的起点"
+        },
+        {
+          "label": "Kwok et al. (2020) Current Challenges of Cold Brew Coffee · Challenges (MDPI)",
+          "url": "https://www.mdpi.com/2078-1547/11/2/26",
+          "reliability": "中高 · 综述加实务经验；明说浓度对风味的影响尚无研究，冰会冲淡香气"
+        },
+        {
+          "label": "Cordoba et al. (2019) Effect of grinding, extraction time and type of coffee on the physicochemical and flavour characteristics of cold brew coffee · Scientific Reports",
+          "url": "https://www.nature.com/articles/s41598-019-44886-w",
+          "reliability": "高 · 同行评审；同粉水比下冷萃（粗研磨 22 小时）TDS 和萃取率高于热冲对照；只有两支哥伦比亚豆"
+        }
+      ],
+      "illustration_prompt": "Hand-drawn watercolor comic in sketchbook style, ink linework, soft sage green and cream washes, paper texture close to #F4EEE1, 16:9 landscape. On a kitchen counter: a short, chubby glass jar of very dark cold brew concentrate with a proud, slightly too-intense expression (furrowed brows, puffed cheeks), next to a friendly glass water carafe character gently pouring water into a tall glass with ice. The tall glass in the middle holds a lighter amber coffee and looks relaxed and happy. A small wooden measuring spoon and a mason jar with coarse coffee grounds sit nearby, a little sleepy. Gentle humor, objects with expressions. Leave top-left and top-center empty cream paper for speech bubbles. No text, no letters, no numbers anywhere in the image.",
+      "image_alt": "手绘水彩漫画：左边一罐深色冷萃浓缩液皱着眉、一脸太冲；中间一杯加冰的琥珀色咖啡笑得很放松，一只玻璃水壶正往里倒水；右边一罐粗咖啡粉和一把木量勺有点犯困。",
+      "bubbles": [
+        {
+          "text": "我是不是\n太冲了？",
+          "x": 3,
+          "y": 8,
+          "tail": "left"
+        },
+        {
+          "text": "浓淡靠**兑水**，\n平衡靠**萃取**",
+          "x": 30,
+          "y": 6,
+          "tail": "left"
+        }
+      ],
+      "gradient": {
+        "label": "冷萃浓缩液：从泡到喝",
+        "steps": [
+          {
+            "label": "浸泡 · 约 1:5.6",
+            "color": "#3B2417"
+          },
+          {
+            "label": "1:1 兑水",
+            "color": "#7A4A2E"
+          },
+          {
+            "label": "杯里 · 约 1:11",
+            "color": "#D9A441"
+          }
+        ]
+      },
+      "try_big": "1:1",
+      "image": "images/2026-11-23.png",
+      "tag": ""
     }
   ],
   "beans": [
@@ -3601,21 +3675,21 @@ window.LR_DATA = {
     }
   ],
   "recipe": {
-    "label": "冰冲 · 今日（新豆第 1 杯，沿用 11/19 配方）",
+    "label": "冰冲 · 今日（Devoción 第 2 杯，冰 120 g / 热水 230 g）",
     "bean": "devocion-house-honey",
     "dose": 30,
-    "water": 210,
+    "water": 230,
     "tempC": 95,
     "grind": "5.9",
-    "grindPrev": "6.1",
-    "target": "2:40–3:00",
-    "why": "<b>今天不改变量</b>：昨天没有新的冲煮记录，Devoción House Blend Honey（烘焙日期 11/12，今天养豆第 10 天）还一杯没喝。照 11/19 的新豆起点冲第 1 杯：S3 <b>5.9</b> / <b>95 °C</b> / 闷蒸 <b>0:45</b>，这三处都往“多萃取一点”走，用来压住水洗豆的酸，把蜂蜜、焦糖的甜拉出来。<br><br><b>和今日课 EX7 的关系</b>：冰冲靠热水萃取，总酸量更接近热冲；冷萃靠冷水，总酸量从源头就低。所以冰冲想更柔，靠的是把甜萃出来去平衡酸，而不是指望温度把酸去掉。<br><br><b>看什么</b>：冲完先看壶里剩不剩冰；咽下后舌头两侧的酸，和甜比哪个先出来。<br><br><b>注意</b>：Coffee Log 里最新的在家手冲仍是 10/3 的第 2 杯；之后的冰冲还没记录。",
+    "grindPrev": "5.9",
+    "target": "2:50–3:10",
+    "why": "<b>今天只改一个变量：冰和热水的分配。</b>11/21 第 1 杯（140 g 冰 + 210 g 热水）入口不平衡，收尾干苦、没有回甘；但喝前刚刷完牙，那杯只作参考。11/22 定的新比例还没有冲煮记录，今天照它冲：冰减到 <b>120 g</b>，热水加到 <b>230 g</b>，总量还是 350 g。S3 <b>5.9</b>、<b>95 °C</b>、闷蒸 0:45 都不动。<br><br><b>为什么</b>：杯里浓度差不多，但多了 20 g 热水真正参与萃取，萃取比从 1:7 放宽到约 1:7.7，目标是多萃一点甜和醇厚度，让冰化之后不只剩苦的骨架。这就是今日课 RT4 里“萃取比管平衡、饮用比管浓度”的分工。<br><br><b>看什么</b>：壶里剩不剩冰；干苦有没有变少；咽下后有没有回甘。刷牙后至少等 30 分钟再喝。",
     "prep": [
       "S3 归零：把外圈顺时针转到底，让“0”对准红标。",
-      "把外圈<b>逆时针转到 5.9</b>。（从 6.1 顺时针调细 2 格也行。）",
-      "磨 30 g 新豆。",
+      "把外圈<b>逆时针转到 5.9</b>（和上一杯相同）。",
+      "磨 30 g Devoción。",
       "把 Fellow 设到 <b>95 °C</b>。",
-      "分享壶里先放 <b>140 g 冰</b>。",
+      "分享壶里先放 <b>120 g 冰</b>。",
       "把 Blue Bottle 滤纸放进滤杯，滤杯架在分享壶上。<b>不要在分享壶上预湿</b>，免得冰提前化。",
       "倒入粉，轻轻铺平，整套放上秤。",
       "按 <b>TARE</b> 归零：之后秤上读数只算热水。",
@@ -3624,55 +3698,55 @@ window.LR_DATA = {
     "timeline": [
       {
         "t": "0:00–0:45",
-        "action": "闷蒸：开头约 10 秒注到 60 g，然后等。新豆排气多，粉层会鼓起来。",
+        "action": "闷蒸：开头约 10 秒注到 60 g，然后等。",
         "total": "60 g",
         "kind": "pour"
       },
       {
         "t": "0:45–1:15",
-        "action": "第 2 段：注到 120 g，然后等。",
-        "total": "120 g",
+        "action": "第 2 段：注到 125 g，然后等。",
+        "total": "125 g",
         "kind": "pour"
       },
       {
         "t": "1:15–1:45",
-        "action": "第 3 段：注到 170 g，然后等。",
-        "total": "170 g",
+        "action": "第 3 段：注到 180 g，然后等。",
+        "total": "180 g",
         "kind": "pour"
       },
       {
         "t": "1:45 起",
-        "action": "第 4 段：注到 210 g，停止注水，等滴滤。",
-        "total": "210 g",
+        "action": "第 4 段：注到 230 g，停止注水，等滴滤。",
+        "total": "230 g",
         "kind": "pour"
       },
       {
-        "t": "2:40–3:00",
+        "t": "2:50–3:10",
         "action": "滴滤结束。<b>记下这时的计时器读数</b>，它就是总时间。先看壶里还剩不剩冰，再晃匀，倒进装了新冰的杯子。",
-        "total": "210 g + 140 g 冰",
+        "total": "230 g + 120 g 冰",
         "kind": "end"
       }
     ],
     "pourNote": "左列是<b>计时器上的时间段</b>，从按下 Timer 开始累计。每段开头先注到目标重量，其余时间是等待滴滤。秤上读数只算热水，冰在 TARE 前已经放好。",
     "ifThen": [
       {
+        "if": "甜变厚、酸变圆，收尾不干",
+        "then": "固定 5.9 / 95 °C / 120 g 冰 + 230 g 热水，记为这包豆的冰冲配方"
+      },
+      {
         "if": "壶里还剩冰块",
-        "then": "下次冰减到 <b>120 g</b>、热水加到 230 g（总水量不变）"
+        "then": "下次冰再减到 <b>100 g</b>、热水加到 250 g（总量不变）"
       },
       {
-        "if": "酸柔和、饱满、有甜感",
-        "then": "固定 5.9 / 95 °C，记为这包豆的冰冲配方"
+        "if": "还是干苦、没有回甘",
+        "then": "下次调粗到 <b>6.1</b>（2 格），其他不变；有空再冲一杯热的对照"
       },
       {
-        "if": "还是偏酸 / 单薄，总时间 &lt; 2:40",
-        "then": "下次再调细到 <b>5.7</b>（2 格），其他不变"
-      },
-      {
-        "if": "发苦、发干，或总时间超过 3:15",
-        "then": "下次退回 <b>6.1</b>，其他不变"
+        "if": "偏酸 / 单薄，总时间 &lt; 2:50",
+        "then": "下次调细到 <b>5.7</b>（2 格），其他不变"
       }
     ],
-    "ice": 140
+    "ice": 120
   },
   "brews": [
     {
@@ -3987,6 +4061,15 @@ window.LR_DATA = {
     ]
   },
   "changelog": [
+    {
+      "date": "2026-11-23",
+      "items": [
+        "推送 Morning Gradient 第 50 课 RT4「冷萃浓缩液和稀释」（来源：Stumptown 冷萃 FAQ；Blue Bottle Hario 冷萃瓶指南；Kwok et al. 2020；Cordoba et al. 2019）。",
+        "配图：方向 A 手绘水彩，路径 images/2026-11-23.png。",
+        "今日冰冲配方：Devoción 第 2 杯，只改冰和热水的分配：S3 5.9 / 30 g 粉 / 120 g 冰 / 95 °C 热水 230 g / 闷蒸 0:00–0:45 / 目标总时间 2:50–3:10。",
+        "新闻：近 48 小时 Daily Coffee News、Perfect Daily Grind、X 上无值得说的咖啡新闻。"
+      ]
+    },
     {
       "date": "2026-11-22",
       "items": [

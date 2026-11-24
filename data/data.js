@@ -9,7 +9,7 @@ window.LR_DATA = {
   "meta": {
     "title": "Latent Roast",
     "subtitle": "豪力的咖啡数据实验室",
-    "updated": "2026-11-23",
+    "updated": "2026-11-24",
     "location": "纽约 · 海拔 0 ft"
   },
   "curriculum": {
@@ -3654,6 +3654,80 @@ window.LR_DATA = {
       "try_big": "1:1",
       "image": "images/2026-11-23.png",
       "tag": ""
+    },
+    {
+      "date": "2026-11-24",
+      "code": "PO3",
+      "branch": "注水",
+      "level": "进阶",
+      "lesson_no": 51,
+      "title": "冷滴：不浸泡，让冷水慢慢过",
+      "summary": "冷滴是一滴一滴的冷水穿过粉层，几小时滴完。它和冷萃一样用冷水，萃取方式却和你的手冲一样是“过滤式”：新鲜的水不断替换掉已经变浓的水。所以同样的温度下，冷滴萃得比浸泡式冷萃更多，杯子也更偏苦、偏焙烤。",
+      "body": "**先把三种冷咖啡摆在一起。** 冰冲：热水穿过粉层，几分钟。冷萃（浸泡）：粉泡在冷水里，十几小时。冷滴（Kyoto 式）：上面一球冷水，靠阀门控制每秒 1–1.5 滴，穿过中间的粉，3–5 小时滴完（Hario 说明书，经 JayArr 整理）。冷滴和冷萃共用“冷”，和你的冰冲共用“过滤”。这两个维度分开看，就能看懂冷滴的味道。\n\n**第一层：浸泡会自己刹车，过滤不会。** 接 EX5 的浓度梯度：浸泡时，粉周围的水越来越浓，颗粒里外的浓度差越来越小，扩散越来越慢，最后接近平衡。过滤时，每一滴新水都是“干净”的，流过粉层再带着溶解物离开，粉周围的浓度差一直保持得比较大。所以 Córdoba 等人 2021 年的结论是：同样 19 °C 的水，滴滤式的萃取速度高于浸泡式。\n\n**第二层：多萃出来的是什么。** 同一研究里，冷滴的浓度（TDS）、萃取率、咖啡因、葫芦巴碱和 4-/5-咖啡酰奎宁酸（绿原酸的一类）都最高；感官上冷滴更苦、更焙烤，而冷萃浸泡和热冲更甜，有坚果、焦糖、麦芽味。甜感和咖啡因、绿原酸、TDS 呈负相关。Wang 等人 2025 年的对照（40 g 粉、100 g 冰 + 300 g 水、2 秒一滴、6 小时）也看到冷滴的绿原酸和咖啡因最高；三种冷咖啡的 pH 没有显著差别，冷滴还多出芳樟醇带来的花香、果香。\n\n**第三层：滴速就是冷滴的“研磨粗细”。** 冷滴的水量是固定的，滴得越慢，水在粉层里停留越久，接触时间越长，萃得越多。Hario 建议开始时略快，因为上面的水变少、压力变小，滴速会自己慢下来。粉层没有均匀湿透，水会走捷径，就是 EX4 讲的通道效应；所以要先把粉均匀润湿，再铺一张湿滤纸把水滴分散开。\n\n**第四层：和你有什么关系（推理）。** 你要低酸、丝滑、柔和。冷滴的酸确实低，但它的方向是“更苦、更焙烤、更花香”，不是“更甜、更圆”。按你的口味，浸泡式冷萃更对路，所以 11/28 的对照实验还是做冷萃，不需要买冷滴塔。冷滴对你的用处是帮你理解冰冲：冰冲也是过滤式，粉周围一直有新水，所以末段容易把苦和干一起带出来。11/21 那杯“收尾干苦”，除了刷牙的干扰，也和这个机制一致；今天多出来的 20 g 热水，就是想在甜还没萃够之前，不让苦先跑出来。",
+      "takeaways": [
+        "冷滴 = 冷水 + 过滤式：新水不断替换变浓的水，浓度差保持得大，同温度下比浸泡式冷萃萃得更多（Córdoba 2021）。",
+        "多萃出来的主要是咖啡因、绿原酸和 TDS，杯子更苦、更焙烤；浸泡式冷萃更甜，有坚果、焦糖味。pH 三种冷咖啡差不多（Wang 2025）。",
+        "滴速就是冷滴的“研磨粗细”：Hario 建议 1–1.5 滴/秒、3–5 小时，开头略快。按你的口味，浸泡式冷萃更对路，不用买冷滴塔。"
+      ],
+      "try_today": "1. 冰冲 Devoción 第 2 杯，配方和昨天定的一样（昨天没冲）：S3 5.9 / 30 g 粉 / 壶里 120 g 冰 / 95 °C 热水共 230 g，注水表见“冲煮日记”。刷牙后至少等 30 分钟再喝。\n2. 小观察（30 秒）：第 4 段注完后，盯着滤杯下面看最后 20 秒。水流从细线变成一滴一滴时，就是最接近冷滴的样子。记下这时计时器上的读数。\n3. 尝的时候只回答一个问题：苦是在入口、中段，还是咽下之后出现？\n4. 语音发评分 1–5 和总时间。",
+      "try_big": "1 滴/秒",
+      "sources": [
+        {
+          "label": "Córdoba et al. (2021) Chemical and sensory evaluation of cold brew coffees using different roasting profiles and brewing methods · Food Research International（PubMed 摘要）",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33642008/",
+          "reliability": "高 · 同行评审；同为 19 °C 时滴滤式萃取速度高于浸泡式，冷滴更苦、更焙烤；只读了摘要"
+        },
+        {
+          "label": "Wang et al. (2025) Comparative Decoding of Physicochemical and Flavor Profiles of Coffee Prepared by High-Pressure Carbon Dioxide, Ice Drip, and Traditional Cold Brew · PMC12385513",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12385513/",
+          "reliability": "中高 · 同行评审全文；冷滴绿原酸、咖啡因最高，pH 无显著差别；只用一种豆、一台国产冷滴塔"
+        },
+        {
+          "label": "JayArr Coffee · Japanese Iced Coffee vs Cold Brew vs Kyoto Slow Drip（整理 Hario Water Dripper 说明书）",
+          "url": "https://jayarr.coffee/blog/japanese-iced-coffee-vs-cold-brew/",
+          "reliability": "中 · 二手整理；Hario 配方（12 g/杯、约 1:11.7、1–1.5 滴/秒、3–5 小时、冷藏约 3 天）出自说明书，原说明书本次没能打开到配方页"
+        },
+        {
+          "label": "Angeloni et al. (2019) Characterization and comparison of cold brew and cold drip coffee extraction methods · J Sci Food Agric（PubMed 摘要）",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/29888474/",
+          "reliability": "中高 · 同行评审；两种方法的理化和感官差异取决于温度和接触时间；只读了摘要，没有引用具体数字"
+        }
+      ],
+      "illustration_prompt": "Hand-drawn watercolor comic in sketchbook style, ink linework, soft sage green and cream washes, paper texture close to #F4EEE1, 16:9 landscape. On a kitchen counter stands a tall Kyoto-style slow-drip cold coffee tower with a wooden frame: a glass water globe on top, a slim glass coffee chamber with dark grounds in the middle, a coiled glass spiral and a small carafe at the bottom. The tower has a calm, patient, sleepy face, and single water drops fall one by one with tiny motion lines. Beside it, a chubby mason jar of immersion cold brew lies back relaxed like it is soaking in a bath, and a small pocket watch character looks impatient tapping its foot. A few ice cubes and a small cup sit nearby. Gentle humor, objects with expressions. Leave top-left and top-center empty cream paper for speech bubbles. No text, no letters, no numbers anywhere in the image.",
+      "image_alt": "手绘水彩漫画：中间一座木框冷滴塔，顶上的水球一脸困倦，一滴一滴往下滴；左边一罐浸泡冷萃歪着躺着，很放松；右边一只怀表小人抱着手臂，一脸等不及。",
+      "bubbles": [
+        {
+          "text": "一滴一秒……\n要滴到下午吗？",
+          "x": 3,
+          "y": 8,
+          "tail": "left"
+        },
+        {
+          "text": "新水一直换，\n所以**萃得更多**",
+          "x": 30,
+          "y": 6,
+          "tail": "left"
+        }
+      ],
+      "gradient": {
+        "label": "三种冷咖啡：从泡到滴",
+        "steps": [
+          {
+            "label": "浸泡 · 冷萃",
+            "color": "#7A4A2E"
+          },
+          {
+            "label": "过滤 · 冰冲",
+            "color": "#D9A441"
+          },
+          {
+            "label": "慢滴 · 冷滴",
+            "color": "#3B2417"
+          }
+        ]
+      },
+      "image": "images/2026-11-24.png",
+      "tag": ""
     }
   ],
   "beans": [
@@ -3675,7 +3749,7 @@ window.LR_DATA = {
     }
   ],
   "recipe": {
-    "label": "冰冲 · 今日（Devoción 第 2 杯，冰 120 g / 热水 230 g）",
+    "label": "冰冲 · 今日（Devoción 第 2 杯，沿用 11/23：冰 120 g / 热水 230 g）",
     "bean": "devocion-house-honey",
     "dose": 30,
     "water": 230,
@@ -3683,7 +3757,7 @@ window.LR_DATA = {
     "grind": "5.9",
     "grindPrev": "5.9",
     "target": "2:50–3:10",
-    "why": "<b>今天只改一个变量：冰和热水的分配。</b>11/21 第 1 杯（140 g 冰 + 210 g 热水）入口不平衡，收尾干苦、没有回甘；但喝前刚刷完牙，那杯只作参考。11/22 定的新比例还没有冲煮记录，今天照它冲：冰减到 <b>120 g</b>，热水加到 <b>230 g</b>，总量还是 350 g。S3 <b>5.9</b>、<b>95 °C</b>、闷蒸 0:45 都不动。<br><br><b>为什么</b>：杯里浓度差不多，但多了 20 g 热水真正参与萃取，萃取比从 1:7 放宽到约 1:7.7，目标是多萃一点甜和醇厚度，让冰化之后不只剩苦的骨架。这就是今日课 RT4 里“萃取比管平衡、饮用比管浓度”的分工。<br><br><b>看什么</b>：壶里剩不剩冰；干苦有没有变少；咽下后有没有回甘。刷牙后至少等 30 分钟再喝。",
+    "why": "<b>今天只改一个变量：冰和热水的分配。</b>11/21 第 1 杯（140 g 冰 + 210 g 热水）入口不平衡，收尾干苦、没有回甘；但喝前刚刷完牙，那杯只作参考。11/22 定的新比例到今天还没有冲煮记录（11/23 喝的是星巴克），今天继续照它冲：冰减到 <b>120 g</b>，热水加到 <b>230 g</b>，总量还是 350 g。S3 <b>5.9</b>、<b>95 °C</b>、闷蒸 0:45 都不动。<br><br><b>为什么</b>：杯里浓度差不多，但多了 20 g 热水真正参与萃取，萃取比从 1:7 放宽到约 1:7.7，目标是多萃一点甜和醇厚度，让冰化之后不只剩苦的骨架。这就是今日课 RT4 里“萃取比管平衡、饮用比管浓度”的分工。<br><br><b>看什么</b>：壶里剩不剩冰；干苦有没有变少；咽下后有没有回甘。刷牙后至少等 30 分钟再喝。",
     "prep": [
       "S3 归零：把外圈顺时针转到底，让“0”对准红标。",
       "把外圈<b>逆时针转到 5.9</b>（和上一杯相同）。",
@@ -4061,6 +4135,15 @@ window.LR_DATA = {
     ]
   },
   "changelog": [
+    {
+      "date": "2026-11-24",
+      "items": [
+        "推送 Morning Gradient 第 51 课 PO3「冷滴：不浸泡，让冷水慢慢过」（来源：Córdoba et al. 2021；Wang et al. 2025；JayArr 整理的 Hario Water Dripper 说明书；Angeloni et al. 2019）。",
+        "配图：方向 A 手绘水彩，路径 images/2026-11-24.png。",
+        "今日冰冲配方沿用 11/23（Devoción 第 2 杯还没冲）：S3 5.9 / 30 g 粉 / 120 g 冰 / 95 °C 热水 230 g / 闷蒸 0:00–0:45 / 目标总时间 2:50–3:10。",
+        "新闻：Daily Coffee News 11/23 报道一项 59 篇研究、约 205 万人的荟萃分析：喝咖啡与抑郁几率低 13% 相关（观察性研究，不能证明因果）。"
+      ]
+    },
     {
       "date": "2026-11-23",
       "items": [

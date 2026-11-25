@@ -9,7 +9,7 @@ window.LR_DATA = {
   "meta": {
     "title": "Latent Roast",
     "subtitle": "豪力的咖啡数据实验室",
-    "updated": "2026-11-24",
+    "updated": "2026-11-25",
     "location": "纽约 · 海拔 0 ft"
   },
   "curriculum": {
@@ -3728,6 +3728,80 @@ window.LR_DATA = {
       },
       "image": "images/2026-11-24.png",
       "tag": ""
+    },
+    {
+      "date": "2026-11-25",
+      "code": "IN3",
+      "branch": "行业与文化",
+      "level": "入门",
+      "lesson_no": 52,
+      "title": "氮气冷萃：气泡怎样让口感变滑",
+      "summary": "氮气冷萃就是把冷萃液在压力下充入氮气，再从一个很窄的出口打出来，杯里翻起一层细密的泡沫。氮气几乎不溶于水，也不变成酸，所以它只改口感（更滑、更像奶油），不改萃取。你想要的「丝滑饱满」，在店里可以靠气泡借来；在家里，还得靠萃取和粉水比。",
+      "body": "**先说它是什么。** 氮气冷萃（nitro cold brew）= 先做好的冷萃液 + 高压氮气。冷萃液装进桶里，充上氮气，再从一个特殊的龙头打出来。倒出来时杯里像生啤一样「翻滚」，上面盖一层细沫。咖啡本身没有被重新萃取，变化全在气泡上。\n\n**第一层：氮气几乎不溶，所以气泡小。** Lee 和 Devereux 的综述说，氮气在水里的溶解度大约只有二氧化碳的 1/50。溶进去的气体少，气泡长大时能「喂」它的气体就少，所以泡沫很细。细泡沫贴着舌头，就是那种像奶油一样的滑；也正因为溶得少，泡沫比汽水那层沫撑得久得多。\n\n**第二层：它不会自己起泡，必须「逼」出来。** 同一篇综述说，含氮饮料不会像汽水那样一倒就起泡。生啤是靠高压把酒液挤过一个很窄的孔，罐装靠 widget（罐里的小气球）喷出一股湍流，打出上亿个气泡核。氮气冷萃的龙头用的是同一个原理。所以家里用奶油枪或摇一摇，做不出同样的泡沫结构。\n\n**第三层：为什么喝起来「更甜、更不苦」。** 二氧化碳溶在水里会变成碳酸，带来刺刺的酸感；氮气不会（Angeloni 等 2020；Lee 和 Devereux）。所以氮气不给杯子加酸。SCA 网站上一篇合作方文章说得更直白：氮气冷萃的「甜和奶油感更多是一种感觉，而不是味道」，来自舌头上成千上万的细小气泡；氮气纯度不够、混进氧气，气泡会变大，这种感觉就没了。注意：这篇是设备厂商写的，只当参考。\n\n**第四层：泡沫也有代价。** Angeloni 等 2020 年比较了六种气体做的咖啡泡沫：氮气做出的泡沫最持久、最紧实，但这层泡沫也像一个盖子，会挡住一部分香气物质往外跑。再看 Claassen 等 2021 年的消费者排序：约 60 个普通人，冷萃和氮气冷萃的平均排名一样，都是 2.7，统计上没有差别。也就是说，气泡改的是口感和视觉，不是让咖啡「变好喝」的魔法。\n\n**落到你的杯子上。** 你一直追的「丝滑饱满」，在手冲里来自萃取出来的溶解物和浓度；氮气冷萃是在杯外加一层「质感外挂」。这两件事分开看：家里继续用研磨、水温和冰水比去调醇厚度；在店里看到 nitro，就当一次口感对照实验。",
+      "takeaways": [
+        "氮气在水里的溶解度约为二氧化碳的 1/50：溶得少，气泡就细，细泡沫贴着舌头就是「奶油感」，而且撑得久（Lee & Devereux）。",
+        "氮气不变成碳酸，不给杯子加酸；「更甜、更柔」主要是舌头上微小气泡带来的感觉，不是多萃出了糖（Angeloni 2020；SCA 合作方文章）。",
+        "代价和边界：泡沫会挡住一部分香气；普通消费者盲排时，冷萃和氮气冷萃没有差别（Angeloni 2020；Claassen 2021）。在家调醇厚度，还是靠萃取。"
+      ],
+      "try_today": "1. 冰冲 Devoción 第 2 杯，配方和前两天定的一样（还没冲）：S3 5.9 / 30 g 粉 / 壶里 120 g 冰 / 95 °C 热水共 230 g，注水表见“冲煮日记”。早上喝，刷牙后至少等 30 分钟。\n2. 小观察（1 分钟）：晃匀倒进杯子时，看表面那层沫多久散掉。对照今天的课：氮气冷萃那层细沫能撑很久，原因就是氮气溶得少、泡细。\n3. 尝的时候只想一件事：醇厚度。把它当作「没有气泡的冷杯子」，打分 1–5：1 像水，5 像全脂奶。\n4. 以后在店里看到 nitro / 氮气冷萃，点一杯不加奶的：先喝一口泡沫，再喝一口下面的咖啡，比较滑度和酸感。\n5. 语音发评分 1–5 和总时间。",
+      "try_big": "1/50",
+      "sources": [
+        {
+          "label": "Lee & Devereux (2011) Foaming in stout beers · arXiv:1105.2263（全文）",
+          "url": "https://arxiv.org/abs/1105.2263",
+          "reliability": "中高 · 物理学综述，讲的是氮气啤酒；溶解度约 1/50、细泡沫、需要窄孔或 widget 起泡、氮气不成酸，这些原理同样适用于氮气冷萃"
+        },
+        {
+          "label": "Angeloni et al. (2020) Physical and Chemical Effects of Different Working Gases in Coffee Brewing · Foods 9(12):1825（全文）",
+          "url": "https://www.mdpi.com/2304-8158/9/12/1825",
+          "reliability": "高 · 同行评审；六种气体做咖啡泡沫，氮气泡沫最持久、最紧实，但会挡住部分香气物质；研究对象是高压气体萃取的意式（Caffè Firenze），只有一种豆"
+        },
+        {
+          "label": "Claassen et al. (2021) Cold Brew Coffee—Pilot Studies · Foods 10(4):865（全文）",
+          "url": "https://www.mdpi.com/2304-8158/10/4/865",
+          "reliability": "中高 · 同行评审，但是预实验；约 60 名普通消费者排序，冷萃与氮气冷萃平均都是 2.7，无显著差别"
+        },
+        {
+          "label": "SCA News · The Importance of Food-Grade Nitrogen In Delivering A Perfect Pour（合作方稿件）",
+          "url": "https://sca.coffee/sca-news/news-from-our-partners/the-importance-of-food-grade-nitrogen-in-delivering-a-perfect-pour-dblf6",
+          "reliability": "中 · 作者是氮气设备公司的市场总监，有商业立场；只用它对「感觉而非味道」和纯度影响气泡大小的描述"
+        }
+      ],
+      "illustration_prompt": "Hand-drawn watercolor comic in sketchbook style, ink linework, soft sage green and cream washes, paper texture close to #F4EEE1, 16:9 landscape. On a cafe counter stands a small chrome nitro coffee tap with a cheerful face, pouring dark cold brew into a tall clear glass; inside the glass a cascade of tiny bubbles swirls downward along the sides like a gentle waterfall, settling into a thick creamy tan foam head. The glass has a delighted, proud face. Beside it, a regular glass of sparkling soda with big coarse bubbles looks fizzy and jittery, and a small gray nitrogen cylinder with a calm, sleepy face leans nearby. Gentle humor, objects with expressions. Leave top-left and top-center empty cream paper for speech bubbles. No text, no letters, no numbers anywhere in the image.",
+      "image_alt": "手绘水彩漫画：吧台上一只笑眯眯的不锈钢氮气龙头，往高玻璃杯里倒冷萃，杯里细小的气泡往下翻滚，顶上一层奶油色细沫，杯子一脸得意；旁边一杯汽水冒着大气泡，也在笑；右边一只灰色氮气瓶眯着眼，很淡定。",
+      "bubbles": [
+        {
+          "text": "同样是冷萃，\n为什么它更滑？",
+          "x": 3,
+          "y": 8,
+          "tail": "left"
+        },
+        {
+          "text": "氮气几乎不溶，\n只剩**细小的泡**",
+          "x": 30,
+          "y": 6,
+          "tail": "left"
+        }
+      ],
+      "gradient": {
+        "label": "气泡越细，口感越滑",
+        "steps": [
+          {
+            "label": "大泡 · 汽水（CO₂）",
+            "color": "#D9A441"
+          },
+          {
+            "label": "无泡 · 冰冲",
+            "color": "#7A4A2E"
+          },
+          {
+            "label": "细泡 · 氮气冷萃",
+            "color": "#C9B28A"
+          }
+        ]
+      },
+      "image": "images/2026-11-25.png",
+      "tag": ""
     }
   ],
   "beans": [
@@ -3749,7 +3823,7 @@ window.LR_DATA = {
     }
   ],
   "recipe": {
-    "label": "冰冲 · 今日（Devoción 第 2 杯，沿用 11/23：冰 120 g / 热水 230 g）",
+    "label": "冰冲 · 今日（Devoción 第 2 杯，沿用 11/23 起的比例：冰 120 g / 热水 230 g）",
     "bean": "devocion-house-honey",
     "dose": 30,
     "water": 230,
@@ -3757,7 +3831,7 @@ window.LR_DATA = {
     "grind": "5.9",
     "grindPrev": "5.9",
     "target": "2:50–3:10",
-    "why": "<b>今天只改一个变量：冰和热水的分配。</b>11/21 第 1 杯（140 g 冰 + 210 g 热水）入口不平衡，收尾干苦、没有回甘；但喝前刚刷完牙，那杯只作参考。11/22 定的新比例到今天还没有冲煮记录（11/23 喝的是星巴克），今天继续照它冲：冰减到 <b>120 g</b>，热水加到 <b>230 g</b>，总量还是 350 g。S3 <b>5.9</b>、<b>95 °C</b>、闷蒸 0:45 都不动。<br><br><b>为什么</b>：杯里浓度差不多，但多了 20 g 热水真正参与萃取，萃取比从 1:7 放宽到约 1:7.7，目标是多萃一点甜和醇厚度，让冰化之后不只剩苦的骨架。这就是今日课 RT4 里“萃取比管平衡、饮用比管浓度”的分工。<br><br><b>看什么</b>：壶里剩不剩冰；干苦有没有变少；咽下后有没有回甘。刷牙后至少等 30 分钟再喝。",
+    "why": "<b>今天只改一个变量：冰和热水的分配。</b>11/21 第 1 杯（140 g 冰 + 210 g 热水）入口不平衡，收尾干苦、没有回甘；但喝前刚刷完牙，那杯只作参考。11/22 定的新比例到今天还没有冲煮记录（11/23 喝的是星巴克，11/24 也没有新记录），今天继续照它冲：冰减到 <b>120 g</b>，热水加到 <b>230 g</b>，总量还是 350 g。S3 <b>5.9</b>、<b>95 °C</b>、闷蒸 0:45 都不动。<br><br><b>为什么</b>：杯里浓度差不多，但多了 20 g 热水真正参与萃取，萃取比从 1:7 放宽到约 1:7.7，目标是多萃一点甜和醇厚度，让冰化之后不只剩苦的骨架。这就是今日课 RT4 里“萃取比管平衡、饮用比管浓度”的分工。<br><br><b>看什么</b>：壶里剩不剩冰；干苦有没有变少；咽下后有没有回甘。刷牙后至少等 30 分钟再喝。",
     "prep": [
       "S3 归零：把外圈顺时针转到底，让“0”对准红标。",
       "把外圈<b>逆时针转到 5.9</b>（和上一杯相同）。",
@@ -4135,6 +4209,15 @@ window.LR_DATA = {
     ]
   },
   "changelog": [
+    {
+      "date": "2026-11-25",
+      "items": [
+        "推送 Morning Gradient 第 52 课 IN3「氮气冷萃：气泡怎样让口感变滑」（来源：Lee & Devereux 2011；Angeloni et al. 2020；Claassen et al. 2021；SCA News 合作方稿件）。",
+        "配图：方向 A 手绘水彩，路径 images/2026-11-25.png。",
+        "今日冰冲配方沿用 11/23（Devoción 第 2 杯还没冲）：S3 5.9 / 30 g 粉 / 120 g 冰 / 95 °C 热水 230 g / 闷蒸 0:00–0:45 / 目标总时间 2:50–3:10。",
+        "新闻：Daily Coffee News 11/24 报道牛津大学一项近 98 万人的英国研究：偏好「很烫」饮品的人，食管鳞癌相对风险约为偏好「温」的 3.17 倍（观察性研究，不能证明因果）。"
+      ]
+    },
     {
       "date": "2026-11-24",
       "items": [

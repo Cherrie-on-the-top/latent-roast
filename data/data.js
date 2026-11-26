@@ -9,7 +9,7 @@ window.LR_DATA = {
   "meta": {
     "title": "Latent Roast",
     "subtitle": "豪力的咖啡数据实验室",
-    "updated": "2026-11-25",
+    "updated": "2026-11-26",
     "location": "纽约 · 海拔 0 ft"
   },
   "curriculum": {
@@ -3827,6 +3827,80 @@ window.LR_DATA = {
       },
       "image": "images/2026-11-25.png",
       "tag": ""
+    },
+    {
+      "date": "2026-11-26",
+      "code": "MA3",
+      "branch": "器具维护",
+      "level": "入门",
+      "lesson_no": 53,
+      "title": "冷萃怎么存才安全",
+      "summary": "冷萃整个过程不经过热水，没有「烫一遍」这道杀菌步骤，所以它安全靠的是三样东西：冷、咖啡液本身不适合细菌长，以及干净的容器。在 4 °C 冰箱里，实验室冷萃 42 天都没长出细菌，先坏掉的是味道；真正危险的组合是「密封 + 放在室温」。",
+      "body": "**先说为什么冷萃要单独讲存放。** 热手冲的水是 93–95 °C，粉一碰到水，表面的大部分微生物就被烫掉了。冷萃没有这一步：BioFoodTech（加拿大爱德华王子岛的食品技术中心）的冷萃说明页直接说，冷萃因为没有加热步骤、又常在冰箱里放很久，风险比热咖啡高。\n\n**第一层：咖啡液本身是一道「栅栏」。** Clemson 大学 Lopane 等人（2024）在 4 °C 下做冷萃，装瓶后放 4 °C 冷藏，第 0、7、14、21、28、42 天取样：所有样品的总菌数和嗜冷菌数都低于 25 CFU/mL，也就是一直没测出细菌生长。作者给的解释是多重栅栏一起起作用：营养很少、pH 偏低（4.27–5.92）、再加上绿原酸、咖啡酸、咖啡因这些本身有抑菌作用的成分。冷，是最后也是最关键的一道。\n\n**第二层：为什么「密封 + 室温」最危险。** 美国 FDA 的法规（21 CFR 113.3）把 pH 高于 4.6、水分活度高于 0.85 的食品叫「低酸食品」。上面那项研究里冷萃 pH 的上限 5.92 明显高于 4.6，所以很多冷萃按法规就落在低酸这一类。BioFoodTech 说，装进密封瓶罐的冷萃要冷藏，原因就是它算低酸罐装食品，有肉毒梭菌的风险；而这个风险针对的正是「密封 + pH > 4.6 + 水分活度 > 0.85」的食品。控制办法只有三种：冷藏（< 4 °C）、冷冻，或者像罐头那样做商业灭菌。把 pH 调低当然也行，但咖啡会变酸、不好喝。所以对你来说，最该避免的是：冷萃装进拧紧的瓶子，在台面上放着。\n\n**第三层：在冰箱里，先坏的是味道，不是安全。** Lopane 等人的结论是：冷藏咖啡的保质期被限制住的是风味变差，而不是微生物。存放期间绿原酸（5-CQA）明显下降，作者推测它在低温下慢慢水解成奎宁酸和咖啡酸；奎宁酸在别的研究里和陈咖啡「越放越酸」有关（这一条作者自己也说没有证实）。好消息是：冷萃的风味比热萃稳定，第 42 天时「酸、发酵、酒味、过熟」这类缺陷分明显更低。这和你的口味正好有关：放久的冷萃会往「偏酸、发酵」那边走。\n\n**第四层：商业产品的数字怎么看。** Stumptown 的冷萃瓶罐冷藏保质期写的是 180 天，但那是工厂条件下装瓶的；一旦开封，即饮瓶建议 2–3 天喝完，浓缩液瓶和店里灌的大瓶建议 10–14 天。\n\n**落到你家里（以下是推论，不是实验结论）。** 实验室样品是干净器具、全程 4 °C；你家里的瓶子、手和冰箱门一开一关都不一样，所以别把「42 天」当成家里的标准。实用的做法是：在冰箱里泡，不在台面泡；用洗净、烫过的玻璃瓶；奶和糖喝的时候按杯加，不要加进整瓶（BioFoodTech 提到没有巴氏杀菌时还有细菌、酵母、霉菌的风险，多加营养只会让它们更好过）；为了味道，一周内喝完最稳妥。",
+      "takeaways": [
+        "冷萃没有热水「烫一遍」，安全靠多重栅栏：营养少、pH 偏低、咖啡里自带的抑菌成分，再加上冷。4 °C 下实验室冷萃 42 天没测出细菌生长（Lopane 2024）。",
+        "pH > 4.6、水分活度 > 0.85 就是法规上的「低酸食品」（21 CFR 113.3）；密封瓶罐里的低酸冷萃有肉毒梭菌风险，控制办法是冷藏 < 4 °C、冷冻或商业灭菌（BioFoodTech）。所以最危险的是「拧紧的瓶子放室温」。",
+        "在冰箱里，先坏的是味道：绿原酸下降，风味往偏酸、发酵走（Lopane 2024）。家里按杯加奶加糖，一周内喝完最稳妥（推论）。"
+      ],
+      "try_today": "1. 冰冲 Devoción 第 2 杯，配方还是 11/22 定的那套（还没冲）：S3 5.9 / 30 g 粉 / 壶里 120 g 冰 / 95 °C 热水共 230 g，注水表见“冲煮日记”。刷牙后至少等 30 分钟再喝。\n2. 预告：11/28 的课是 Giant Steps「冰冲 vs 冷萃」对照实验。冷萃要提前泡上 12–24 小时，所以最晚 11/27 晚上就要开泡。明天的推送会附上冷萃配方。\n3. 现在先准备一个能拧紧的玻璃瓶：洗干净，用开水烫一遍，晾干。泡的时候直接放冰箱，不放台面。\n4. 冷萃泡好后，瓶身贴一张小纸写上日期；奶和糖喝的时候按杯加。\n5. 语音发 Devoción 第 2 杯的评分 1–5 和总时间。",
+      "try_big": "4 °C",
+      "sources": [
+        {
+          "label": "Lopane, McGregor & Rieck (2024) An investigation of the shelf life of cold brew coffee… · Food Science & Nutrition（PMC10867521，全文）",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10867521/",
+          "reliability": "高 · 同行评审；4 °C 冷萃装瓶冷藏 42 天，菌数始终 < 25 CFU/mL，保质期受风味变差限制；实验室条件，只用了一种豆和一种做法"
+        },
+        {
+          "label": "eCFR · 21 CFR 113.3 Definitions（低酸食品、商业灭菌的定义）",
+          "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-113/subpart-A/section-113.3",
+          "reliability": "高 · 美国联邦法规原文；只用它的定义：pH > 4.6 且水分活度 > 0.85 为低酸食品"
+        },
+        {
+          "label": "BioFoodTech · Cold Brew Coffee Fact Sheet（PDF）",
+          "url": "https://biofoodtechpei.ca/wp-content/uploads/2024/04/Cold-Brew-Coffee-Fact-Sheet.pdf",
+          "reliability": "中高 · 加拿大食品技术中心写给加工商的说明页；讲肉毒梭菌风险和三种控制办法，面向商业装瓶，不是家庭实验"
+        },
+        {
+          "label": "Stumptown Support · How long does pre-packaged Cold Brew stay fresh?",
+          "url": "https://support.stumptowncoffee.com/hc/en-us/articles/5712505399821-How-long-does-pre-packaged-Cold-Brew-stay-fresh",
+          "reliability": "中 · 烘焙商官方客服页，针对它自己工厂装瓶的产品；只用开封后建议天数"
+        }
+      ],
+      "illustration_prompt": "Hand-drawn watercolor comic in sketchbook style, ink linework, soft sage green and cream washes, paper texture close to #F4EEE1, 16:9 landscape. Inside an open refrigerator glowing with cool light, a clean glass jar of dark cold brew coffee with a calm, content face sits on a shelf, a small round thermometer friend beside it smiling. Outside the fridge on a warm kitchen counter, a tightly sealed mason jar of cold brew looks nervous and sweaty, with tiny cartoon germ creatures peeking curiously around it, and a little milk carton looking guilty. A calendar page leans on the fridge door. Gentle humor, objects with expressions. Leave top-left and top-center empty cream paper for speech bubbles. No text, no letters, no numbers anywhere in the image.",
+      "image_alt": "手绘水彩漫画：左边打开的冰箱里，一瓶冷萃玻璃瓶一脸安心，旁边一只圆圆的温度计在笑，冰箱门上挂着一页日历；右边暖色的台面上，一只拧紧的密封罐冷萃紧张得冒汗，几只小细菌围过来探头，旁边一盒牛奶一脸心虚。",
+      "bubbles": [
+        {
+          "text": "冷萃没被烫过，\n放哪儿才安全？",
+          "x": 3,
+          "y": 8,
+          "tail": "left"
+        },
+        {
+          "text": "放冰箱 **4 °C**，\n别拧紧放台面",
+          "x": 30,
+          "y": 6,
+          "tail": "left"
+        }
+      ],
+      "gradient": {
+        "label": "越冷越干净，越安全",
+        "steps": [
+          {
+            "label": "冰箱 4 °C · 干净瓶",
+            "color": "#7A8F5C"
+          },
+          {
+            "label": "冰箱里放太久 · 风味先坏",
+            "color": "#C9B28A"
+          },
+          {
+            "label": "拧紧放室温 · 风险最高",
+            "color": "#8C3B2A"
+          }
+        ]
+      },
+      "image": "images/2026-11-26.png",
+      "tag": ""
     }
   ],
   "beans": [
@@ -3856,7 +3930,7 @@ window.LR_DATA = {
     "grind": "5.9",
     "grindPrev": "5.9",
     "target": "2:50–3:10",
-    "why": "<b>今天只改一个变量：冰和热水的分配。</b>11/21 第 1 杯（140 g 冰 + 210 g 热水）入口不平衡，收尾干苦、没有回甘；但喝前刚刷完牙，那杯只作参考。11/22 定的新比例到今天还没有冲煮记录（11/23 喝的是星巴克，11/24 也没有新记录），今天继续照它冲：冰减到 <b>120 g</b>，热水加到 <b>230 g</b>，总量还是 350 g。S3 <b>5.9</b>、<b>95 °C</b>、闷蒸 0:45 都不动。<br><br><b>为什么</b>：杯里浓度差不多，但多了 20 g 热水真正参与萃取，萃取比从 1:7 放宽到约 1:7.7，目标是多萃一点甜和醇厚度，让冰化之后不只剩苦的骨架。这就是今日课 RT4 里“萃取比管平衡、饮用比管浓度”的分工。<br><br><b>看什么</b>：壶里剩不剩冰；干苦有没有变少；咽下后有没有回甘。刷牙后至少等 30 分钟再喝。",
+    "why": "<b>今天只改一个变量：冰和热水的分配。</b>11/21 第 1 杯（140 g 冰 + 210 g 热水）入口不平衡，收尾干苦、没有回甘；但喝前刚刷完牙，那杯只作参考。11/22 定的新比例到今天还没有冲煮记录（11/23 喝的是星巴克，11/24、11/25 也没有新记录），今天继续照它冲：冰减到 <b>120 g</b>，热水加到 <b>230 g</b>，总量还是 350 g。S3 <b>5.9</b>、<b>95 °C</b>、闷蒸 0:45 都不动。<br><br><b>为什么</b>：杯里浓度差不多，但多了 20 g 热水真正参与萃取，萃取比从 1:7 放宽到约 1:7.7，目标是多萃一点甜和醇厚度，让冰化之后不只剩苦的骨架。这就是今日课 RT4 里“萃取比管平衡、饮用比管浓度”的分工。<br><br><b>看什么</b>：壶里剩不剩冰；干苦有没有变少；咽下后有没有回甘。刷牙后至少等 30 分钟再喝。",
     "prep": [
       "S3 归零：把外圈顺时针转到底，让“0”对准红标。",
       "把外圈<b>逆时针转到 5.9</b>（和上一杯相同）。",
@@ -4234,6 +4308,16 @@ window.LR_DATA = {
     ]
   },
   "changelog": [
+    {
+      "date": "2026-11-26",
+      "items": [
+        "推送 Morning Gradient 第 53 课 MA3「冷萃怎么存才安全」（来源：Lopane et al. 2024；21 CFR 113.3；BioFoodTech 冷萃说明页；Stumptown 客服页）。",
+        "配图：方向 A 手绘水彩，路径 images/2026-11-26.png。",
+        "今日冰冲配方沿用 11/23（Devoción 第 2 杯还没冲）：S3 5.9 / 30 g 粉 / 120 g 冰 / 95 °C 热水 230 g / 闷蒸 0:00–0:45 / 目标总时间 2:50–3:10。",
+        "预告：11/28 EX8 Giant Steps 冰冲 vs 冷萃对照实验，冷萃需最晚 11/27 晚上开泡；11/27 推送要附冷萃配方。",
+        "新闻：Daily Coffee News 11/25 报道 USDA FAS 报告：印尼 2026/27 产季咖啡产量预计降 8.2% 至 1,135 万袋（每袋 60 kg），主要因洪水和长期干旱；苏门答腊北部阿拉比卡下调到 135 万袋。"
+      ]
+    },
     {
       "date": "2026-11-25",
       "items": [

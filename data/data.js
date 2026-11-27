@@ -9,7 +9,7 @@ window.LR_DATA = {
   "meta": {
     "title": "Latent Roast",
     "subtitle": "豪力的咖啡数据实验室",
-    "updated": "2026-11-26",
+    "updated": "2026-11-27",
     "location": "纽约 · 海拔 0 ft"
   },
   "curriculum": {
@@ -3901,6 +3901,75 @@ window.LR_DATA = {
       },
       "image": "images/2026-11-26.png",
       "tag": ""
+    },
+    {
+      "date": "2026-11-27",
+      "code": "OR5",
+      "branch": "产区",
+      "level": "进阶",
+      "lesson_no": 54,
+      "title": "什么豆子适合冰冲和冷萃",
+      "summary": "想要低酸，先挑烘焙度，再挑冲法。同一支哥伦比亚豆，从浅烘到深烘，冷萃的可滴定酸从 4.66 降到 1.53；而同样是深烘，热冲换成冷萃只从 2.06 降到 1.53（Rao 2020）。所以深烘的 Giant Steps 适合拿去冷萃做对照，花香、焦糖调的 Devoción 更适合冰冲，用热水把香气和甜先萃出来再急冷。",
+      "body": "**先分清两种「冷」。** 冰冲是热水萃取、马上冰镇：萃出来的东西和热手冲基本一样，只是喝的时候是冷的。冷萃是全程冷水、泡十几个小时：冷水本身就少萃一部分东西。所以选豆的问题其实是两个：这支豆的酸和香气从哪来；这种冲法会把哪些留下、哪些丢掉。\n\n**第一层：烘焙度管酸的大头。** Rao、Fuller 和 Grim（2020，Foods）用同一支哥伦比亚阿拉比卡，烘成浅、中、深三档，各做热冲和冷萃。冷萃的总可滴定酸（TTA）从浅烘 4.66 降到中烘 3.15，再降到深烘 1.53；pH 从 5.00 升到 5.75。同样是深烘，热冲和冷萃的 TTA 是 2.06 对 1.53。作者的结论是：烘焙对最终酸度的影响，比水温更大。原因在豆子里：柠檬酸、苹果酸这些生豆里的酸，在烘焙中会分解，烘得越深剩得越少。\n\n**第二层：冷萃确实更「少酸」，但少的是哪种酸。** Rao 和 Fuller（2018，Scientific Reports）用六个产地的浅烘豆做对照：冷萃和热冲的 pH 差不多（4.85–5.13），但热冲的可滴定酸更高。也就是说，冷萃少的主要不是「氢离子浓度」，而是热水能多萃出来的那部分没电离的酸。这和 EX7 讲的一致：舌头尝到的酸，跟可滴定酸更相关。\n\n**第三层：冷萃也会少萃「烘焙味」。** 同一篇 2020 年的研究里，代表褐色化合物的 420 nm 吸光度，冷萃明显低于热冲，而且烘得越深差距越大：深烘热冲 0.777，冷萃只有 0.422。焦糖化、美拉德反应带来的颜色和一部分烘焙风味，冷水萃得少。**推论（未经实验证实）：** 10/2 那杯 Giant Steps 偶尔有「过度烘焙的味道」，冷萃可能把这一面压下去，只留下醇厚度和巧克力感。明天的对照实验就是来验证这一条。\n\n**第四层：烘焙商怎么配。** Stumptown 的冷萃负责人给的建议是：喜欢果味、黑着喝，用非洲豆；喜欢柔和的巧克力调、要加奶加糖，用中美洲的柔和豆；平衡的拼配两种喝法都行。这是烘焙商的经验，不是实验，但和上面的化学方向一致：冷萃会把豆子往「更圆、更暗」推，本来就亮的豆子留得住果味，本来就暗的豆子会更柔。\n\n**落到你的两袋豆。** Giant Steps 是深烘拼配，酸本来就少，冷萃会再压一点酸和烘焙味：适合做冷萃，也是明天对照实验的主角。Devoción House Blend Honey 是水洗哥伦比亚，海拔 1,600–1,900 m，风味词是蜂蜜、橙花、焦糖：它的好处在香气和甜，冷水萃得少，所以先用冰冲；11/21 那杯「清新的酸」，一部分是这支豆本身的酸质，不全是萃取问题。",
+      "takeaways": [
+        "想低酸，先挑烘焙度：同一支豆，冷萃的可滴定酸浅烘 4.66 → 深烘 1.53；同为深烘，热冲换冷萃只是 2.06 → 1.53。烘焙比水温管得多（Rao 2020）。",
+        "冷萃 pH 和热冲差不多，少的是热水才萃得出来的可滴定酸（Rao 2018）；它也少萃褐色化合物，深烘时差距最大（420 nm：0.777 对 0.422）。",
+        "你的配法：深烘 Giant Steps → 冷萃（明天验证能不能压掉烘焙味）；花香焦糖调的 Devoción → 冰冲，用热水把香气和甜先萃出来。"
+      ],
+      "try_today": "1. 冰冲 Devoción 第 2 杯，配方不变（11/22 定的，还没冲）：S3 5.9 / 30 g 粉 / 壶里 120 g 冰 / 95 °C 热水共 230 g，注水表见“冲煮日记”。刷牙后至少等 30 分钟再喝。\n2. 喝的时候只答一个问题：这杯的酸，是像橙子那种圆的酸质，还是皱眉的偏酸？前者是豆子本身，后者才是萃取不足。\n3. **今天 16:00–18:00 开泡 Giant Steps 冷萃**（给明天的 EX8 对照实验）：50 g 粉 + 265 g 冷的过滤水（粉水比 1:5.3，照 Stumptown 浓缩液比例缩小）。研磨要明显比 5.9 粗，接近法压壶、像粗海盐；S3 没有可靠的刻度对照，先目测，记下你最后用的刻度。\n4. 粉倒进烫过、晾干的玻璃瓶，加水，轻轻摇匀让粉全湿，盖好**直接放冰箱**。\n5. 明早泡满约 16 小时（Stumptown 建议 14–18 小时，别超过 20–24 小时）后用 Blue Bottle 滤纸过滤。喝时 1:1 兑水。\n6. 明天对照还要一杯 Giant Steps 冰冲 30 g，所以今天先看袋里够不够 80 g。",
+      "try_big": "1:5.3",
+      "sources": [
+        {
+          "label": "Rao, Fuller & Grim (2020) Physiochemical Characteristics of Hot and Cold Brew Coffee Chemistry: The Effects of Roast Level and Brewing Temperature on Compound Extraction · Foods（PMC7404565，全文）",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7404565/",
+          "reliability": "高 · 同行评审；同一支哥伦比亚豆三档烘焙 × 热冲 / 冷萃，给出 pH、TTA、420 nm 吸光度；只有一个产地"
+        },
+        {
+          "label": "Rao & Fuller (2018) Acidity and Antioxidant Activity of Cold Brew Coffee · Scientific Reports",
+          "url": "https://www.nature.com/articles/s41598-018-34392-w",
+          "reliability": "高 · 同行评审；六个产地浅烘豆，冷萃与热冲 pH 相近、热冲可滴定酸更高；只测了浅烘"
+        },
+        {
+          "label": "Stumptown · Homemade Cold Brew FAQs With Our Head Brewer (2026-04-27)",
+          "url": "https://www.stumptowncoffee.com/blogs/news/cold-brewing-faqs",
+          "reliability": "中 · 烘焙商官方经验：选豆建议、12 oz : 64 oz 浓缩液比例、14–18 小时、1:1 兑水；不是实验数据"
+        }
+      ],
+      "illustration_prompt": "Hand-drawn watercolor comic in sketchbook style, ink linework, soft sage green and cream washes, paper texture close to #F4EEE1, 16:9 landscape. A friendly comparison scene on a wooden kitchen table: on the left, a dark-roast coffee bag with a sleepy, relaxed smile next to a tall glass jar of cold brew steeping with coarse grounds, a tiny moon and stars floating above it to suggest overnight steeping; on the right, a lighter coffee bag decorated with little orange blossoms and a honey dipper, beside a pour-over dripper dripping hot coffee onto a carafe full of ice cubes, the ice cubes cheerful. Between them a small set of balance scales with a coffee bean on each pan, gently tilting. Gentle humor, objects with expressions. Leave top-left and top-center empty cream paper for speech bubbles. No text, no letters, no numbers anywhere in the image.",
+      "image_alt": "手绘水彩漫画：木桌左边，一袋深烘豆一脸慵懒地笑，旁边的玻璃罐里泡着冷萃，上方飘着月亮和星星表示过夜；右边，一袋印着橙花的浅色豆子笑眯眯的，旁边滤杯正往装满冰块的分享壶里滴热咖啡，冰块也在笑，脚边一根蜂蜜棒；中间一架小天平两边各放一颗咖啡豆。",
+      "bubbles": [
+        {
+          "text": "冰冲和冷萃，\n该用哪袋豆？",
+          "x": 3,
+          "y": 4,
+          "tail": "left"
+        },
+        {
+          "text": "先看烘焙度：\n深烘 → **冷萃**",
+          "x": 36,
+          "y": 4,
+          "tail": "left"
+        }
+      ],
+      "gradient": {
+        "label": "同一支豆，冷萃的可滴定酸（Rao 2020）",
+        "steps": [
+          {
+            "label": "浅烘 4.66",
+            "color": "#D9BE55"
+          },
+          {
+            "label": "中烘 3.15",
+            "color": "#9CAF94"
+          },
+          {
+            "label": "深烘 1.53",
+            "color": "#5B4636"
+          }
+        ]
+      },
+      "image": "images/2026-11-27.png",
+      "tag": ""
     }
   ],
   "beans": [
@@ -3930,7 +3999,7 @@ window.LR_DATA = {
     "grind": "5.9",
     "grindPrev": "5.9",
     "target": "2:50–3:10",
-    "why": "<b>今天只改一个变量：冰和热水的分配。</b>11/21 第 1 杯（140 g 冰 + 210 g 热水）入口不平衡，收尾干苦、没有回甘；但喝前刚刷完牙，那杯只作参考。11/22 定的新比例到今天还没有冲煮记录（11/23 喝的是星巴克，11/24、11/25 也没有新记录），今天继续照它冲：冰减到 <b>120 g</b>，热水加到 <b>230 g</b>，总量还是 350 g。S3 <b>5.9</b>、<b>95 °C</b>、闷蒸 0:45 都不动。<br><br><b>为什么</b>：杯里浓度差不多，但多了 20 g 热水真正参与萃取，萃取比从 1:7 放宽到约 1:7.7，目标是多萃一点甜和醇厚度，让冰化之后不只剩苦的骨架。这就是今日课 RT4 里“萃取比管平衡、饮用比管浓度”的分工。<br><br><b>看什么</b>：壶里剩不剩冰；干苦有没有变少；咽下后有没有回甘。刷牙后至少等 30 分钟再喝。",
+    "why": "<b>今天只改一个变量：冰和热水的分配。</b>11/21 第 1 杯（140 g 冰 + 210 g 热水）入口不平衡，收尾干苦、没有回甘；但喝前刚刷完牙，那杯只作参考。11/22 定的新比例到今天还没有冲煮记录（11/23 喝的是星巴克，11/24–11/26 也没有新记录），今天继续照它冲：冰减到 <b>120 g</b>，热水加到 <b>230 g</b>，总量还是 350 g。S3 <b>5.9</b>、<b>95 °C</b>、闷蒸 0:45 都不动。<br><br><b>为什么</b>：杯里浓度差不多，但多了 20 g 热水真正参与萃取，萃取比从 1:7 放宽到约 1:7.7，目标是多萃一点甜和醇厚度，让冰化之后不只剩苦的骨架。这就是今日课 RT4 里“萃取比管平衡、饮用比管浓度”的分工。<br><br><b>看什么</b>：壶里剩不剩冰；干苦有没有变少；咽下后有没有回甘。刷牙后至少等 30 分钟再喝。",
     "prep": [
       "S3 归零：把外圈顺时针转到底，让“0”对准红标。",
       "把外圈<b>逆时针转到 5.9</b>（和上一杯相同）。",
@@ -4308,6 +4377,16 @@ window.LR_DATA = {
     ]
   },
   "changelog": [
+    {
+      "date": "2026-11-27",
+      "items": [
+        "推送 Morning Gradient 第 54 课 OR5「什么豆子适合冰冲和冷萃」（来源：Rao, Fuller & Grim 2020；Rao & Fuller 2018；Stumptown 冷萃 FAQ）。",
+        "配图：方向 A 手绘水彩，路径 images/2026-11-27.png。",
+        "今日冰冲配方沿用 11/23（Devoción 第 2 杯还没冲）：S3 5.9 / 30 g 粉 / 120 g 冰 / 95 °C 热水 230 g / 目标总时间 2:50–3:10。",
+        "为 11/28 EX8 对照实验给出冷萃配方：Giant Steps 50 g + 冷的过滤水 265 g（1:5.3），冰箱浸泡约 16 小时，1:1 兑水。",
+        "新闻：Sprudge 11/26 在 X 上宣布年度奖项（Best New Cafe、Notable Roaster 等）开放提名；Blue Bottle 11/25 在 X 上重新上架越南 Quang Tri 96B Excelsa 日晒豆（非阿拉比卡，仅线上）。"
+      ]
+    },
     {
       "date": "2026-11-26",
       "items": [

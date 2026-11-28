@@ -9,7 +9,7 @@ window.LR_DATA = {
   "meta": {
     "title": "Latent Roast",
     "subtitle": "豪力的咖啡数据实验室",
-    "updated": "2026-11-27",
+    "updated": "2026-11-28",
     "location": "纽约 · 海拔 0 ft"
   },
   "curriculum": {
@@ -3970,6 +3970,80 @@ window.LR_DATA = {
       },
       "image": "images/2026-11-27.png",
       "tag": ""
+    },
+    {
+      "date": "2026-11-28",
+      "code": "EX8",
+      "branch": "萃取原理",
+      "level": "深入",
+      "lesson_no": 55,
+      "title": "Giant Steps：冰冲 vs 冷萃对照实验",
+      "summary": "同一袋 Giant Steps，一杯冰冲、一杯冷萃，并排喝。要让差别只来自「热水还是冷水萃」，得先把另外两件事拉平：喝的温度和浓度（TDS）。UC Davis 就是这样做的：浓度统一到 2%、都冰着喝，结果热萃更苦、更酸、更有橡胶味，冷萃更有花香，但差别比烘焙度和产地带来的小。",
+      "body": "**先想清楚在比什么。** 「冷萃更甜、更低酸」是常见说法，但日常的比较几乎都混了别的变量。UC Davis 的 Batali 团队（2022，Foods）点出两个：一是水温改变萃取速度，冷萃和热萃的浓度往往不一样；二是喝的温度本身就改变味觉。Steen 等（2017，Food Chemistry）发现，31–44 °C 喝时「酸」「甜」更突出，50–62 °C 时「苦」「烘焙味」和整体强度更高。所以一杯冰的、一杯热的去比，比的主要是温度，不是冲法。\n\n**UC Davis 怎么拉平。** 三支生豆 × 浅中深三档烘焙 × 4 °C、22 °C、92 °C 三种水温，全部浸泡到浓度不再上升（4 °C 要 36 小时），再统一兑到 TDS 2%，全部冰到 4 °C 喝，14 位受训品鉴员每杯评三次。结论：热萃更苦、更酸、更有橡胶味；冷萃更有花香；4 °C 和 22 °C 冷萃尝不出差别。深烘时冷萃还多一点「木质」味。但作者自己强调，这些差别**明显小于**烘焙度和产地造成的差别。\n\n**为什么浓度一定要对齐。** 同一团队 2020 年在 Scientific Reports 的研究里，把滴滤的浓度和萃取率固定住，87、90、93 °C 三种水温喝起来几乎没区别；真正左右风味的是浓度和萃取率。换句话说，如果你的冷萃兑得太淡，「更柔和、更不酸」很可能只是「更淡」。\n\n**落到你今天的两杯（估算，未测 TDS）。** 冰冲 30 g 粉、210 g 热水、140 g 冰，按萃取率约 20% 算，成品浓度约 2.0%。冷萃 50 g 粉泡 265 g 水，按萃取率 15–19% 算，原液约 2.8–3.5%（UC Davis 同样 1:5 泡满 36 小时是 3.76%，可作上限参照）。照昨天说的 1:1 兑水，只剩约 1.4–1.75%，比冰冲淡。所以今天主杯改成 **1:0.5**（100 g 原液 + 50 g 水），估算约 2.0%，和冰冲对齐；想看看「淡」本身的影响，再加一杯 1:1 作第三杯。\n\n**事先写下预测，再去喝。** 按文献：冷萃那杯应该少一点苦和偏酸，多一点花香；深烘可能带点木质感；Rao 2020 测到深烘冷萃的褐色化合物只有热冲的约一半，所以 10/2 那种「过度烘焙味」应该更少。但也要准备好另一种结果：两杯几乎分不出来。那同样是答案，说明对这袋深烘拼配，冲法没有烘焙度重要。",
+      "takeaways": [
+        "公平对比要拉平两件事：喝的温度（都冰着、同样的冰）和浓度。不拉平，比出来的是温度和浓淡，不是冲法（Batali 2022；Steen 2017）。",
+        "拉平之后，热萃更苦、更酸、有橡胶味，冷萃更有花香；深烘冷萃多一点木质味。但差别小于烘焙度和产地（Batali 2022）。",
+        "冷萃原液按估算约 2.8–3.5%，1:1 兑水会比冰冲淡。今天主杯兑 1:0.5，先盲测「分不分得出」，再问「喜欢哪杯」。"
+      ],
+      "try_today": "1. 先确认昨晚开泡了没有。泡了：泡满约 16 小时（最多 20–24 小时）就用 Blue Bottle 滤纸过滤，原液放回冰箱。没泡：今天早上照 OR5 的配方开泡（50 g 粉 + 265 g 冷的过滤水，冰箱），对照实验挪到明早。\n2. 冲一杯 Giant Steps 冰冲当对照，配方完全不改：S3 6.3 / 30 g 粉 / 壶里 140 g 冰 / 93 °C 热水共 210 g，注水表见“冲煮日记”。\n3. 兑冷萃：100 g 原液 + 50 g 冷水（1:0.5）。想多看一个变量，再兑一杯 1:1 作第三杯。\n4. 两个一样的杯子，各放同样数量的冰块，倒入约同样的量，等 3 分钟让温度一致。杯底贴纸写 A / B，闭眼把杯子换几次位置。\n5. 先盲喝：每杯小口，中间喝口水。先答「分得出吗」，再写酸感、醇厚度、苦、香气（可用 TA9 五格），最后评分 1–5。看完杯底再揭晓。\n6. 刷牙后至少等 30 分钟再喝。结果语音发我，我记进 Coffee Log。",
+      "try_big": "1:0.5",
+      "sources": [
+        {
+          "label": "Batali et al. (2022) Sensory Analysis of Full Immersion Coffee: Cold Brew Is More Floral, and Less Bitter, Sour, and Rubbery Than Hot Brew · Foods 11(16):2440",
+          "url": "https://www.mdpi.com/2304-8158/11/16/2440",
+          "reliability": "高 · 同行评审；3×3×3 析因设计，统一 TDS 2%、统一 4 °C 饮用，14 位受训品鉴员；全浸泡，不是滴滤冰冲"
+        },
+        {
+          "label": "SCA News · Cold vs. Iced: Using Sensory Analysis to Test the Claim that Cold Brew is Sweeter and Less Acidic（Batali 撰文）",
+          "url": "https://sca.coffee/sca-news/cold-vs-iced-using-sensory-analysis-to-test-the-claim-that-cold-brew-is-sweeter-and-less-acidic-73yf5",
+          "reliability": "中高 · 第一作者给协会写的解读，有平衡 TDS、萃取率、深烘「木质」等细节；非同行评审"
+        },
+        {
+          "label": "Batali et al. (2020) Brew temperature, at fixed brew strength and extraction, has little impact on the sensory profile of drip brew coffee · Scientific Reports",
+          "url": "https://www.nature.com/articles/s41598-020-73341-4",
+          "reliability": "高 · 同行评审；滴滤 87/90/93 °C，固定 TDS 和萃取率后水温几乎无感官影响；温度范围窄，不含冷萃"
+        },
+        {
+          "label": "Steen et al. (2017) Influence of serving temperature on flavour perception and release of Bourbon Caturra coffee · Food Chemistry 219:61–68（摘要页）",
+          "url": "https://researchprofiles.ku.dk/en/publications/influence-of-serving-temperature-on-flavour-perception-and-releas",
+          "reliability": "中高 · 同行评审，但今天只读到摘要；单一豆种，31–62 °C，不含冰饮温度"
+        }
+      ],
+      "illustration_prompt": "Hand-drawn watercolor comic in sketchbook style, ink linework, soft sage green and cream washes, paper texture close to #F4EEE1, 16:9 landscape. A playful home taste-test scene on a wooden kitchen table: two identical clear glasses of iced coffee with the same amount of ice cubes stand side by side, each sitting on a small folded paper card turned face-down to hide which is which. Behind the left glass, a pour-over dripper and a gooseneck kettle with a cheerful steaming face; behind the right glass, a tall glass jar of cold brew with a sleepy face and a tiny moon above it. In front, a cute coffee bean character wearing a little blindfold, holding a spoon and a pencil, with a small notebook open beside it. A thermometer and a small measuring cup of water stand nearby, looking attentive. Gentle humor, objects with expressions. Leave top-left and top-center empty cream paper for speech bubbles. No text, no letters, no numbers anywhere in the image.",
+      "image_alt": "手绘水彩漫画：木桌上两只一模一样的冰咖啡杯并排放着，杯下各压一张翻面的小卡片；左杯后面是滤杯和冒着热气、笑眯眯的手冲壶，右杯后面是一罐冷萃，罐子一脸困倦，头顶一弯小月亮；前面一颗咖啡豆缠着布条、拿着小勺，脚边摊开一本笔记本；旁边温度计和一小杯水认真地看着。",
+      "bubbles": [
+        {
+          "text": "这两杯，\n哪杯是冷萃？",
+          "x": 3,
+          "y": 4,
+          "tail": "left"
+        },
+        {
+          "text": "先拉平温度和浓度，\n再**盲喝**",
+          "x": 30,
+          "y": 4,
+          "tail": "left"
+        }
+      ],
+      "gradient": {
+        "label": "冷萃兑水比例与估算浓度（未测 TDS）",
+        "steps": [
+          {
+            "label": "原液 ≈2.8–3.5%",
+            "color": "#5B4636"
+          },
+          {
+            "label": "1:0.5 ≈2.0%",
+            "color": "#9CAF94"
+          },
+          {
+            "label": "1:1 ≈1.4–1.75%",
+            "color": "#D9BE55"
+          }
+        ]
+      },
+      "image": "images/2026-11-28.png",
+      "tag": ""
     }
   ],
   "beans": [
@@ -3991,21 +4065,22 @@ window.LR_DATA = {
     }
   ],
   "recipe": {
-    "label": "冰冲 · 今日（Devoción 第 2 杯，沿用 11/23 起的比例：冰 120 g / 热水 230 g）",
-    "bean": "devocion-house-honey",
+    "label": "冰冲 · 今日（Giant Steps 对照杯，基准配方不改）",
+    "bean": "giant-steps",
     "dose": 30,
-    "water": 230,
-    "tempC": 95,
-    "grind": "5.9",
+    "water": 210,
+    "tempC": 93,
+    "grind": "6.3",
     "grindPrev": "5.9",
-    "target": "2:50–3:10",
-    "why": "<b>今天只改一个变量：冰和热水的分配。</b>11/21 第 1 杯（140 g 冰 + 210 g 热水）入口不平衡，收尾干苦、没有回甘；但喝前刚刷完牙，那杯只作参考。11/22 定的新比例到今天还没有冲煮记录（11/23 喝的是星巴克，11/24–11/26 也没有新记录），今天继续照它冲：冰减到 <b>120 g</b>，热水加到 <b>230 g</b>，总量还是 350 g。S3 <b>5.9</b>、<b>95 °C</b>、闷蒸 0:45 都不动。<br><br><b>为什么</b>：杯里浓度差不多，但多了 20 g 热水真正参与萃取，萃取比从 1:7 放宽到约 1:7.7，目标是多萃一点甜和醇厚度，让冰化之后不只剩苦的骨架。这就是今日课 RT4 里“萃取比管平衡、饮用比管浓度”的分工。<br><br><b>看什么</b>：壶里剩不剩冰；干苦有没有变少；咽下后有没有回甘。刷牙后至少等 30 分钟再喝。",
+    "target": "2:30–3:00（参考）",
+    "ice": 140,
+    "why": "<b>今天不改变量。</b>这杯是 EX8 对照实验的对照组：它必须是已经定好的冰冲基准（S3 6.3 / 30 g / 140 g 冰 + 93 °C 热水 210 g），另一边才是变量（冷萃）。如果对照杯也动了，就分不清差别来自哪里。<br><br><b>换豆提醒</b>：今天用 Giant Steps，不是 Devoción，所以刻度从 5.9 回到 Giant Steps 的冰冲基准 6.3。深烘豆更容易萃取，刻度粗一点。目标总时间是参考值，这袋豆还没有冰冲记录，冲完记下实际读数。<br><br><b>看什么</b>：和冷萃那杯比苦、偏酸、醇厚度、香气；先盲喝，再揭晓。",
     "prep": [
       "S3 归零：把外圈顺时针转到底，让“0”对准红标。",
-      "把外圈<b>逆时针转到 5.9</b>（和上一杯相同）。",
-      "磨 30 g Devoción。",
-      "把 Fellow 设到 <b>95 °C</b>。",
-      "分享壶里先放 <b>120 g 冰</b>。",
+      "把外圈<b>逆时针转到 6.3</b>（Giant Steps 冰冲基准）。",
+      "磨 30 g Giant Steps。",
+      "把 Fellow 设到 <b>93 °C</b>。",
+      "分享壶里先放 <b>140 g 冰</b>。",
       "把 Blue Bottle 滤纸放进滤杯，滤杯架在分享壶上。<b>不要在分享壶上预湿</b>，免得冰提前化。",
       "倒入粉，轻轻铺平，整套放上秤。",
       "按 <b>TARE</b> 归零：之后秤上读数只算热水。",
@@ -4013,56 +4088,55 @@ window.LR_DATA = {
     ],
     "timeline": [
       {
-        "t": "0:00–0:45",
+        "t": "0:00–0:40",
         "action": "闷蒸：开头约 10 秒注到 60 g，然后等。",
         "total": "60 g",
         "kind": "pour"
       },
       {
-        "t": "0:45–1:15",
-        "action": "第 2 段：注到 125 g，然后等。",
-        "total": "125 g",
+        "t": "0:40–1:10",
+        "action": "第 2 段：注到 120 g，然后等。",
+        "total": "120 g",
         "kind": "pour"
       },
       {
-        "t": "1:15–1:45",
-        "action": "第 3 段：注到 180 g，然后等。",
-        "total": "180 g",
+        "t": "1:10–1:40",
+        "action": "第 3 段：注到 170 g，然后等。",
+        "total": "170 g",
         "kind": "pour"
       },
       {
-        "t": "1:45 起",
-        "action": "第 4 段：注到 230 g，停止注水，等滴滤。",
-        "total": "230 g",
+        "t": "1:40 起",
+        "action": "第 4 段：注到 210 g，停止注水，等滴滤。",
+        "total": "210 g",
         "kind": "pour"
       },
       {
-        "t": "2:50–3:10",
-        "action": "滴滤结束。<b>记下这时的计时器读数</b>，它就是总时间。先看壶里还剩不剩冰，再晃匀，倒进装了新冰的杯子。",
-        "total": "230 g + 120 g 冰",
+        "t": "2:30–3:00",
+        "action": "滴滤结束。<b>记下这时的计时器读数</b>，它就是总时间。晃匀，倒进放了冰块的杯子，和冷萃那杯一起等 3 分钟再盲喝。",
+        "total": "210 g + 140 g 冰",
         "kind": "end"
       }
     ],
     "pourNote": "左列是<b>计时器上的时间段</b>，从按下 Timer 开始累计。每段开头先注到目标重量，其余时间是等待滴滤。秤上读数只算热水，冰在 TARE 前已经放好。",
     "ifThen": [
       {
-        "if": "甜变厚、酸变圆，收尾不干",
-        "then": "固定 5.9 / 95 °C / 120 g 冰 + 230 g 热水，记为这包豆的冰冲配方"
+        "if": "盲喝分不出两杯",
+        "then": "对这袋深烘拼配，冲法不是主变量；以后按方便选，冰冲更快"
       },
       {
-        "if": "壶里还剩冰块",
-        "then": "下次冰再减到 <b>100 g</b>、热水加到 250 g（总量不变）"
+        "if": "冷萃明显更柔、苦更少",
+        "then": "Giant Steps 剩下的豆优先做冷萃；1:0.5 和 1:1 哪杯更喜欢，就定哪个兑水比"
       },
       {
-        "if": "还是干苦、没有回甘",
-        "then": "下次调粗到 <b>6.1</b>（2 格），其他不变；有空再冲一杯热的对照"
+        "if": "冰冲那杯偏苦、干",
+        "then": "下次冰冲调粗到 <b>6.5</b>（ROUTINE 基准里的「苦就调粗」），其他不变"
       },
       {
-        "if": "偏酸 / 单薄，总时间 &lt; 2:50",
-        "then": "下次调细到 <b>5.7</b>（2 格），其他不变"
+        "if": "冰冲那杯偏淡、水感",
+        "then": "下次冰冲调细到 <b>6.1</b>，其他不变"
       }
-    ],
-    "ice": 120
+    ]
   },
   "brews": [
     {
@@ -4377,6 +4451,16 @@ window.LR_DATA = {
     ]
   },
   "changelog": [
+    {
+      "date": "2026-11-28",
+      "items": [
+        "推送 Morning Gradient 第 55 课 EX8「Giant Steps：冰冲 vs 冷萃对照实验」（来源：Batali et al. 2022 Foods；SCA News Batali 解读；Batali et al. 2020 Scientific Reports；Steen et al. 2017 Food Chemistry 摘要）。",
+        "配图：方向 A 手绘水彩，路径 images/2026-11-28.png。",
+        "今日冰冲换成 Giant Steps 对照杯，基准配方不改：S3 6.3 / 30 g 粉 / 140 g 冰 / 93 °C 热水 210 g / 参考总时间 2:30–3:00。",
+        "冷萃兑水从 1:1 改成主杯 1:0.5，为了让估算浓度（约 2.0%）和冰冲对齐；1:1 作可选第三杯。",
+        "新闻：PDG 11/27 周报：Global Coffee Awards 欧洲赛立陶宛 Huracán Coffee 总冠军（含植物奶 Flat White 金奖）；美国 11/26 提议对 14 个经济体加关税，巴西、越南、印尼、印度在列，咖啡可能仍豁免；illycaffè 据报考虑 2027 年上市。"
+      ]
+    },
     {
       "date": "2026-11-27",
       "items": [
